@@ -18,4 +18,4 @@ You can also submit a true remix or original creation if you do not wish to recr
 * Darkangel93x ([Twitch](https://twitch.tv/darkangel93x), [Twitter](https://twitter.com/DarkangelTwitch)): [Credits Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit)
 * TrenteR ([Twitch](https://twitch.tv/trenter_tr)): [Credits Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit)
 * DeathBasket: the original BotW Hyrule Castle, BotW Kass Theme, MM Ikana Castle from the Majora's Mask Ranodmizer modified to work properly in Ocarina of Time
-* SPTKira: Added Majora's Mask Fanfares, plus 2 midi import fanfares based on LttP and Zelda 1
+* SPTKira: Added Majora's Mask Sequences and Fanfares
