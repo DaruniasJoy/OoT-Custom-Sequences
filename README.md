@@ -20,3 +20,4 @@ You can also submit a true remix or original creation if you do not wish to recr
 * DeathBasket: the original BotW Hyrule Castle, BotW Kass Theme, Ikana Castle, Groose's Theme, and Snowfield from the Majora's Mask Ranodmizer modified to work properly in Ocarina of Time
 * SPTKira: Added Majora's Mask Sequences and Fanfares
 * ShockinglySane: Added Gruntilda's Lair and more Banjo Kazooie sequences.
+* Doncamilo ([Youtube] (https://www.youtube.com/channel/UCie8do7HeS6yB2ngmoau0Nw)): [Credits Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit)
