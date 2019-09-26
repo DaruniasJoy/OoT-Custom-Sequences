@@ -21,3 +21,4 @@ You can also submit a true remix or original creation if you do not wish to recr
 * SPTKira: Added Majora's Mask Sequences and Fanfares
 * ShockinglySane: Added Gruntilda's Lair and more Banjo Kazooie sequences.
 * Doncamilo ([YouTube](https://www.youtube.com/channel/UCie8do7HeS6yB2ngmoau0Nw)): [Credits Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit)
+* Kevin R. Midna's Lament arrangement, The Lick (Requiem of Spirit Ver.), untitled original composition
