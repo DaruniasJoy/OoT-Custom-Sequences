@@ -26,3 +26,4 @@ You can also submit a true remix or original creation if you do not wish to recr
 * Timmeyto Soup ([Youtube](https://www.youtube.com/user/Timmifutzelchen), [Twitch](https://www.twitch.tv/timmeyto_soup))
 * TheGael95 ([Youtube](https://www.youtube.com/channel/UCiD6DYZSuu7N2302h83pLeQ))
 * MissMissingno
+* DezZival ([Youtube](https://www.youtube.com/channel/UCcz2H4QpuFSyvgIdxSxYVeg))
