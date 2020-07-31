@@ -28,3 +28,4 @@ You can also submit a true remix or original creation if you do not wish to recr
 * MissMissingno
 * DezZival ([Youtube](https://www.youtube.com/channel/UCcz2H4QpuFSyvgIdxSxYVeg))
 * SlyryD 
+* MrMario7788 ([Twitch](https://twitch.tv/mrmario7788))
