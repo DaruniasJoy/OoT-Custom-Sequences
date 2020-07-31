@@ -15,8 +15,9 @@ If you believe a sequence can be better adapted you can either contact the origi
 You can also submit a true remix or original creation if you do not wish to recreate a piece of music entirely.
 
 # Credits
-* Darkangel93x ([Twitch](https://twitch.tv/darkangel93x), [Twitter](https://twitter.com/DarkangelTwitch)): [Credits Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit)
-* TrenteR ([Twitch](https://twitch.tv/trenter_tr)): [Credits Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit)
+* [Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit))
+* Darkangel93x ([Twitch](https://twitch.tv/darkangel93x), [Twitter](https://twitter.com/DarkangelTwitch))
+* TrenteR ([Twitch](https://twitch.tv/trenter_tr))
 * DeathBasket: the original BotW Hyrule Castle, BotW Kass Theme, Ikana Castle, Groose's Theme, and Snowfield from the Majora's Mask Ranodmizer modified to work properly in Ocarina of Time
 * SPTKira: Added Majora's Mask Sequences and Fanfares
 * ShockinglySane: Added Gruntilda's Lair and more Banjo Kazooie sequences.
@@ -29,3 +30,4 @@ You can also submit a true remix or original creation if you do not wish to recr
 * DezZival ([Youtube](https://www.youtube.com/channel/UCcz2H4QpuFSyvgIdxSxYVeg))
 * SlyryD 
 * MrMario7788 ([Twitch](https://twitch.tv/mrmario7788))
+* Nighttime71
