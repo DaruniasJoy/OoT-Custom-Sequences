@@ -31,5 +31,6 @@ You can also submit a true remix or original creation if you do not wish to recr
 * SlyryD 
 * MrMario7788 ([Twitch](https://twitch.tv/mrmario7788))
 * Nighttime71
-* Apasher ([Youtube](https://www.youtube.com/channel/UCvqipEoq2CKQEcP-0MrKtlQ)
+* Apasher ([Youtube](https://www.youtube.com/channel/UCvqipEoq2CKQEcP-0MrKtlQ))
 * DuffleGamer
+* YoshiKyon
