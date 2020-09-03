@@ -14,7 +14,7 @@ If you believe a sequence can be better adapted you can either contact the origi
 
 You can also submit a true remix or original creation if you do not wish to recreate a piece of music entirely.
 
-# Credits
+# Credits 
 * [Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit)
 * Darkangel93x ([Twitch](https://twitch.tv/darkangel93x), [Twitter](https://twitter.com/DarkangelTwitch))
 * TrenteR ([Twitch](https://twitch.tv/trenter_tr))
