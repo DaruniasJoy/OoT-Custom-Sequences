@@ -34,4 +34,4 @@ You can also submit a true remix or original creation if you do not wish to recr
 * Apasher ([Youtube](https://www.youtube.com/channel/UCvqipEoq2CKQEcP-0MrKtlQ))
 * DuffleGamer
 * YoshiKyon
-* FQef ([Twitch](https://twitch.tv/fqef92))
+* FQef ([Twitch](https://twitch.tv/fqef92)) 
