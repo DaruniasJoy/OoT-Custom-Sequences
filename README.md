@@ -35,3 +35,4 @@ You can also submit a true remix or original creation if you do not wish to recr
 * DuffleGamer
 * YoshiKyon
 * FQef ([Twitch](https://twitch.tv/fqef92)) 
+* Kirox
