@@ -13,6 +13,10 @@ The best way to submit your own AudioSeqs is by following the [GitKraken guide o
 If you believe a sequence can be better adapted you can either contact the original author and collaborate on improving it to replace the current one, or submit it as a second AudioSeq and meta file with either a number appended to the end (Song Title-2.seq) or a short identifier such as your/your username's initials. (Song Title-dj.seq)
 
 You can also submit a true remix or original creation if you do not wish to recreate a piece of music entirely.
+# DMCA-Critical Songs
+Until further notice songs that could trigger DMCA-Strikes on any platform wont be added to the repository.
+U can still share them in our Discord. See Information-Tab on the Spreadsheet linked below.
+
 
 # Credits 
 * [Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit)
