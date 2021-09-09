@@ -40,3 +40,4 @@ U can still share them in our Discord. See Information-Tab on the Spreadsheet li
 * YoshiKyon ([Twitch](https://twitch.tv/yoshikyon), [Twitter](https://twitter.com/yoshikyon))
 * FQef ([Twitch](https://twitch.tv/fqef92)) 
 * Kirox
+* Zeldaboy14
