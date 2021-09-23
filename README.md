@@ -33,7 +33,7 @@ U can still share them in our Discord. See Information-Tab on the Spreadsheet li
 * MissMissingno
 * DezZival ([Youtube](https://www.youtube.com/channel/UCcz2H4QpuFSyvgIdxSxYVeg))
 * SlyryD 
-* MrMario7788 ([Twitch](https://twitch.tv/mrmrio7788))
+* MrMario7788 ([Twitch](https://twitch.tv/mrmario7788))
 * Nighttime71
 * Apasher ([Youtube](https://www.youtube.com/channel/UCvqipEoq2CKQEcP-0MrKtlQ))
 * DuffleGamer
