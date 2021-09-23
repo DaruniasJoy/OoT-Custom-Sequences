@@ -47,3 +47,4 @@ U can still share them in our Discord. See Information-Tab on the Spreadsheet li
 * PolyGanon
 * Liamnajor
 * Zeldaboy14
+* Dkdavidlp ([Youtube] (https://www.youtube.com/channel/UCfmNZCRlAflXmiDu2ENB10w)}
