@@ -15,7 +15,7 @@ If you believe a sequence can be better adapted you can either contact the origi
 You can also submit a true remix or original creation if you do not wish to recreate a piece of music entirely.
 # DMCA-Critical Songs
 Until further notice songs that could trigger DMCA-Strikes on any platform wont be added to the repository.
-U can still share them in our Discord. See Information-Tab on the Spreadsheet linked below.
+You can still share them in our [Discord](https://discord.gg/kHKSEjhxSw).
 
 
 # Credits 
