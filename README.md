@@ -44,8 +44,9 @@ You can still share them in our [Discord](https://discord.gg/kHKSEjhxSw).
 * Sirius902
 * Fish_waffle64
 * Bluwiikoon
-* PolyGanon
+* PolyGanon ([Twitch](https://twitch.tv/polyganon))
 * Liamnajor
 * Zeldaboy14
-* Dkdavidlp ([Youtube] (https://www.youtube.com/channel/UCfmNZCRlAflXmiDu2ENB10w)}
+* Dkdavidlp ([Youtube](https://www.youtube.com/channel/UCfmNZCRlAflXmiDu2ENB10w))
 * The Sound Defense
+* Yackole
