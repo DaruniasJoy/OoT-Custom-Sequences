@@ -28,7 +28,7 @@ You can still share them in our [Discord](https://discord.gg/kHKSEjhxSw).
 * Doncamilo ([YouTube](https://www.youtube.com/channel/UCie8do7HeS6yB2ngmoau0Nw))
 * Kevin R. Midna's Lament arrangement, The Lick (Requiem of Spirit Ver.), untitled original composition
 * Delcatty16 ([Twitch](https://twitch.tv/delcatty16)) Dark Cave, Ecruteak City and Hyrule Temple.
-* Timmeyto Soup ([Youtube](https://www.youtube.com/user/Timmifutzelchen), [Twitch](https://www.twitch.tv/timmeyto_soup))
+* NewSoupVi ([Youtube](https://www.youtube.com/user/Timmifutzelchen), [Twitch](https://www.twitch.tv/newsoupvi))
 * TheGael95 ([Youtube](https://www.youtube.com/channel/UCiD6DYZSuu7N2302h83pLeQ))
 * MissMissingno
 * DezZival ([Youtube](https://www.youtube.com/channel/UCcz2H4QpuFSyvgIdxSxYVeg))
