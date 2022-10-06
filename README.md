@@ -16,7 +16,7 @@ You can also submit a true remix or original creation if you do not wish to recr
 # DMCA-Critical Sequences
 Until further notice Sequences that could trigger DMCA-Strikes on any platform wont be added to the repository.
 Copyright Critical Sequences you can share in our [Discord](https://discord.gg/kHKSEjhxSw).
-When i got everything ready they will be found here : [Ganondorfs Organ] (https://github.com/GanondorfsOrgan/Ganondorfs-Organ).
+When i got everything ready they will be found here : [Ganondorfs Organ](https://github.com/GanondorfsOrgan/Ganondorfs-Organ).
 
 
 
