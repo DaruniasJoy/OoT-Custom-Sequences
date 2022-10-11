@@ -13,9 +13,11 @@ The best way to submit your own AudioSeqs is by following the [GitKraken guide o
 If you believe a sequence can be better adapted you can either contact the original author and collaborate on improving it to replace the current one, or submit it as a second AudioSeq and meta file with either a number appended to the end (Song Title-2.seq) or a short identifier such as your/your username's initials. (Song Title-dj.seq)
 
 You can also submit a true remix or original creation if you do not wish to recreate a piece of music entirely.
-# DMCA-Critical Songs
-Until further notice songs that could trigger DMCA-Strikes on any platform wont be added to the repository.
-You can still share them in our [Discord](https://discord.gg/kHKSEjhxSw).
+# DMCA-Critical Sequences
+Until further notice Sequences that could trigger DMCA-Strikes on any platform wont be added to the repository.
+Copyright Critical Sequences you can share in our [Discord](https://discord.gg/kHKSEjhxSw).
+When i got everything ready they will be found here : [Ganondorfs Organ](https://github.com/GanondorfsOrgan/Ganondorfs-Organ).
+
 
 
 # Credits 
@@ -28,6 +30,7 @@ You can still share them in our [Discord](https://discord.gg/kHKSEjhxSw).
 * Doncamilo ([YouTube](https://www.youtube.com/channel/UCie8do7HeS6yB2ngmoau0Nw))
 * Kevin R. Midna's Lament arrangement, The Lick (Requiem of Spirit Ver.), untitled original composition
 * Delcatty16 ([Twitch](https://twitch.tv/delcatty16)) Dark Cave, Ecruteak City and Hyrule Temple.
+* IAmNamedGravy
 * NewSoupVi ([Youtube](https://www.youtube.com/user/Timmifutzelchen), [Twitch](https://www.twitch.tv/newsoupvi))
 * TheGael95 ([Youtube](https://www.youtube.com/channel/UCiD6DYZSuu7N2302h83pLeQ))
 * MissMissingno
@@ -49,4 +52,15 @@ You can still share them in our [Discord](https://discord.gg/kHKSEjhxSw).
 * Zeldaboy14
 * Dkdavidlp ([Youtube](https://www.youtube.com/channel/UCfmNZCRlAflXmiDu2ENB10w))
 * The Sound Defense
+* ocdizzle
+* Volcove
+* Zeraphyr
 * Yackole
+* Joshua8600 ([YouTube](https://www.youtube.com/Joshua8600), [Twitch](http://twitch.tv/Joshua8600))
+* Shijima
+* Dominator_101
+* 3Pills
+* LuigiXHero
+* OwlIsNotACat
+
+* 
