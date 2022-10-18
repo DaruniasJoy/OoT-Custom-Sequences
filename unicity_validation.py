@@ -51,3 +51,4 @@ def compare_song(base_song, song_list):
 
 if __name__ == '__main__':
     validate_song_name_unicity()
+    input("Press Enter to quit")
