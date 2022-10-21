@@ -26,3 +26,8 @@ def song_name_from(root, file):
 
 if __name__ == '__main__':
     generate_song_list()
+    print("song_list.txt file successfully created!")
+    print("Have fun customizing your randomizer! :)")
+    print("")
+    input("Press enter to quit")
+
