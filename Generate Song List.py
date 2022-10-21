@@ -1,8 +1,8 @@
 import os
+import traceback
 
 def generate_song_list():
-
-    if not os.path.exists('/data/Music'):
+    if not os.path.exists('data/Music'):
         print('No data/Music directory found')
         return False
 
