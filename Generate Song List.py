@@ -20,7 +20,7 @@ def generate_song_list():
                 continue
             song_list += '{} key: {}\r\n'.format(subindent, song_name_from(root, f))
 
-    with open('song_list.txt', 'w') as song_list_file:
+    with open('song_list.txt', 'w', encoding='utf-8') as song_list_file:
         song_list_file.write(song_list)
 
 def song_name_from(root, file):
