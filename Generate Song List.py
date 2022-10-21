@@ -20,6 +20,16 @@ def generate_song_list():
                 continue
             song_list += '{} key: {}\r\n'.format(subindent, song_name_from(root, f))
 
+    try:
+        create_song_list_file(song_list)
+    except Exception as e:
+        print("An error occured creating song list")
+        print(traceback.format_exc())
+        return False
+
+    return True
+
+def create_song_list_file(song_list):
     with open('song_list.txt', 'w', encoding='utf-8') as song_list_file:
         song_list_file.write(song_list)
 
