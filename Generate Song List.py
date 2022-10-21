@@ -1,6 +1,11 @@
 import os
 
 def generate_song_list():
+
+    if not os.path.exists('/data/Music'):
+        print('No data/Music directory found')
+        return False
+
     songs = os.walk('data/Music')
 
     song_list = ""
