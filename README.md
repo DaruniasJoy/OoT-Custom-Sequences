@@ -62,5 +62,6 @@ When i got everything ready they will be found here : [Ganondorfs Organ](https:/
 * 3Pills
 * LuigiXHero
 * OwlIsNotACat
-
+* Taximadish
+* Cuphat
 * 
