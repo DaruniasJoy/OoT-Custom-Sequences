@@ -8,12 +8,12 @@ def generate_song_list():
     for root, dirs, files in songs:
         level = root.replace('data/Music', '').count(os.sep)
         indent = ' ' * 4 * (level)
-        song_list += '{}{}\r\n'.format(indent, os.path.basename(root))
+        song_list += '{}- {}\r\n'.format(indent, os.path.basename(root))
         subindent = ' ' * 4 * (level + 1)
         for f in files:
             if '.meta' not in f:
                 continue
-            song_list += '{}{}\r\n'.format(subindent, song_name_from(root, f))
+            song_list += '{} key: {}\r\n'.format(subindent, song_name_from(root, f))
 
     with open('song_list.txt', 'w') as song_list_file:
         song_list_file.write(song_list)
