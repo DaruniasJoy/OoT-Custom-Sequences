@@ -7,6 +7,32 @@ Download [this zip file](https://github.com/DaruniasJoy/OoT-Custom-Sequences/arc
 # Requests
 If there is a song you would like converted to AudioSeq format and added to the repository, feel free to request it [here](https://docs.google.com/forms/d/e/1FAIpQLSe17AuRzGGx7WaaX70hggeAYDD-NmXA9rOI2QIKbPCQIhR2tg/viewform). You can also [open an Issue](https://github.com/DaruniasJoy/OoT-Custom-Sequences/issues/new) and request it there.
 
+# Customize your own Cosmetic file
+
+To get the song list of your current version of the project you can launch the script `Generate Song List.py`, this one will create a `song_list.txt` file with all song sorted by license and the required key to complete in the cosmetic json file.
+
+```txt
+- Music
+    - Kingdom Hearts Series
+        - Kingdom Hearts
+             key: Kingdom Hearts - Dearly Beloved
+             key: Kingdom Hearts - Gummi Ship #1
+             key: Kingdom Hearts - Hollow Bastion
+             key: KH - Dearly Beloved
+             key: Kingdom Hearts - Traverse Town
+             key: Kingdom Hearts - Dive to the Heart
+        - Kingdom Hearts 2
+             key: Kingdom Hearts 2 Final Mix - Sora's Theme
+             key: Kingdom Hearts II - Sinister Sundown
+             key: Kingdom Hearts 2 Final Mix - Cavern of Remembrance
+             key: Kingdom Hearts II - The 13th Struggle
+    - StarTropics
+         key: StarTropics - Miracola Village
+         key: Dungeon - StarTropics
+...
+...
+```
+
 # Submissions
 The best way to submit your own AudioSeqs is by following the [GitKraken guide on the randomizer's wiki](https://wiki.ootrandomizer.com/index.php?title=GitKraken). As long as the AudioSeq works and doesn't have any objectively bad audio issues it will be merged in.
 
