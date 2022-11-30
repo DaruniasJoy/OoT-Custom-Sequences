@@ -31,7 +31,7 @@ def validate_song_name_unicity():
 
 
 def build_meta_file(location, files):
-    meta_path_list = [ location + "/" + file for file in files if ".meta" in file ]
+    meta_path_list = [ location + "/" + file for file in files if file.endswith(".meta") ]
     return [ song_info_from(meta_file_path) for meta_file_path in meta_path_list ]
 
 
