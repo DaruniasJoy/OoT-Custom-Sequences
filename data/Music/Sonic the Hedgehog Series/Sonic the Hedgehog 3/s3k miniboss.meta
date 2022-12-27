@@ -1,4 +1,4 @@
 Sonic the Hedgehog 3 & Knuckles - Minor Boss
 0x03
 bgm
-BigFight,Fight,BossBattle,FireBoss,MinibossBattle
+MinibossBattle,BossBattle,FireBoss,SmallFight,BossFight,BigFight,Fight
