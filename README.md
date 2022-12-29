@@ -7,7 +7,7 @@ Download [this zip file](https://github.com/DaruniasJoy/OoT-Custom-Sequences/arc
 # Requests
 If there is a song you would like converted to AudioSeq format and added to the repository, feel free to request it [here](https://docs.google.com/forms/d/e/1FAIpQLSe17AuRzGGx7WaaX70hggeAYDD-NmXA9rOI2QIKbPCQIhR2tg/viewform). You can also [open an Issue](https://github.com/DaruniasJoy/OoT-Custom-Sequences/issues/new) and request it there.
 
-#Issues with Sequences
+# Issues with Sequences
 
 Should you find yourself or in a stream that a track is too loud or too quiet, please also feel free to either [open an Issue](https://github.com/DaruniasJoy/OoT-Custom-Sequences/issues/new) or contact us in [Discord](https://discord.gg/EVpd499gkS) in the appropiate channel.
 
