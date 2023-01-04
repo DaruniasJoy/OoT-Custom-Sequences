@@ -7,6 +7,10 @@ Download [this zip file](https://github.com/DaruniasJoy/OoT-Custom-Sequences/arc
 # Requests
 If there is a song you would like converted to AudioSeq format and added to the repository, feel free to request it [here](https://docs.google.com/forms/d/e/1FAIpQLSe17AuRzGGx7WaaX70hggeAYDD-NmXA9rOI2QIKbPCQIhR2tg/viewform). You can also [open an Issue](https://github.com/DaruniasJoy/OoT-Custom-Sequences/issues/new) and request it there.
 
+# Issues with Sequences
+
+Should you find yourself or in a stream that a track is too loud or too quiet, please also feel free to either [open an Issue](https://github.com/DaruniasJoy/OoT-Custom-Sequences/issues/new) or contact us in [Discord](https://discord.gg/EVpd499gkS) in the appropiate channel.
+
 # Customize your own Cosmetic file
 
 To get the song list of your current version of the project you can launch the script `Generate Song List.py`, this one will create a `song_list.txt` file with all song sorted by license and the required key to complete in the cosmetic json file.
@@ -59,8 +63,7 @@ We have created a standard list of default music groups that we are recommending
 
 # DMCA-Critical Sequences
 Until further notice Sequences that could trigger DMCA-Strikes on any platform wont be added to the repository.
-Copyright Critical Sequences you can share in our [Discord](https://discord.gg/kHKSEjhxSw).
-When i got everything ready they will be found here : [Ganondorfs Organ](https://github.com/GanondorfsOrgan/Ganondorfs-Organ).
+Copyright Critical Sequences you can share here : [Ganondorfs Organ](https://github.com/GanondorfsOrgan/Ganondorfs-Organ).
 
 
 
