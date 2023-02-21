@@ -1,0 +1,4 @@
+Sonic the Hedgehog - Chaos Emerald
+0x03
+Fanfare
+ItemGet,HeartContainerGet,SpiritStoneGet,HeartPieceGet,MedallionGet,LearnSong,ItemFanfare,EventFanfare

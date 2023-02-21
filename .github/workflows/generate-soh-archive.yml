@@ -1,0 +1,26 @@
+name: Generate SoH Archive
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "**" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Generate SoH archive
+      run: |
+        cd data
+        wget https://github.com/leggettc18/SequenceOTRizer/releases/download/v0.2/SequenceOTRizer-0.2-Linux.tar.gz
+        tar -xzvf SequenceOTRizer-0.2-Linux.tar.gz
+        ./SequenceOTRizer --seq-path Music --otr-name daruniasjoy
+
+    - name: Upload generated daruniasjoy.otr
+      uses: actions/upload-artifact@v3
+      with:
+        name: daruniasjoy.otr
+        path: data/mods
