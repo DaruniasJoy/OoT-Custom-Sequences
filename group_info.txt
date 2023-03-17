@@ -1,0 +1,556 @@
+========
+BGM info
+========
+
+HyruleField: 62 songs (1 needed for coverage)
+LostWoods: 57 songs (1 needed for coverage)
+GerudoValley: 70 songs (1 needed for coverage)
+Market: 75 songs (1 needed for coverage)
+KakarikoChild: 72 songs (1 needed for coverage)
+KakarikoAdult: 79 songs (1 needed for coverage)
+LonLonRanch: 50 songs (1 needed for coverage)
+KokiriForest: 77 songs (1 needed for coverage)
+GoronCity: 57 songs (1 needed for coverage)
+ZorasDomain: 77 songs (1 needed for coverage)
+CastleCourtyard: 24 songs (1 needed for coverage)
+HorseRace: 42 songs (1 needed for coverage)
+Mini-game: 39 songs (1 needed for coverage)
+ShootingGallery: 54 songs (1 needed for coverage)
+FairyFountain: 52 songs (1 needed for coverage)
+TempleOfTime: 44 songs (1 needed for coverage)
+ChamberOfTheSages: 52 songs (1 needed for coverage)
+House: 36 songs (1 needed for coverage)
+Shop: 32 songs (1 needed for coverage)
+PotionShop: 44 songs (1 needed for coverage)
+WindmillHut: 55 songs (1 needed for coverage)
+InsideDekuTree: 68 songs (1 needed for coverage)
+DodongosCavern: 69 songs (1 needed for coverage)
+JabuJabu: 61 songs (1 needed for coverage)
+ForestTemple: 83 songs (1 needed for coverage)
+FireTemple: 78 songs (1 needed for coverage)
+IceCavern: 79 songs (1 needed for coverage)
+WaterTemple: 75 songs (1 needed for coverage)
+SpiritTemple: 85 songs (1 needed for coverage)
+ShadowTemple: 77 songs (1 needed for coverage)
+CastleUnderground: 62 songs (1 needed for coverage)
+CastleEscape: 32 songs (1 needed for coverage)
+Battle: 77 songs (1 needed for coverage)
+MinibossBattle: 91 songs (1 needed for coverage)
+BossBattle: 102 songs (1 needed for coverage)
+FireBoss: 103 songs (1 needed for coverage)
+GanondorfBattle: 76 songs (1 needed for coverage)
+GanonBattle: 74 songs (1 needed for coverage)
+TitleTheme: 50 songs (1 needed for coverage)
+ZeldaTheme: 25 songs (1 needed for coverage)
+SheikTheme: 35 songs (1 needed for coverage)
+DekuTree: 46 songs (1 needed for coverage)
+KaeporaGaebora: 47 songs (1 needed for coverage)
+FairyFlying: 29 songs (1 needed for coverage)
+GanondorfTheme: 48 songs (1 needed for coverage)
+KotakeAndKoume: 51 songs (1 needed for coverage)
+IngoTheme: 22 songs (1 needed for coverage)
+Fields: 80 songs (3 needed for coverage)
+Town: 109 songs (8 needed for coverage)
+Fun: 56 songs (3 needed for coverage)
+MagicalPlace: 62 songs (3 needed for coverage)
+SalesArea: 40 songs (2 needed for coverage)
+ChildDungeon: 79 songs (3 needed for coverage)
+AncientDungeon: 93 songs (2 needed for coverage)
+MysticalDungeon: 108 songs (3 needed for coverage)
+SpookyDungeon: 94 songs (3 needed for coverage)
+SmallFight: 93 songs (2 needed for coverage)
+BossFight: 103 songs (2 needed for coverage)
+FinalFight: 77 songs (2 needed for coverage)
+HeroTheme: 42 songs (6 needed for coverage)
+VillainTheme: 55 songs (3 needed for coverage)
+Outdoors: 152 songs (13 needed for coverage)
+Indoors: 87 songs (8 needed for coverage)
+AdultDungeon: 136 songs (8 needed for coverage)
+BigFight: 113 songs (4 needed for coverage)
+Overworld: 179 songs (21 needed for coverage)
+Dungeon: 140 songs (11 needed for coverage)
+Fight: 117 songs (6 needed for coverage)
+CharacterTheme: 41 songs (9 needed for coverage)
+
+The following songs have invalid group data:
+	Final Fantasy XIII - The Sunleth Waterscape
+	Metroid Prime - Tallon Overworld
+
+The following songs have no group data:
+	Castlevania III: Dracula's Curse - Overture
+	Diddy Kong Racing - Ancient Lake
+	Diddy Kong Racing - Boss Race
+	Diddy Kong Racing - Everfrost Peak
+	Diddy Kong Racing - Spacedust Alley
+	Diddy Kong Racing - Spaceport Alpha
+	Diddy Kong Racing - Wizpig Challenge
+	Donkey Kong 64 - Army Dillo (Jungle Japes)
+	Donkey Kong 64 - Army Dillo (Crystal Caves)
+	Donkey Kong 64 - Frantic Factory
+	Donkey Kong 64 - Hideout Helm
+	Donkey Kong 64 - Mad Jack
+	Donkey Kong 64 - Minigame
+	Donkey Kong Country - Simian Segue
+	Donkey Kong Country 2: Diddy's Kong Quest - Jib Jig
+	Donkey Kong Country 2: Diddy's Kong Quest - Krooks March
+	Ducktales - Moon Theme v.2
+	Final Fantasy II [SNES] - Enemy Encounter (Joshua8600's Version) (Updated)
+	Final Fantasy II - Main Theme
+	Final Fantasy IV - Into the Darkness
+	Final Fantasy IV - The Prelude
+	Final Fantasy IV - The Red Wings
+	Final Fantasy IV - Welcome to our town
+	Final Fantasy IV - Within the Giant
+	Final Fantasy IX - Crystal World
+	Final Fantasy Mystic Quest - Battle
+	Final Fantasy Mystic Quest - Boss
+	Final Fantasy VI - Celes
+	Final Fantasy VI - Devil's Lab
+	Final Fantasy VI - The Phantom Forest
+	Final Fantasy 6 - Searching for Friends
+	Final Fantasy VII - Ahead on our Way
+	Final Fantasy VII - Anxious Heart
+	Final Fantasy VII - Cid's Theme
+	Final Fantasy VII - Farm Boy
+	Final Fantasy VII - Fiddle de Chocobo
+	Final Fantasy VII - Forested Temple
+	Final Fantasy VII - Highwind takes to the Skies
+	Final Fantasy VII - Holding my Thoughts in my Heart
+	Final Fantasy VII - On That Day Five Years Ago
+	Final Fantasy VII - Prelude v2
+	Final Fantasy VII - Prelude
+	Final Fantasy VII - Tifa's Theme
+	Final Fantasy VIII - Balamb Garden
+	Final Fantasy VIII - Fisherman's Horizon
+	Final Fantasy VIII - Love Grows
+	Final Fantasy X - Battle
+	Final Fantasy X - Path of Repentance
+	Final Fantasy XII - To The Place Of Gods
+	Fire Emblem - Celica Map 1
+	Fire Emblem - Disturbance In Agustria
+	Fire Emblem - Power Hungry Fool
+	Fire Emblem Fates - Dusk Falls
+	Fire Emblem Fates - Lost In Thoughts All Alone (PG)
+	Fire Emblem Fates - Lost in Thoughts All Alone (Fixed)
+	Fire Emblem Fates - Road Taken
+	Fire Emblem Heroes - Lonely Puppeteer Spring (Remix)
+	Fire Emblem: Three Houses - Fodlan Winds
+	Fire Emblem: Three Houses - Funeral Of Flowers
+	Fire Emblem: Three Houses - God-Shattering Star
+	Fire Emblem: Three Houses - Life At Garreg Mach
+	Fire Emblem: Three Houses - Tearing Through Heaven
+	Golden Sun - Battle Theme (Joshua8600's Version)
+	Golden Sun - Colosso Battle
+	Golden Sun - Elemental Stars
+	Golden Sun - Saturos Battle v2
+	Golden Sun - Saturos Battle
+	Golden Sun - Venus Lighthouse
+	Golden Sun 2 - Jenna Battle Theme (Joshua8600's Version)
+	Golden Sun: Dark Dawn - Battle Theme
+	Golden Sun: Dark Dawn - Map Theme
+	Kingdom Hearts - Dearly Beloved V2
+	Kingdom Hearts - Dearly Beloved
+	Kingdom Hearts - Dive to the Heart
+	Kingdom Hearts - Gummi Ship #1
+	Kingdom Hearts - Hollow Bastion
+	Kingdom Hearts - Traverse Town
+	Kingdom Hearts II Final Mix - Cavern of Remembrance
+	Kingdom Hearts II - Sinister Sundown
+	Kingdom Hearts II Final Mix - Sora's Theme
+	Kingdom Hearts II - The 13th Struggle
+	Kirby Super Star - Vs Marx
+	Live-A-Live - Megalomania v2
+	Mario Kart 64 - Choco Mountain
+	Mario Kart 64 - Frappe Snowland
+	Mario Kart 64 - Koopa Troopa Beach
+	Mario Kart 64 - Rainbow Road
+	Mario Kart 64 - Yoshi's Valley
+	Mario Kart Wii - Coconut Mall
+	Mario Kart Wii - Maple Treeway
+	Mario Kart: Double Dash!! - Baby Park
+	Mario Kart: Double Dash!! - Peach Beach
+	Mario Kart: Double Dash!! - Rainbow Road
+	Mario Kart: Double Dash!! - Waluigi Stadium
+	Mega Man 2 - Wood Man
+	Mega Man 3 - Shadow Man
+	Mega Man 3 - Title
+	Mega Man 6 - Final Boss
+	Mega Man 9 - Final Boss
+	Mega Man 9 - Galaxy Man
+	Mega Man 9 - Hornet Man
+	Mega Man 9 - We Are the Robots
+	Mega Man X - Armored Armadillo v2
+	Mega Man X - Armored Armadillo
+	Mega Man X - Spark Mandrill
+	Mega Man X - Sting Chameleon
+	Mega Man X - Storm Eagle
+	Mii Channel
+	Minecraft - Sweden
+	Spider-Man 2 - Pizza Theme
+	Thomas the Tank Engine -Main Theme
+	Wii Shop Channel
+	Metroid - Brinstar
+	Metroid - Kraid's Lair
+	Metroid II: Return of Samus - Surface of SR388
+	Metroid Fusion - Sector 1
+	Metroid Fusion - Sector 2
+	Metroid Fusion - Sector 3
+	Metroid Fusion - Sector 4
+	Metroid Fusion - Sector 5
+	Metroid Fusion - Serris
+	Metroid Prime - Frigate
+	Metroid Prime - Hive Totem
+	Metroid Prime - Magmoor Caverns
+	Metroid Prime - Menu/Credits
+	Metroid Prime 2: Echoes - Emperor Ing (Phase 2)
+	Metroid Prime 2: Echoes - Sanctuary Fortress
+	Metroid Prime 2: Echoes - Title Theme
+	Metroid Prime 2: Echoes - Torvus Bog
+	Metroid Prime 3: Corruption - Bryyo
+	Metroid Prime Hunters - Alinos Multiplayer
+	Metroid Prime Hunters - Arcterra Multiplayer
+	Metroid Prime Hunters - Arcterras Depths
+	Metroid Prime Hunters - Celestial Archives
+	Metroid: Zero Mission - Ridleys Hideout
+	Metroid: Zero Mission - Tourian
+	Super Metroid - Brinstar 1
+	Super Metroid - Crateria Arrival
+	Super Metroid - Crateria
+	Super Metroid - Green Brinstar
+	Super Metroid - Landing Site
+	Super Metroid - Lower Norfair
+	Super Metroid - Maridias Depths Remix
+	Super Metroid - Maridias Depths
+	Super Metroid - Maridia
+	Super Metroid - Norfair
+	Untitled Piano Piece (©2017, 2019 kwrotunni)
+	We wish you a Merry Christmas
+	Windows OS - Town (Joshua8600's Version)
+	Monkey Island 2 - The Swamp
+	Monkey Island 2 - Theme v1
+	Monkey Island 2 - Theme (Version 2)
+	Monkey Island 2 - Theme (Version 3)
+	Monkey Island 2 - Theme
+	The Secret of Monkey Island - The Scumm Bar
+	The Secret of Monkey Island - Theme
+	Pokémon Black/White - Accumula Town
+	Pokémon Black/White - Battle! Team Plazma
+	Pokémon Black/White - Bicycle
+	Pokémon Black/White - Gym Leaders Last Stand!
+	Pokémon Black/White - Gym Theme
+	Pokémon Black/White - Low HP
+	Pokémon XD - Miror B Battle
+	Pokémon Diamond/Pearl/Platinum - Battle! Tower Tycoon
+	Pokémon Diamond/Pearl/Platinum - Canalave City
+	Pokémon Diamond/Pearl/Platinum - Gym Theme
+	Pokémon Diamond/Pearl/Platinum - Lake Trio Battle
+	Pokémon Diamond/Pearl/Platinum - Mt Cornet
+	Pokémon Diamond/Pearl/Platinum - Route 210
+	Pokémon Gold/Silver/Crystal - Dark Cave
+	Pokémon Gold/Silver/Crystal - Ecruteak City
+	Pokémon Gold/Silver/Crystal - Lake of Rage
+	Pokémon Gold/Silver/Crystal - Lucky Number ShowGoldenrod Game Corner
+	Pokémon Gold/Silver/Crystal - Surfing
+	Pokémon HeartGold/SoulSilver - Battle! Gym Leader
+	Pokémon HeartGold/SoulSilver - Battle! Kyogre & Groudon
+	Pokémon HeartGold/SoulSilver - Battle! Lugia
+	Pokémon HeartGold/SoulSilver - Battle! Red
+	Pokémon HeartGold/SoulSilver - Champion Battle
+	Pokémon HeartGold/SoulSilver - Champion
+	Pokémon HeartGold/SoulSilver - Cianwood City
+	Pokémon HeartGold/SoulSilver - Gym Theme
+	Pokémon HeartGold/SoulSilver - Poke Center
+	Pokémon HeartGold/SoulSilver - Route 30
+	Pokémon HeartGold/SoulSilver - Route 42
+	Pokémon Legends: Arceus - Pokémon Wielder Volo
+	Pokémon Omega Ruby / Alpha Sapphire - Battle! Zinnia
+	Pokémon Omega Ruby / Alpha Sapphire - Pokémon Center
+	Pokémon Red/Blue/Yellow - Battle! Champion Blue
+	Pokémon Red/Blue/Yellow - Cycling
+	Pokémon Red/Blue/Yellow - Lavender Town
+	Pokémon Red/Blue/Yellow - Route 1
+	Pokémon Ruby/Sapphire/Emerald - Abandoned Ship
+	Pokémon Ruby/Sapphire/Emerald - Battle Kyogre Groudon
+	Pokémon Ruby/Sapphire/Emerald - Sealed Chamber
+	RuneScape - Al Kharid
+	Scape Original
+	Sea Shanty 2
+	Shadow the Hedgehog - I Am All Of Me
+	Sonic the Hedgehog (8 Bit) - Bridge Zone
+	Sonic Advance 2 - Egg Utopia act 1
+	Sonic Advance 2 - Egg Utopia act 2
+	Sonic Advance 2 - Final Boss
+	Sonic Advance 3 - Boss
+	Sonic Adventure 2 (Battle) - Chao Garden
+	Sonic Forces - Theme of Infinite
+	Sonic Generations - Green Hill - Act 2 (Modern)
+	Sonic Heroes - Grand Metropolis
+	Sonic Heroes - Mystic Mansion
+	Sonic Heroes - Seaside Medley (3P)
+	Sonic Mania - Flying Battery Zone (Act 1)
+	Sonic Mania - Green Hill Zone (Act 2)
+	Sonic Mania - Studiopolis Zone (Act 1)
+	Sonic Mania - Studiopolis Zone (Act 2)
+	Sonic Mega Collection - Options / Extras Menu
+	Sonic Spinball - Toxic Caves (3P)
+	Sonic the Hedgehog - Special Stage
+	Sonic the Hedgehog 2 - Aquatic Ruin Zone
+	Sonic the Hedgehog 2 - Boss Fight
+	Sonic the Hedgehog 2 - Final Boss
+	Sonic the Hedgehog 2 - Metropolis Zone
+	Sonic the Hedgehog 2 - Mystic Cave Zone
+	Sonic the Hedgehog 3 & Knuckles - Act 2 Boss
+	Sonic the Hedgehog 3 & Knuckles - Angel Island Act 1
+	New Super Mario Bros Wii - Volcano
+	Super Mario 64 - File Select
+	Super Mario 64 - Jolly Roger Bay
+	Super Mario 64 - Koopa's Road
+	Piranha Plant Lullaby
+	Super Mario 64 - Slider
+	Super Mario 64 - Ultimate Bowser
+	Super Mario Bros Deluxe - Underwater
+	Super Mario Galaxy - Battlerock Galaxy
+	Super Mario Galaxy - Buoy Base Galaxy
+	Super Mario Galaxy - Gusty Garden Galaxy
+	Speedy Comet - Mario Galaxy 2
+	Super Mario Land 2 - Castle
+	Super Mario Maker 2 - Super Mario World (Desert)
+	Super Mario Odyssey - Fossil Falls (Cascade Kingdom Main Theme)
+	Super Mario Odyssey - Fossil Falls
+	Super Mario RPG - Forest Maze
+	Delfino Plaza
+	Super Mario World - Forest of Illusion
+	Super Mario World - Ghosthouse
+	Super Smash Bros - Dream Land
+	SSBB OOT Medley
+	Donkey Kong Country 2 & Super Smash Bros Brawl - Stickerbush Symphony
+	Super Smash Bros. Melee - Menu 1
+	Super Smash Bros. Melee, Super Smash Bros. Brawl - Menu 2
+	Smash Bros Melee - Temple
+	Super Smash Flash 2 - Menu 0.9
+	Morrowind - Main Theme
+	The Legend of Zelda: A Link Between worlds - Lorule Castle
+	The Legend of Zelda: A Link to the Past - Black Mist
+	The Legend of Zelda: A Link to the Past - Boss Battle
+	The Legend of Zelda: A Link to the Past - Cave
+	The Legend of Zelda: A Link to the Past - Dark Overworld
+	The Legend of Zelda: A Link to the Past - Dark World V2
+	The Legend of Zelda: A Link to the Past - Dark World
+	The Legend of Zelda: A Link to the Past - Death Mountain
+	The Legend of Zelda: A Link to the Past - Fortune Teller
+	The Legend of Zelda: A Link to the Past - Ganon Battle
+	The Legend of Zelda: A Link to the Past - Hyrule Field Main Theme
+	The Legend of Zelda: A Link to the Past - Hyrule Castle
+	The Legend of Zelda: A Link to the Past - Minigame
+	The Legend of Zelda: A Link to the Past - Mysterious Forest
+	The Legend of Zelda: A Link to the Past - Sanctuary
+	The Legend of Zelda: A Link to the Past - Seal of Seven Maidens
+	The Legend of Zelda: A Link to the Past - Time of Falling Rain
+	The Legend of Zelda: Breath of the Wild - 2017 Switch Presentation Trailer
+	The Legend of Zelda: Breath of the Wild - Hyrule Castle Theme
+	The Legend of Zelda: Breath of the Wild - Kass Theme
+	The Legend of Zelda: Four Swords Adventures - Overworld
+	The Legend of Zelda: A Link to the Past / Four Swords - Sea of Trees
+	Hyrule Warriors - Eclipse of the Moon
+	Hyrule Warriors: Age of Calamity - Growing Sorrow
+	The Legend of Zelda: Link's Awakening - Face Shrine
+	The Legend of Zelda: Majora's Mask - Battle Theme (SPT)
+	The Legend of Zelda: Majora's Mask - Boss Fight (SPT)
+	The Legend of Zelda: Majora's Mask - Bremen March
+	The Legend of Zelda: Majora's Mask - Chasing Theme (SPT)
+	The Legend of Zelda: Majora's Mask - Clock Tower
+	The Legend of Zelda: Majora's Mask - Clocktown Day 1 (AP)
+	The Legend of Zelda: Majora's Mask - Deku Palace
+	The Legend of Zelda: Majora's Mask - Final Boss Phase 3 (AP)
+	The Legend of Zelda: Majora's Mask - Final Hours
+	The Legend of Zelda: Majora's Mask - Four Giants (AP)
+	The Legend of Zelda: Majora's Mask - Ikana Castle (AP)
+	The Legend of Zelda: Majora's Mask - Inverted Stone Tower Dungeon (SPT)
+	The Legend of Zelda: Majora's Mask - Mayor Office (AP)
+	The Legend of Zelda: Majora's Mask - Melody of Darkness (SPT)
+	The Legend of Zelda: Majora's Mask - Mini Boss Battle (SPT)
+	The Legend of Zelda: Majora's Mask - Music Box House (SPT)
+	The Legend of Zelda: Majora's Mask - Pirates' Fortress
+	The Legend of Zelda: Majora's Mask - Snowfield (DB)
+	The Legend of Zelda: Majora's Mask - Song of Healing
+	The Legend of Zelda: Majora's Mask - Souther Swamp (SPT)
+	The Legend of Zelda: Majora's Mask - Stone Tower Temple (AP)
+	The Legend of Zelda: Majora's Mask - Termina Field (SPT)
+	The Legend of Zelda: Ocarina of Time - Angel Teardrops (Song of Storms Remix)
+	The Legend of Zelda: Ocarina of Time - Fire Temple (v1.2)
+	The Legend of Zelda: Ocarina of Time - Hyrule Field (Old Version)
+	The Legend of Zelda: Ocarina of Time - Reversed Shooting Gallery Remix
+	The Legend of Zelda: Oracle of Ages - Ancient Tomb
+	The Legend of Zelda: Oracale of Ages/Seasons - Ganon
+	The Legend of Zelda: Oracle of Ages - Sea Of No Return
+	The Legend of Zelda: Oracle of Ages - The Black Tower
+	The Legend of Zelda: Oracle of Seasons - Dancing Dragon Dungeon
+	The Legend of Zelda: Oracle of Seasons - Snake's Remains
+	The Legend of Zelda: Oracle of Seasons - Temple Ruins
+	The Legend of Zelda: Feesh Mode - High Noon
+	The Legend of Zelda: Feesh Mode - The Eleventh Hour
+	The Legend of Zelda: Phantom Hourglass - Bellumbeck Fight
+	The Legend of Zelda: Phantom Hourglass - Boss Fight
+	The Legend of Zelda: Phantom Hourglass - Great Sea
+	The Legend of Zelda: Phantom Hourglass - Uncharted Territory
+	The Legend of Zelda: Phantom Hourglass - Vs Ghost Ship
+	The Legend of Zelda: Skyward Sword - Groose Theme (Deathbasket)
+	The Legend of Zelda: Spirit Tracks - Ascend The Tower
+	The Legend of Zelda: Spirit Tracks - Castle Town
+	The Legend of Zelda: Spirit Tracks - Cragma Theme
+	The Legend of Zelda: Spirit Tracks - Credits
+	The Legend of Zelda: Spirit Tracks - Dark Realm Tear Of Light
+	The Legend of Zelda: Spirit Tracks - Dark Realm
+	The Legend of Zelda: Spirit Tracks - Fraaz
+	The Legend of Zelda: Spirit Tracks - Mallace Lullaby
+	The Legend of Zelda: Spirit Tracks - Malladus Fight Phase 2
+	The Legend of Zelda: Spirit Tracks - Malladus Fight Phase 3
+	The Legend of Zelda: Spirit Tracks - Mini Boss Battle
+	The Legend of Zelda: Spirit Tracks - Outpost
+	The Legend of Zelda: Spirit Tracks - Phantom Seen
+	The Legend of Zelda: Spirit Tracks - Stagnox Theme
+	The Legend of Zelda: Spirit Tracks - Title Screen
+	The Legend of Zelda: Spirit Tracks - Tower of Spirits Dungeon Theme
+	The Legend of Zelda: Spirit Tracks - Under Water
+	The Legend of Zelda: Spirit Tracks - Vs Bryne
+	The Legend of Zelda: Spirit Tracks - Zelda Escape
+	The Fate of the Bombiwa - Mysterious Lair
+	The Fate of the Bombiwa - Pureheart Castle
+	The Fate of the Bombiwa - Royal Test
+	The Legend of Zelda - Dungeon Theme
+	The Legend of Zelda: The Minish Cap - Dark Hyrule Castle
+	The Legend of Zelda: The Minish Cap - Peace Returns
+	The Legend of Zelda: The Minish Cap - Temple Of Droplets
+	The Legend of Zelda: The Missing Link - Monktown Valley Peaceful
+	The Legend of Zelda: The Missing Link - Monktown Valley
+	The Legend of Zelda: The Wind Waker - Dragon Roost Island
+	The Legend of Zelda: The Wind Waker - Earthgod
+	The Legend of Zelda: The Wind Waker - Molgera Battle
+	The Legend of Zelda: The Wind Waker - Outset Island
+	The Legend of Zelda: The Wind Waker - Overworld
+	The Legend of Zelda: The Wind Waker - Windfall Island
+	The Legend of Zelda: Twilight Princess - Short
+	The Legend of Zelda: Twilight Princess - Kokiri Forest Savedv2
+	The Legend of Zelda: Twilight Princess - Kakariko Village
+	The Legend of Zelda: Twilight Princess - Lake Hylia
+	The Legend of Zelda: Twilight Princess - Midna's Lament (arr. Kevin R.)
+	The Legend of Zelda: Twilight Princess - Near Enemy
+	The Legend of Zelda: Twilight Princess - Night
+	The Legend of Zelda: Twilight Princess - Ordon Village
+	The Legend of Zelda: Twilight Princess - Palace of Twilight
+	The Legend of Zelda: Twilight Princess - Sacred Cove by Zeldaboy14
+	Zelda II: The Adventure of Link - Battle
+	Zelda II: The Adventure of Link - Great Palace
+	Zelda II: The Adventure of Link - House
+	Zelda II: The Adventure of Link - Temple
+	Zelda II: The Adventure of Link - Town
+	The Legend of Zelda: Wand of Gamelon - Dodomai Palace ~ Hectan's Stand
+	Xenoblade Chronicles - Main Theme
+	Xenoblade Chronicles - Mechanical Rhythm
+	Xenoblade Chronicles - Satorl Marsh (Night)
+	Xenoblade Chronicles - Tragic Decision
+	Xenoblade Chronicles - You Will Know Our Names
+	Xenoblade Chronicles 2 - Battle!! (Battle Theme 1)
+	Xenoblade Chronicles 2 - Bringer Of Chaos! Ultimate
+	Xenoblade Chronicles 2 - Counterattack
+	Xenoblade Chronicles 2 - Drifting Souls
+	Xenoblade Chronicles 2 - Gormott Province (Day)
+	Xenoblade Chronicles 2 - Land Of Morytha
+	Xenoblade Chronicles 2 - Leftherian Archipelago (Day)
+	Xenoblade Chronicles 2 - Monster Surprise
+	Xenoblade Chronicles 2 - Tantal (Day)
+	Xenoblade Chronicles 2 - Wanted Nia
+
+============
+Fanfare info
+============
+
+ItemGet: 33 songs (1 needed for coverage)
+HeartContainerGet: 24 songs (1 needed for coverage)
+SpiritStoneGet: 13 songs (1 needed for coverage)
+HeartPieceGet: 19 songs (1 needed for coverage)
+MedallionGet: 11 songs (1 needed for coverage)
+LearnSong: 16 songs (1 needed for coverage)
+BossDefeated: 24 songs (1 needed for coverage)
+EponaRaceGoal: 16 songs (1 needed for coverage)
+EscapeFromRanch: 12 songs (1 needed for coverage)
+TreasureChest: 3 songs (1 needed for coverage)
+MasterSword: 13 songs (1 needed for coverage)
+DoorOfTime: 4 songs (1 needed for coverage)
+ZeldaTurnsAround: 9 songs (1 needed for coverage)
+GanondorfAppears: 2 songs (1 needed for coverage)
+GameOver: 7 songs (1 needed for coverage)
+PreludeOfLight: 5 songs (1 needed for coverage)
+BoleroOfFire: 2 songs (1 needed for coverage)
+MinuetOfForest: 2 songs (1 needed for coverage)
+SerenadeOfWater: 2 songs (1 needed for coverage)
+RequiemOfSpirit: 3 songs (1 needed for coverage)
+NocturneOfShadow: 3 songs (1 needed for coverage)
+ZeldasLullaby: 4 songs (1 needed for coverage)
+EponasSong: 5 songs (1 needed for coverage)
+SariasSong: 4 songs (1 needed for coverage)
+SunsSong: 6 songs (1 needed for coverage)
+SongOfTime: 7 songs (1 needed for coverage)
+SongOfStorms: 4 songs (1 needed for coverage)
+ItemFanfare: 38 songs (6 needed for coverage)
+SuccessFanfare: 26 songs (3 needed for coverage)
+BigFanfare: 16 songs (3 needed for coverage)
+WarpSong: 5 songs (6 needed for coverage)
+UtilitySong: 10 songs (6 needed for coverage)
+EventFanfare: 46 songs (15 needed for coverage)
+SongFanfare: 13 songs (12 needed for coverage)
+
+The following groups do not have enough coverage:
+	WarpSong: 5 songs (6 needed for coverage)
+
+The following songs have no group data:
+	Donkey Kong Country 2: Diddy's Kong Quest - Rareware Fanfare
+	Final Fantasy VI - Victory
+	Golden Sun - Victory Fanfare (Short version)
+	Gamecube Intro
+	Invincible - Episode 1 Title Card
+	The Lick (Requiem of Spirit Ver.)
+	Windows 95 - Startup
+	Windows XP - Shutdown
+	Windows XP - Startup
+	Tat Communacations Logo
+	Metroid - Item Get FF
+	Metroid Prime - Artifact Get Fanfare
+	Joshua8600 with AMS04 - Mythic Prize (version 2)
+	Joshua8600 - Mythic Prize
+	Joshua8600 - Scalar Meetings
+	Monkey Island 2 - Chapter Screen
+	Pokémon Gold/Silver/Crystal - Pokémon Caught Fanfare
+	RuneScape - Death Fanfare
+	Runescape - Quest Fanfare
+	Super Mario Bros Deluxe - Flag Fanfare
+	Super Smash Bros. Melee - Ice Climbers Victory Theme
+	The Legend of Zelda: A Link to the Past - Ganon Transform Fanfare
+	The Legend of Zelda: A Link to the Past - Ocarina
+	The Legend of Zelda: A Link to the Past - Victory Fanfare
+	The Legend of Zelda: Breath of the Wild - Find a new item
+	The Legend of Zelda: Breath of the Wild - Get quest item
+	The Legend of Zelda: Breath of the Wild - Sit by the campfire
+	The Legend of Zelda: Link's Awakening - Manbo's Mambo (Ocarina)
+	The Legend of Zelda: Majora's Mask - Elegy of Emptiness (SPT)
+	The Legend of Zelda: Majora's Mask - Goron Lullaby (SPT)
+	The Legend of Zelda: Majora's Mask - Mask Get (SPT)
+	The Legend of Zelda: Majora's Mask - Song of Time Fanfare
+	The Legend of Zelda: Majora's Mask - New Wave Bossa Nova (SPT)
+	The Legend of Zelda: Majora's Mask - Oath to Order (SPT)
+	The Legend of Zelda: Majora's Mask - Sonata of Awakening (SPT)
+	The Legend of Zelda: Majora's Mask - Song of Double Time (SPT)
+	The Legend of Zelda: Majora's Mask - Song of Healing (SPT)
+	The Legend of Zelda: Majora's Mask - Song of Inverted Time (SPT)
+	The Legend of Zelda: Majora's Mask - Song of Soaring (SPT)
+	The Legend of Zelda: Spirit Tracks - Song of Awakening
+	The Legend of Zelda: Spirit Tracks - Song of Birds
+	The Legend of Zelda: Spirit Tracks - Song of Discovery
+	The Legend of Zelda: Spirit Tracks - Song of Healing
+	The Legend of Zelda: Spirit Tracks - Song of Light
+	The Legend of Zelda: Spirit Tracks - Tower Is Restored
+	The Legend of Zelda - Recorder
+	The Legend of Zelda: The Wind Waker - Wind's Aria
+	The Legend of Zelda: Twilight Princess - Learn Skill
+	The Legend of Zelda: Twilight Princess - Minigame Goal
+
