@@ -6,8 +6,8 @@ import sys
 
 
 # Specify the full path to your rando directory if necessary.
-# Defaults to 3 directories up from current (e.g. this file is in data/Music/OoT-Custom-Sequences inside rando)
-RANDO_DIRECTORY = '../../..'
+# Defaults to 3 directories up from current (e.g. this repo is in data/Music/OoT-Custom-Sequences inside rando)
+RANDO_DIRECTORY = "../../.."
 
 
 def parse_meta_file(root: str, file: str) -> tuple[str, str, str, list[str]]:
@@ -88,8 +88,8 @@ def main():
             with open(f'{settings_filename}', 'w', encoding='utf-8', newline='') as file:
                 json.dump(rando_settings, file, indent=4)
 
-            print(f'Generating ROM for "{output_base.replace("Output/", "")}".')
-            subprocess.run([sys.executable, rando_script_path, "--settings", os.path.abspath(settings_filename)], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, shell=False, check=True)
+            print(f'Generating ROM for "{output_base}".')
+            subprocess.run([sys.executable, rando_script_path, "--settings", os.path.abspath(settings_filename)], stdout=subprocess.DEVNULL, shell=False, check=True)
             os.remove(settings_filename)
             os.remove(cosmetic_plando_filename)
 

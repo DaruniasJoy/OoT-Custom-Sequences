@@ -5,22 +5,22 @@ BGM info
 HyruleField: 62 songs (1 needed for coverage)
 LostWoods: 57 songs (1 needed for coverage)
 GerudoValley: 70 songs (1 needed for coverage)
-Market: 75 songs (1 needed for coverage)
+Market: 76 songs (1 needed for coverage)
 KakarikoChild: 72 songs (1 needed for coverage)
 KakarikoAdult: 79 songs (1 needed for coverage)
 LonLonRanch: 50 songs (1 needed for coverage)
 KokiriForest: 77 songs (1 needed for coverage)
 GoronCity: 57 songs (1 needed for coverage)
-ZorasDomain: 77 songs (1 needed for coverage)
+ZorasDomain: 78 songs (1 needed for coverage)
 CastleCourtyard: 24 songs (1 needed for coverage)
 HorseRace: 42 songs (1 needed for coverage)
-Mini-game: 39 songs (1 needed for coverage)
-ShootingGallery: 54 songs (1 needed for coverage)
+Mini-game: 40 songs (1 needed for coverage)
+ShootingGallery: 55 songs (1 needed for coverage)
 FairyFountain: 52 songs (1 needed for coverage)
 TempleOfTime: 44 songs (1 needed for coverage)
 ChamberOfTheSages: 52 songs (1 needed for coverage)
-House: 36 songs (1 needed for coverage)
-Shop: 32 songs (1 needed for coverage)
+House: 37 songs (1 needed for coverage)
+Shop: 33 songs (1 needed for coverage)
 PotionShop: 44 songs (1 needed for coverage)
 WindmillHut: 55 songs (1 needed for coverage)
 InsideDekuTree: 68 songs (1 needed for coverage)
@@ -50,10 +50,10 @@ GanondorfTheme: 48 songs (1 needed for coverage)
 KotakeAndKoume: 51 songs (1 needed for coverage)
 IngoTheme: 22 songs (1 needed for coverage)
 Fields: 80 songs (3 needed for coverage)
-Town: 109 songs (8 needed for coverage)
-Fun: 56 songs (3 needed for coverage)
+Town: 110 songs (8 needed for coverage)
+Fun: 57 songs (3 needed for coverage)
 MagicalPlace: 62 songs (3 needed for coverage)
-SalesArea: 40 songs (2 needed for coverage)
+SalesArea: 41 songs (2 needed for coverage)
 ChildDungeon: 79 songs (3 needed for coverage)
 AncientDungeon: 93 songs (2 needed for coverage)
 MysticalDungeon: 108 songs (3 needed for coverage)
@@ -63,11 +63,11 @@ BossFight: 103 songs (2 needed for coverage)
 FinalFight: 77 songs (2 needed for coverage)
 HeroTheme: 42 songs (6 needed for coverage)
 VillainTheme: 55 songs (3 needed for coverage)
-Outdoors: 152 songs (13 needed for coverage)
-Indoors: 87 songs (8 needed for coverage)
+Outdoors: 153 songs (13 needed for coverage)
+Indoors: 88 songs (8 needed for coverage)
 AdultDungeon: 136 songs (8 needed for coverage)
 BigFight: 113 songs (4 needed for coverage)
-Overworld: 179 songs (21 needed for coverage)
+Overworld: 180 songs (21 needed for coverage)
 Dungeon: 140 songs (11 needed for coverage)
 Fight: 117 songs (6 needed for coverage)
 CharacterTheme: 41 songs (9 needed for coverage)
@@ -273,8 +273,11 @@ The following songs have no group data:
 	Pokémon Ruby/Sapphire/Emerald - Battle Kyogre Groudon
 	Pokémon Ruby/Sapphire/Emerald - Sealed Chamber
 	RuneScape - Al Kharid
+	Old School RuneScape - Arcane
+	RuneScape - Medieval
 	Scape Original
 	Sea Shanty 2
+	RuneScape - The Other Side
 	Shadow the Hedgehog - I Am All Of Me
 	Sonic the Hedgehog (8 Bit) - Bridge Zone
 	Sonic Advance 2 - Egg Utopia act 1
@@ -282,6 +285,7 @@ The following songs have no group data:
 	Sonic Advance 2 - Final Boss
 	Sonic Advance 3 - Boss
 	Sonic Adventure 2 (Battle) - Chao Garden
+	Sonic Colors - Aquarium Park Act 1
 	Sonic Forces - Theme of Infinite
 	Sonic Generations - Green Hill - Act 2 (Modern)
 	Sonic Heroes - Grand Metropolis
@@ -429,6 +433,7 @@ The following songs have no group data:
 	The Legend of Zelda: The Wind Waker - Outset Island
 	The Legend of Zelda: The Wind Waker - Overworld
 	The Legend of Zelda: The Wind Waker - Windfall Island
+	Twilight Princess - Death Mountain
 	The Legend of Zelda: Twilight Princess - Short
 	The Legend of Zelda: Twilight Princess - Kokiri Forest Savedv2
 	The Legend of Zelda: Twilight Princess - Kakariko Village
