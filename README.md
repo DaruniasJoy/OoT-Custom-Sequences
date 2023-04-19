@@ -90,7 +90,7 @@ Copyright Critical Sequences you can share here : [Ganondorfs Organ](https://git
 * YoshiKyon ([Twitch](https://twitch.tv/yoshikyon), [Twitter](https://twitter.com/yoshikyon))
 * FQef ([Twitch](https://twitch.tv/fqef92)) 
 * Kirox
-* SonicRPika
+* KamekoSkye
 * Sirius902
 * Fish_waffle64
 * Bluwiikoon
