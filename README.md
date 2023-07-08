@@ -9,7 +9,7 @@ If there is a song you would like converted to AudioSeq format and added to the 
 
 # Issues with Sequences
 
-Should you find yourself or in a stream that a track is too loud or too quiet, please also feel free to either [open an Issue](https://github.com/DaruniasJoy/OoT-Custom-Sequences/issues/new) or contact us in [Discord](https://discord.gg/EVpd499gkS) in the appropiate channel.
+Should you find yourself or in a stream that a track is too loud or too quiet, please also feel free to either [open an Issue](https://github.com/DaruniasJoy/OoT-Custom-Sequences/issues/new) or contact us in [Discord](https://discord.gg/EVpd499gkS) in the appropriate channel.
 
 # Customize your own Cosmetic file
 
