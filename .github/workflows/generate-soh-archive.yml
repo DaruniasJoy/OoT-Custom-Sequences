@@ -14,7 +14,7 @@ jobs:
       run: |
         cd data
         find . -type f -name '*.ootrs' | while read filename; do unzip -o -d "./Music/`basename -s .ootrs "$filename"`" "$filename"; done;
-        wget https://github.com/leggettc18/SequenceOTRizer/releases/download/v0.3/SequenceOTRizer-0.2-Linux.tar.gz
+        wget https://github.com/leggettc18/SequenceOTRizer/releases/download/v0.4/SequenceOTRizer-0.2-Linux.tar.gz
         tar -xzvf SequenceOTRizer-0.2-Linux.tar.gz
         ./SequenceOTRizer --seq-path Music --otr-name daruniasjoy
 
