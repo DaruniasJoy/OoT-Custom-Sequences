@@ -1,0 +1,51 @@
+name: Check OOTRS Files
+
+on:
+  pull_request:
+    paths:
+      - '**/*.ootrs'
+
+jobs:
+  check-ootrs-files:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Get list of changed .ootrs files
+      id: changed-files
+      run: |
+        git fetch origin ${{ github.event.pull_request.base.ref }}
+        git diff --name-only --diff-filter=AMR origin/${{ github.event.pull_request.base.ref }} | grep '\.ootrs$' > changed_files.txt || true
+
+    - name: List changed .ootrs files
+      run: |
+        echo "Changed .ootrs files:"
+        cat changed_files.txt
+
+    - name: Unzip changed .ootrs files
+      run: |
+        while IFS= read -r ootrs; do
+          unzip -q "$ootrs" -d "${ootrs%.ootrs}"
+        done < changed_files.txt
+
+    - name: Check for directories in new .ootrs files
+      run: |
+        found_dirs=0
+        while IFS= read -r ootrs; do
+          if git diff --name-only --diff-filter=AMR origin/${{ github.event.pull_request.base.ref }} | grep -q "$ootrs"; then
+            root_dir="${ootrs%.ootrs}"
+            if find "$root_dir" -mindepth 1 -type d -not -path "./.git*" | grep -q .; then
+              echo "Directory found in new '${ootrs}':"
+              find "$root_dir" -mindepth 1 -type d -not -path "./.git*"
+              found_dirs=1
+            fi
+          fi
+        done < changed_files.txt
+        if [ $found_dirs -eq 1 ]; then
+          echo "One or more directories found in new .ootrs files. Make sure your archives only contain root level entries."
+          exit 1
+        else
+          echo "No directories found in new .ootrs files."
+        fi
