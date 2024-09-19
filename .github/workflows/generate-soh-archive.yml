@@ -8,7 +8,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
+
+    - name: Get short commit hash
+      id: vars
+      run: echo "short_hash=$(git rev-parse --short HEAD)" >> "$GITHUB_ENV"
 
     - name: Generate SoH archive
       run: |
@@ -19,7 +23,36 @@ jobs:
         ./SequenceOTRizer --seq-path Music --otr-name daruniasjoy
 
     - name: Upload generated daruniasjoy.otr
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: daruniasjoy.otr
         path: data/mods
+
+    # If this repo gets reverted to a previous release or if this workflow ever gets re-ran, creating a new release would break the build
+    # If you really want to regenerate the release, you'll have to manually delete the release
+    - name: Check for existing release
+      run: |
+        releases=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          https://api.github.com/repos/${{ github.repository }}/releases)
+        if echo "$releases" | grep -q "tag_name\": \"main-$short_hash"; then
+          echo "Release already exists"
+          exit 1
+        fi    
+
+    - name: Create GitHub Release
+      id: create_release
+      uses: softprops/action-gh-release@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: Build-${{ env.short_hash  }}
+        draft: false
+        prerelease: false
+
+    - name: Upload Release Asset
+      uses: softprops/action-gh-release@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        files: data/mods/daruniasjoy.otr
+        tag_name: Build-${{ env.short_hash  }}
