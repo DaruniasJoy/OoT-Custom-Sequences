@@ -22521,7 +22521,16 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "a4cddac2-3e93-4502-a418-d697c5475c76",
-    "file": "The Sims/Mall Rat.ootrs"
+    "file": "The Sims/Mall Rat.ootrs",
+    "lastUpdateDate": "2025-07-15T18:17:21.708Z",
+    "composers": [
+      "Jerry Martin"
+    ],
+    "converters": [
+      "Tolin"
+    ],
+    "isDMCACritical": false,
+    "preview": "The Sims/Mall Rat.mp3"
   },
   {
     "game": "Capcom vs. SNK 2",
@@ -26444,7 +26453,7 @@
   },
   {
     "game": "Red Blue Yellow",
-    "song": "Pokémon Red Blue Yellow - Wild Battle",
+    "song": "PokÃ©mon Red Blue Yellow - Wild Battle",
     "type": "bgm",
     "categories": [
       "Battle",
@@ -26463,11 +26472,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "93541ba6-674b-4751-9cc8-a68ac808a440",
-    "file": "Pokemon Series/Red Blue Yellow/Pokémon Red Blue Yellow - Wild Battle.ootrs"
+    "file": "Pokemon Series/Red Blue Yellow/PokÃ©mon Red Blue Yellow - Wild Battle.ootrs"
   },
   {
     "game": "Red Blue Yellow",
-    "song": "Pokémon Red Blue Yellow - Gym Leader Battle",
+    "song": "PokÃ©mon Red Blue Yellow - Gym Leader Battle",
     "type": "bgm",
     "categories": [
       "Battle",
@@ -26486,7 +26495,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "1d7211be-e1fe-43d0-b949-c023b402b7f6",
-    "file": "Pokemon Series/Red Blue Yellow/Pokémon Red Blue Yellow - Gym Leader Battle.ootrs"
+    "file": "Pokemon Series/Red Blue Yellow/PokÃ©mon Red Blue Yellow - Gym Leader Battle.ootrs"
   },
   {
     "game": "Red Blue Yellow",
@@ -26501,7 +26510,7 @@
   },
   {
     "game": "Red Blue Yellow",
-    "song": "Pokémon Red Blue Yellow - Trainer Battle",
+    "song": "PokÃ©mon Red Blue Yellow - Trainer Battle",
     "type": "bgm",
     "categories": [
       "Battle",
@@ -26520,7 +26529,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "e70c55a7-053a-4390-bd83-090de0c8e495",
-    "file": "Pokemon Series/Red Blue Yellow/Pokémon Red Blue Yellow - Trainer Battle.ootrs"
+    "file": "Pokemon Series/Red Blue Yellow/PokÃ©mon Red Blue Yellow - Trainer Battle.ootrs"
   },
   {
     "game": "Red Blue Yellow",
