@@ -6288,7 +6288,16 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "5dfed6c9-875c-4d13-87c9-d8483d86227c",
-    "file": "Mario Kart Series/Mario Kart 8/Choco Mountain.ootrs"
+    "file": "Mario Kart Series/Mario Kart 8/Choco Mountain.ootrs",
+    "lastUpdateDate": "2025-07-15T17:41:02.680Z",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Tolin"
+    ],
+    "isDMCACritical": false,
+    "preview": "Mario Kart 8/Choco Mountain.mp3"
   },
   {
     "game": "Mario Kart 8",
@@ -26435,7 +26444,7 @@
   },
   {
     "game": "Red Blue Yellow",
-    "song": "Pok\u00e9mon Red Blue Yellow - Wild Battle",
+    "song": "Pokémon Red Blue Yellow - Wild Battle",
     "type": "bgm",
     "categories": [
       "Battle",
@@ -26454,11 +26463,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "93541ba6-674b-4751-9cc8-a68ac808a440",
-    "file": "Pokemon Series/Red Blue Yellow/Pok\u00e9mon Red Blue Yellow - Wild Battle.ootrs"
+    "file": "Pokemon Series/Red Blue Yellow/Pokémon Red Blue Yellow - Wild Battle.ootrs"
   },
   {
     "game": "Red Blue Yellow",
-    "song": "Pok\u00e9mon Red Blue Yellow - Gym Leader Battle",
+    "song": "Pokémon Red Blue Yellow - Gym Leader Battle",
     "type": "bgm",
     "categories": [
       "Battle",
@@ -26477,7 +26486,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "1d7211be-e1fe-43d0-b949-c023b402b7f6",
-    "file": "Pokemon Series/Red Blue Yellow/Pok\u00e9mon Red Blue Yellow - Gym Leader Battle.ootrs"
+    "file": "Pokemon Series/Red Blue Yellow/Pokémon Red Blue Yellow - Gym Leader Battle.ootrs"
   },
   {
     "game": "Red Blue Yellow",
@@ -26492,7 +26501,7 @@
   },
   {
     "game": "Red Blue Yellow",
-    "song": "Pok\u00e9mon Red Blue Yellow - Trainer Battle",
+    "song": "Pokémon Red Blue Yellow - Trainer Battle",
     "type": "bgm",
     "categories": [
       "Battle",
@@ -26511,7 +26520,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "e70c55a7-053a-4390-bd83-090de0c8e495",
-    "file": "Pokemon Series/Red Blue Yellow/Pok\u00e9mon Red Blue Yellow - Trainer Battle.ootrs"
+    "file": "Pokemon Series/Red Blue Yellow/Pokémon Red Blue Yellow - Trainer Battle.ootrs"
   },
   {
     "game": "Red Blue Yellow",
