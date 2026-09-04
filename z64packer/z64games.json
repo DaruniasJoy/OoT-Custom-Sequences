@@ -3990,7 +3990,9 @@
     "game": "Fire Emblem"
   },
   {
-    "game": "Fire Emblem Gaiden"
+    "game": "Fire Emblem: Gaiden",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/fb2e636577105f243646d6f1e199f0ba.png"
   },
   {
     "game": "Fire Emblem Heroes",
