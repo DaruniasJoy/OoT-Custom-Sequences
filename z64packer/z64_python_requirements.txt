@@ -1,6 +1,0 @@
-# Required for z64_database_fixer.py
-pyyaml
-
-# Required for z64_dj_datasheet_tool.py
-openpyxl
-gdown
