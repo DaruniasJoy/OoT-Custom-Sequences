@@ -1,51 +1,21 @@
-# Script for managing untracked additions to the repo, and generating the binaries.zip file for faster downloads
-
-# To install this workflow in your repo:
-# 1. Go to Actions > New workflow
-# 2. Go to "Set up a workflow yourself"
-# 3. Set the name of the new file to "z64_database_fixer.yml"
-# 4. Copy and paste the contents of this file to the textbox that says "Enter file contents here"
-# 5. Finally, press "Commit changes"
-
-name: Z64 - Database fixer
+name: Z64 - Create assets
 
 on:
   workflow_dispatch:
+  pull_request_target:
+    types:
+      - closed
 
 jobs:
   build:
     permissions: write-all
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ["3.x"]
 
     steps:
-      - uses: actions/checkout@v3
-          
-      - name: Download latest version of database fixer and it's dependencies
-        run: |
-          curl -o z64packer/z64_database_fixer.py https://raw.githubusercontent.com/CristobalPenaloza/cristobalpenaloza.github.io/refs/heads/main/z64_repo_kit/z64packer/z64_database_fixer.py
-          curl -o z64packer/z64_python_requirements.txt https://raw.githubusercontent.com/CristobalPenaloza/cristobalpenaloza.github.io/refs/heads/main/z64_repo_kit/z64packer/z64_python_requirements.txt
-
-      - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v4
+      - uses: CristobalPenaloza/z64packer-create-assets@v1
         with:
-          python-version: ${{ matrix.python-version }}
-
-      - name: Install Python dependencies
-        uses: py-actions/py-dependency-install@v4
-        with:
-          path: "z64packer/z64_python_requirements.txt"
-
-      - name: Run database fixer
-        run: python "z64packer/z64_database_fixer.py" --ci
-        
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "<>"
-          git add -A
-          git commit -m "Database fixer - Manual run by @${{ github.actor }}"
-          git pull
-          git push
+          name: "Darunia's Joy"
+          description: "Heeey!! What a nice tune! Just like that, my depression is all gone! Something just came over me! I suddenly wanted to dance like crazy! I am Darunia! I'm the big boss of the Gorons!"
+          binaries-path: 'data/Music/'
+          previews-path: 'previews/'
+          avatar-url: 'https://avatars.githubusercontent.com/u/54688009?v=4'
