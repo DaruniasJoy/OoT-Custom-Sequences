@@ -2530,7 +2530,7 @@
     ],
     "lufs": "-23.51",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Victory.mp3",
-    "hash": "06db4635fb2a21565665af00b55da08c",
+    "hash": "9d6b7bf00ae747124dbf310c739b2573",
     "creationDate": "2026-09-03T01:32:37.481Z"
   },
   {
@@ -7198,7 +7198,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "a008c67c-f657-4f90-99f3-6c652d457a32",
-    "file": "DuckTales/Moon Theme.ootrs",
+    "file": "Ducktales/Moon Theme.ootrs",
     "converters": [
       "FQef94"
     ],
@@ -8664,7 +8664,7 @@
     ],
     "lufs": "-14.83",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy IX/You're Not Alone!.mp3",
-    "hash": "59266a578acd611537e367df911512b1",
+    "hash": "bc61930af6d503a37f07263315b7df4e",
     "creationDate": "2026-09-03T01:32:42.267Z"
   },
   {
@@ -10574,27 +10574,6 @@
   },
   {
     "game": "Golden Sun",
-    "song": "Battle",
-    "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "f1ac2a46-1fb0-434a-a80b-a94776f2d26e",
-    "file": "Golden Sun/Battle.ootrs",
-    "converters": [
-      "Joshua8600"
-    ],
-    "preview": "https://youtu.be/F9ncrKwbkPQ",
-    "composers": [
-      "Motoi Sakuraba"
-    ],
-    "lufs": "-19.41",
-    "hash": "5f6cc989c8f4b8a3902cb0d0a8a7d442",
-    "creationDate": "2026-09-03T01:32:43.942Z"
-  },
-  {
-    "game": "Golden Sun",
     "song": "Trial Road",
     "type": "bgm",
     "categories": [],
@@ -10757,7 +10736,7 @@
       "Motoi Sakuraba"
     ],
     "lufs": "-18.33",
-    "preview": "https://archive.org/download/darunias-joy/Golden Sun Dark Dawn/Battle! [Fight of Sons].mp3",
+    "preview": "https://youtu.be/F9ncrKwbkPQ",
     "hash": "23b841f4cf32bb8cc8d925108dbd542c",
     "creationDate": "2026-09-03T01:32:44.126Z"
   },
@@ -42898,7 +42877,7 @@
   {
     "uuid": "9702640c-7eeb-49b9-8fe8-c5abd6346605",
     "creationDate": "2026-09-03T01:33:03.255Z",
-    "game": "The Great Ace Attorney",
+    "game": "The Great Ace Attorney Chronicles",
     "song": "Barok van Zieks ~The Reaper of the Bailey~",
     "type": "bgm",
     "composers": [
@@ -42919,7 +42898,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Great Ace Attorney/Barok van Zieks ~The Reaper of the Bailey~.ootrs",
+    "file": "The Great Ace Attorney Chronicles/Barok van Zieks ~The Reaper of the Bailey~.ootrs",
     "preview": "https://archive.org/download/darunias-joy/The Great Ace Attorney/Barok van Zieks ~The Reaper of the Bailey~.mp3",
     "hash": "176585d1130d7374172f4ed618b12ce8",
     "lufs": "-16.49"
