@@ -7198,7 +7198,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "a008c67c-f657-4f90-99f3-6c652d457a32",
-    "file": "Ducktales/Moon Theme.ootrs",
+    "file": "DuckTales/Moon Theme.ootrs",
     "converters": [
       "FQef94"
     ],
@@ -43028,10 +43028,8 @@
     "lufs": "-19.15"
   },
   {
-    "uuid": "72cf2d8e-ad45-43a9-974d-bf32733dfe57",
-    "creationDate": "2026-09-06T13:37:15.456Z",
     "game": "Chrono Trigger",
-    "song": "manoria cathedral",
+    "song": "Manoria Cathedral",
     "type": "bgm",
     "categories": [
       "FairyFountain",
@@ -43046,15 +43044,22 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Chrono Trigger/manoria cathedral.ootrs",
-    "preview": "",
-    "hash": "ae18fe8e5a38f4b90a0833efe13c068a"
+    "uuid": "31e321f3-11ac-412b-8e9c-39a7a580c024",
+    "file": "Chrono Trigger/Manoria Cathedral.ootrs",
+    "converters": [
+      "Apasher"
+    ],
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "preview": "https://youtu.be/EijQq7T2Pg4",
+    "lufs": "-17.72",
+    "hash": "ae18fe8e5a38f4b90a0833efe13c068a",
+    "creationDate": "2026-09-03T01:32:38.849Z"
   },
   {
-    "uuid": "60489b0d-028e-4982-84a4-75dcb8a9ca02",
-    "creationDate": "2026-09-06T13:37:17.876Z",
     "game": "Celeste",
-    "song": "starjump",
+    "song": "Starjump",
     "type": "bgm",
     "categories": [
       "FairyFountain",
@@ -43072,16 +43077,31 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Celeste/starjump.ootrs",
-    "preview": "",
-    "hash": "ecea52fc3d7d4e2189d8a65159450dd8"
+    "uuid": "b7be9302-d0a5-414e-97d0-4e264353b46a",
+    "file": "Celeste/Starjump.ootrs",
+    "converters": [
+      "KamekoSkye"
+    ],
+    "composers": [
+      "Lena Raine"
+    ],
+    "lufs": "-20.80",
+    "preview": "https://archive.org/download/darunias-joy/Celeste/Starjump.mp3",
+    "hash": "ecea52fc3d7d4e2189d8a65159450dd8",
+    "creationDate": "2026-09-03T01:32:38.527Z"
   },
   {
-    "uuid": "360c4daf-1b40-4b06-b873-e9bd1f40ac1e",
-    "creationDate": "2026-09-06T13:37:18.662Z",
+    "uuid": "90f47b57-c040-4f23-9c14-1c8dbd2b0875",
+    "creationDate": "2026-09-03T01:32:50.740Z",
     "game": "Octopath Traveler",
-    "song": "Tressa, the merchant",
+    "song": "Tressa, the Merchant",
     "type": "bgm",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
     "categories": [
       "KakarikoChild",
       "KakarikoAdult",
@@ -43093,27 +43113,33 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Octopath Traveler/Tressa, the merchant.ootrs",
-    "preview": "",
-    "hash": "aa97ff7a9973dcce1864505646265037"
+    "file": "Octopath Traveler/Tressa, the Merchant.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Octopath Traveler/Tressa, the Merchant.mp3",
+    "hash": "aa97ff7a9973dcce1864505646265037",
+    "lufs": "-24.20"
   },
   {
-    "uuid": "87e9d1d4-c446-4954-b0ee-a6b4e1c96b9b",
-    "creationDate": "2026-09-06T13:37:18.827Z",
     "game": "Memes",
-    "song": "We wish you a Merry Christmas",
+    "song": "We Wish You a Merry Christmas",
     "type": "bgm",
     "categories": [],
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Memes/We wish you a Merry Christmas.ootrs",
-    "preview": "",
-    "hash": "99e3bfa613d9d9dd231aa981fca1a0d6"
+    "uuid": "57467f38-f59c-4daa-8011-3ac6548c373b",
+    "file": "Memes/We Wish You a Merry Christmas.ootrs",
+    "composers": [
+      "Arthur Warrell"
+    ],
+    "converters": [
+      "Darkangel93x"
+    ],
+    "lufs": "-21.69",
+    "preview": "https://archive.org/download/darunias-joy/Memes/We Wish You a Merry Christmas.mp3",
+    "hash": "99e3bfa613d9d9dd231aa981fca1a0d6",
+    "creationDate": "2026-09-03T01:32:49.061Z"
   },
   {
-    "uuid": "e8a92c60-dbec-4822-91cc-eae091e8e505",
-    "creationDate": "2026-09-06T13:37:20.520Z",
     "game": "DuckTales",
     "song": "Main Theme",
     "type": "bgm",
@@ -43149,15 +43175,23 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Ducktales/Main Theme.ootrs",
-    "preview": "",
-    "hash": "371d440c602308233aa35f3564ee9426"
+    "uuid": "f4b62022-1dca-4686-8d1e-08d7a988d4eb",
+    "file": "DuckTales/Main Theme.ootrs",
+    "converters": [
+      "Estacaco"
+    ],
+    "composers": [
+      "Mark Mueller",
+      "Hiroshige Tonomura"
+    ],
+    "lufs": "-17.45",
+    "preview": "https://archive.org/download/darunias-joy/DuckTales/Main Theme.mp3",
+    "hash": "371d440c602308233aa35f3564ee9426",
+    "creationDate": "2026-09-03T01:32:41.083Z"
   },
   {
-    "uuid": "807e8b8d-1620-41c4-9c06-5e77c40a74b1",
-    "creationDate": "2026-09-06T13:37:21.084Z",
     "game": "Quest 64",
-    "song": "battle",
+    "song": "Battle",
     "type": "bgm",
     "categories": [
       "KakarikoAdult",
@@ -43195,15 +43229,22 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Quest 64/battle.ootrs",
-    "preview": "",
-    "hash": "a7690995b03aeefa2b10a9cc6d4ce2a4"
+    "uuid": "4b2bbc3f-8501-4476-9181-4e1061bc75a2",
+    "file": "Quest 64/Battle.ootrs",
+    "composers": [
+      "Masamichi Amano"
+    ],
+    "converters": [
+      "EricBartusch"
+    ],
+    "lufs": "-14.13",
+    "preview": "https://archive.org/download/darunias-joy/Quest 64/Battle.mp3",
+    "hash": "a7690995b03aeefa2b10a9cc6d4ce2a4",
+    "creationDate": "2026-09-03T01:32:55.094Z"
   },
   {
-    "uuid": "3fa4c745-9bed-49c5-8a93-7d0bf5c1e199",
-    "creationDate": "2026-09-06T13:37:21.089Z",
     "game": "Quest 64",
-    "song": "highland",
+    "song": "Highland",
     "type": "bgm",
     "categories": [
       "LostWoods",
@@ -43258,15 +43299,22 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Quest 64/highland.ootrs",
-    "preview": "",
-    "hash": "50701af8f97796789ad4089ee665a617"
+    "uuid": "07c9d743-bfb2-41c3-bcd6-72c921b498b7",
+    "file": "Quest 64/Highland.ootrs",
+    "composers": [
+      "Masamichi Amano"
+    ],
+    "converters": [
+      "EricBartusch"
+    ],
+    "lufs": "-16.55",
+    "preview": "https://archive.org/download/darunias-joy/Quest 64/Highland.mp3",
+    "hash": "50701af8f97796789ad4089ee665a617",
+    "creationDate": "2026-09-03T01:32:55.151Z"
   },
   {
-    "uuid": "f98571a0-50f8-4379-9b9c-da2754ffbfc6",
-    "creationDate": "2026-09-06T13:37:21.102Z",
     "game": "Quest 64",
-    "song": "victory",
+    "song": "Victory",
     "type": "fanfare",
     "categories": [
       "ItemGet",
@@ -43289,9 +43337,18 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Quest 64/victory.ootrs",
-    "preview": "",
-    "hash": "e047c70f71cf95cf755b4fcab3eddc16"
+    "uuid": "9f14d042-998f-4ae5-8faa-f7d31889fad0",
+    "file": "Quest 64/Victory.ootrs",
+    "composers": [
+      "Masamichi Amano"
+    ],
+    "converters": [
+      "EricBartusch"
+    ],
+    "lufs": "-17.46",
+    "preview": "https://archive.org/download/darunias-joy/Quest 64/Victory.mp3",
+    "hash": "e047c70f71cf95cf755b4fcab3eddc16",
+    "creationDate": "2026-09-03T01:32:55.229Z"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
