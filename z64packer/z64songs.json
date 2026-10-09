@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -44721,6 +44721,32 @@
     "hash": "e047c70f71cf95cf755b4fcab3eddc16",
     "creationDate": "2026-09-03T01:32:55.229Z",
     "isCrossGame": false
+  },
+  {
+    "uuid": "2c014720-9aed-4a08-abd1-c2bedb749850",
+    "creationDate": "2026-10-09T20:52:11.790Z",
+    "game": "Hollow Knight: Silksong",
+    "song": "Choral Chambers",
+    "composers": [
+      "Christopher Larkin"
+    ],
+    "converters": [
+      "Tolin"
+    ],
+    "lufs": "-22.10",
+    "file": "Hollow Knight Silksong/Choral Chambers.ootrs",
+    "type": "bgm\r",
+    "categories": [
+      "TempleOfTime",
+      "WaterTemple",
+      "MagicalPlace",
+      "MysticalDungeon",
+      "Indoors",
+      "AdultDungeon",
+      "Overworld",
+      "Dungeon"
+    ],
+    "preview": "Hollow Knight Silksong/Choral Chambers.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
