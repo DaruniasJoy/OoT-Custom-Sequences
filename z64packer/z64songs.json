@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -44735,7 +44735,7 @@
     ],
     "lufs": "-22.10",
     "file": "Hollow Knight Silksong/Choral Chambers.ootrs",
-    "type": "bgm\r",
+    "type": "bgm",
     "categories": [
       "TempleOfTime",
       "WaterTemple",
@@ -44746,7 +44746,12 @@
       "Overworld",
       "Dungeon"
     ],
-    "preview": "Hollow Knight Silksong/Choral Chambers.mp3"
+    "preview": "Hollow Knight Silksong/Choral Chambers.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "5bd3d03ba2a8685c029738e8654c6c86"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
