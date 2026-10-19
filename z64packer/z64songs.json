@@ -50989,5 +50989,1637 @@
       "SeitanTaisen"
     ]
   },
-  "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
+  {
+    "uuid": "82527095-de32-4704-acc3-fc852f190abd",
+    "creationDate": "2026-10-19T03:59:50.076Z",
+    "game": ".hack∕∕INFECTION",
+    "song": "Mac Anu",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": ".hack∕∕INFECTION/Mac Anu.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/.hack∕∕INFECTION/Mac Anu.mp3",
+    "hash": "6b16e845033464724d45d362092c40d6",
+    "converters": [
+      "DarknessRadio"
+    ]
+  },
+  {
+    "uuid": "73a0c204-234a-485a-b771-056b10f2d7a4",
+    "creationDate": "2026-10-19T03:59:50.325Z",
+    "game": "Animal Crossing",
+    "song": "Able Sisters",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Animal Crossing/Able Sisters.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Animal Crossing/Able Sisters.mp3",
+    "hash": "44b4358506cc05317c70aa016ab20aea",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-20.15"
+  },
+  {
+    "uuid": "f4353f0d-0fbe-41d1-ab4e-86d55846300d",
+    "creationDate": "2026-10-19T03:59:50.387Z",
+    "game": "Animal Crossing",
+    "song": "K.K. Love Song",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Animal Crossing/K.K. Love Song.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Animal Crossing/K.K. Love Song.mp3",
+    "hash": "56438a96c6952e530d5f227b3a0dde9e",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.59"
+  },
+  {
+    "uuid": "b53fc6a4-9718-4ff6-b2c5-78b18af39307",
+    "creationDate": "2026-10-19T03:59:50.431Z",
+    "game": "Animal Crossing",
+    "song": "Only Me",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Animal Crossing/Only Me.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Animal Crossing/Only Me.mp3",
+    "hash": "773fda58d47f14cd04d4bf880d59c889",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.70"
+  },
+  {
+    "uuid": "631cc564-b937-42ee-82e5-e63a85876659",
+    "creationDate": "2026-10-19T03:59:50.734Z",
+    "game": "Banjo-Kazooie",
+    "song": "Bubblegloop Swamp (DK64 Boss Remix)",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Banjo-Kazooie/Bubblegloop Swamp (DK64 Boss Remix).ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Banjo-Kazooie/Bubblegloop Swamp (DK64 Boss Remix).mp3",
+    "hash": "45cc0af28a236e7e4506a6304490156d",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.32"
+  },
+  {
+    "uuid": "792b11cd-0b2f-4648-8c0d-b0cef703d32f",
+    "creationDate": "2026-10-19T03:59:50.864Z",
+    "game": "Banjo-Kazooie",
+    "song": "Gruntilda's Lair (FF Remix)",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Banjo-Kazooie/Gruntilda's Lair (FF Remix).ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Banjo-Kazooie/Gruntilda's Lair (FF Remix).mp3",
+    "hash": "3fefeabda2e8d3e7c461d49ab22eeb65",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.85"
+  },
+  {
+    "uuid": "f0dff509-7325-4c9e-92df-075600869896",
+    "creationDate": "2026-10-19T03:59:51.057Z",
+    "game": "Banjo-Tooie",
+    "song": "Glitter Gulch Mine (Mountain Remix)",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Banjo-Tooie/Glitter Gulch Mine (Mountain Remix).ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Banjo-Tooie/Glitter Gulch Mine (Mountain Remix).mp3",
+    "hash": "91b6a326f64cbef901ce4749a1e26ba1",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.67"
+  },
+  {
+    "uuid": "84b8a1d7-e15b-47dc-bb31-2a6cbc2e1737",
+    "creationDate": "2026-10-19T03:59:51.344Z",
+    "game": "Bonk's Adventure",
+    "song": "Round 1-1",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Bonk's Adventure/Round 1-1.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Bonk's Adventure/Round 1-1.mp3",
+    "hash": "a1e09c16d980c0825c4cfe19b1145652",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.47"
+  },
+  {
+    "uuid": "bb73850c-60de-45e3-98f3-0c37552a76af",
+    "creationDate": "2026-10-19T03:59:51.359Z",
+    "game": "Brave Fencer Musashi",
+    "song": "Demon of Darkness",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Brave Fencer Musashi/Demon of Darkness.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Demon of Darkness.mp3",
+    "hash": "5b039a1351307d7f28fda6c2b18922a4",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.77"
+  },
+  {
+    "uuid": "76d0c7c1-d9b4-4a61-90f0-30dba5ac2e66",
+    "creationDate": "2026-10-19T03:59:51.364Z",
+    "game": "Brave Fencer Musashi",
+    "song": "Grillin Mines",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Brave Fencer Musashi/Grillin Mines.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Grillin Mines.mp3",
+    "hash": "e198b4bfb6e2ee71f351967a309c4692",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.08"
+  },
+  {
+    "uuid": "5844278c-e9d8-4b84-a8fd-81f9699d3ffa",
+    "creationDate": "2026-10-19T03:59:51.369Z",
+    "game": "Brave Fencer Musashi",
+    "song": "Grillin Village",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Brave Fencer Musashi/Grillin Village.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Grillin Village.mp3",
+    "hash": "d6b201f8d586d3dc0e53171843a85d37",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.19"
+  },
+  {
+    "uuid": "3695897d-b132-4953-a034-608fa02049bd",
+    "creationDate": "2026-10-19T03:59:51.373Z",
+    "game": "Brave Fencer Musashi",
+    "song": "Hell's Valley",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Brave Fencer Musashi/Hell's Valley.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Hell's Valley.mp3",
+    "hash": "bf9423a1e31b190e8eec21f205c40ad0",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.04"
+  },
+  {
+    "uuid": "4c7e66ef-bccf-44b6-a37a-ed63d478cb24",
+    "creationDate": "2026-10-19T03:59:51.385Z",
+    "game": "Brave Fencer Musashi",
+    "song": "Inn",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Brave Fencer Musashi/Inn.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Inn.mp3",
+    "hash": "16c347acc58a8b57fe1c517357bdd145",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.69"
+  },
+  {
+    "uuid": "11656e81-4c7a-44ed-b8bb-6d040c7f5453",
+    "creationDate": "2026-10-19T03:59:51.390Z",
+    "game": "Brave Fencer Musashi",
+    "song": "Relic Keeper",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Brave Fencer Musashi/Relic Keeper.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Relic Keeper.mp3",
+    "hash": "cd0e77062794a3a1817da6f717596b63",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.30"
+  },
+  {
+    "uuid": "f7231443-ad5c-47cd-a567-fee1631df082",
+    "creationDate": "2026-10-19T03:59:51.395Z",
+    "game": "Brave Fencer Musashi",
+    "song": "The Musashi Legend [2]",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Brave Fencer Musashi/The Musashi Legend [2].ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/The Musashi Legend [2].mp3",
+    "hash": "23ecb599047ccc432b829e16f31a035d",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-13.01"
+  },
+  {
+    "uuid": "b648a755-601f-4e5d-ba5d-dbf260921115",
+    "creationDate": "2026-10-19T03:59:51.418Z",
+    "game": "Brave Fencer Musashi",
+    "song": "Topo's Groove Heaven",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Brave Fencer Musashi/Topo's Groove Heaven.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Topo's Groove Heaven.mp3",
+    "hash": "8865b219fdabe0edead076ffd3a85b23",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-19.60"
+  },
+  {
+    "uuid": "fc236a90-aa7b-4cda-8f6f-f37555440a5b",
+    "creationDate": "2026-10-19T03:59:51.422Z",
+    "game": "Brave Fencer Musashi",
+    "song": "Twinpeak Mountain [2]",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Brave Fencer Musashi/Twinpeak Mountain [2].ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Twinpeak Mountain [2].mp3",
+    "hash": "bb6c5c7463df7b4625e5acdc59ef8b46",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.47"
+  },
+  {
+    "uuid": "2d41c7bd-8a28-40e7-889c-52c6f689d818",
+    "creationDate": "2026-10-19T03:59:51.437Z",
+    "game": "Brave Fencer Musashi",
+    "song": "Vambee Village",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Brave Fencer Musashi/Vambee Village.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Vambee Village.mp3",
+    "hash": "98fc035b333580de8deb12f2969c536f",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.71"
+  },
+  {
+    "uuid": "68a7f0e3-f619-4015-ba71-c2d73c7e8d2f",
+    "creationDate": "2026-10-19T03:59:51.457Z",
+    "game": "Brave Fencer Musashi",
+    "song": "Village at Night",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Brave Fencer Musashi/Village at Night.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Village at Night.mp3",
+    "hash": "491d2cc68f19b836853333c2a63b70e7",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-20.77"
+  },
+  {
+    "uuid": "9c2aced7-0ee5-4566-a8fe-d809847467da",
+    "creationDate": "2026-10-19T03:59:51.805Z",
+    "game": "Castlevania: Symphony of the Night",
+    "song": "Crystal Teardrops",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Castlevania Symphony of the Night/Crystal Teardrops.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Castlevania Symphony of the Night/Crystal Teardrops.mp3",
+    "hash": "a962a881772f921bacbe35bf4d3f43ce",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-19.63"
+  },
+  {
+    "uuid": "bbb15c0d-87d8-4dd6-950a-f1a62cd84914",
+    "creationDate": "2026-10-19T03:59:51.852Z",
+    "game": "Castlevania: Symphony of the Night",
+    "song": "Tower of Mist",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Castlevania Symphony of the Night/Tower of Mist.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Castlevania Symphony of the Night/Tower of Mist.mp3",
+    "hash": "49d0f6840e6df35b97d087a885762820",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-19.55"
+  },
+  {
+    "uuid": "7b7c5ec5-58e4-41b7-b88d-5892fc58703c",
+    "creationDate": "2026-10-19T03:59:52.473Z",
+    "game": "Conker's Bad Fur Day",
+    "song": "The Cock and Plucker",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Conker's Bad Fur Day/The Cock and Plucker.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Conker's Bad Fur Day/The Cock and Plucker.mp3",
+    "hash": "93f713eaf150bc82281af174637e25f2",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-22.78"
+  },
+  {
+    "uuid": "b6e51b04-e4f9-40b3-86a1-79d3466a27a7",
+    "creationDate": "2026-10-19T03:59:52.532Z",
+    "game": "Dark Cloud",
+    "song": "Broken Promise (Music Box)",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Dark Cloud/Broken Promise (Music Box).ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Broken Promise (Music Box).mp3",
+    "hash": "c79d6e469b996bb73752f6a1c61ead58",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-17.85"
+  },
+  {
+    "uuid": "7deb1d00-a639-4647-bf21-1259053867a5",
+    "creationDate": "2026-10-19T03:59:52.683Z",
+    "game": "Dark Cloud",
+    "song": "Main Theme",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Dark Cloud/Main Theme.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Main Theme.mp3",
+    "hash": "b67e217ed9eca90f16e3526853159555",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-17.43"
+  },
+  {
+    "uuid": "5a3b3b0f-41c6-4458-920c-9984b17468c1",
+    "creationDate": "2026-10-19T03:59:52.854Z",
+    "game": "Dark Cloud 2",
+    "song": "Zelmite Mines",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Dark Cloud 2/Zelmite Mines.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Dark Cloud 2/Zelmite Mines.mp3",
+    "hash": "cdca5627793cc52e024d76a8f44cf383",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.34"
+  },
+  {
+    "uuid": "6e2ee810-41a3-450e-b722-80930b6ad7bc",
+    "creationDate": "2026-10-19T03:59:53.137Z",
+    "game": "Demon's Souls",
+    "song": "Leechmonger",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Demon's Souls/Leechmonger.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Demon's Souls/Leechmonger.mp3",
+    "hash": "a73cada743b9fa72570744402bb0c762",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-21.51"
+  },
+  {
+    "uuid": "36b2f427-f978-440e-9035-90162c702805",
+    "creationDate": "2026-10-19T03:59:53.159Z",
+    "game": "Demon's Souls",
+    "song": "Maiden in Black",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Demon's Souls/Maiden in Black.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Demon's Souls/Maiden in Black.mp3",
+    "hash": "d66251864b472392c82d252974e86d0f",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-23.39"
+  },
+  {
+    "uuid": "e60cda57-d0a3-4efc-a8ba-c8b7db83c8bf",
+    "creationDate": "2026-10-19T03:59:53.166Z",
+    "game": "Demon's Souls",
+    "song": "Phalanx [2]",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Demon's Souls/Phalanx [2].ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Demon's Souls/Phalanx [2].mp3",
+    "hash": "816ef8c786b7b759a415227286c53adb",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-21.01"
+  },
+  {
+    "uuid": "02f0c933-1d1f-4a65-b014-9b47906639e4",
+    "creationDate": "2026-10-19T03:59:53.210Z",
+    "game": "Demon's Souls",
+    "song": "Vanguard",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Demon's Souls/Vanguard.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Demon's Souls/Vanguard.mp3",
+    "hash": "36834634eb7ec69616cdcb37efbb2643",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-21.60"
+  },
+  {
+    "uuid": "32ad8622-3b69-4952-8a54-a820bd9a903e",
+    "creationDate": "2026-10-19T03:59:54.518Z",
+    "game": "Dragon Quest III: The Seeds of Salvation",
+    "song": "Pyramid",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Dragon Quest III The Seeds of Salvation/Pyramid.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Dragon Quest III The Seeds of Salvation/Pyramid.mp3",
+    "hash": "6b7461b9c1b9ab8a35bf9fe5a254ddb5",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.87"
+  },
+  {
+    "uuid": "8ecbed73-8e1f-4192-b6f7-3b67b3d77522",
+    "creationDate": "2026-10-19T03:59:54.745Z",
+    "game": "EarthBound",
+    "song": "Onett",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "EarthBound/Onett.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/EarthBound/Onett.mp3",
+    "hash": "12db95d626fcb27785c70ecfa23767e5",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.70"
+  },
+  {
+    "uuid": "0571cad4-af4e-4db1-99f8-4fd5d9a80e4d",
+    "creationDate": "2026-10-19T03:59:56.198Z",
+    "game": "Final Fantasy VII",
+    "song": "Ahead On Our Way (BIG RANCH EDITION)",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Final Fantasy VII/Ahead On Our Way (BIG RANCH EDITION).ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Final Fantasy VII/Ahead On Our Way (BIG RANCH EDITION).mp3",
+    "hash": "11151e75ad719fb35435d6735eefb41a",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.88"
+  },
+  {
+    "uuid": "8f1cfb0f-317c-4c89-a908-1a570600fd58",
+    "creationDate": "2026-10-19T03:59:56.245Z",
+    "game": "Final Fantasy VII",
+    "song": "Barret's Theme",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Final Fantasy VII/Barret's Theme.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Final Fantasy VII/Barret's Theme.mp3",
+    "hash": "974874b271eb6342a4b5e7745516a1d6",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-19.75"
+  },
+  {
+    "uuid": "429e2f19-6abf-4e20-8383-6e0984c51819",
+    "creationDate": "2026-10-19T03:59:56.350Z",
+    "game": "Final Fantasy VII",
+    "song": "Forested Temple [3]",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Final Fantasy VII/Forested Temple [3].ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Final Fantasy VII/Forested Temple [3].mp3",
+    "hash": "5769a302cd55c6c3e68dd82d7bb5ada8",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-17.58"
+  },
+  {
+    "uuid": "9e4cad6e-4831-499f-9d9c-e82aa50d820c",
+    "creationDate": "2026-10-19T03:59:56.569Z",
+    "game": "Final Fantasy VII",
+    "song": "Underneath the Rotting Pizza",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Final Fantasy VII/Underneath the Rotting Pizza.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Final Fantasy VII/Underneath the Rotting Pizza.mp3",
+    "hash": "45fa8de4309a0df01e362c0ab798a07f",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-21.34"
+  },
+  {
+    "uuid": "cb817281-b4b2-4e37-a28d-ce3210d6ba72",
+    "creationDate": "2026-10-19T03:59:56.600Z",
+    "game": "Final Fantasy VIII",
+    "song": "Breezy",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Final Fantasy VIII/Breezy.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Final Fantasy VIII/Breezy.mp3",
+    "hash": "d51593369bc204c10529aaaa42872b5b",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-20.84"
+  },
+  {
+    "uuid": "a15c7926-9cdb-436a-8468-a46dcc5f5e35",
+    "creationDate": "2026-10-19T03:59:56.743Z",
+    "game": "Final Fantasy X-2",
+    "song": "Memories of Light and Waves",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Final Fantasy X-2/Memories of Light and Waves.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Final Fantasy X-2/Memories of Light and Waves.mp3",
+    "hash": "908f18ff78b61b75c2217f64435fa599",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-17.86"
+  },
+  {
+    "uuid": "50deb8a6-3f86-4316-9076-d831564fefec",
+    "creationDate": "2026-10-19T03:59:56.777Z",
+    "game": "Final Fantasy XIII",
+    "song": "March of the Dreadnoughts",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Final Fantasy XIII/March of the Dreadnoughts.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Final Fantasy XIII/March of the Dreadnoughts.mp3",
+    "hash": "8615d0765aa9ee2678036bc94f033ce3",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-19.75"
+  },
+  {
+    "uuid": "1b229cb4-f178-46a4-99a4-aea76eed0e97",
+    "creationDate": "2026-10-19T03:59:57.131Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Black Fang",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Fire Emblem The Blazing Blade/Black Fang.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Fire Emblem The Blazing Blade/Black Fang.mp3",
+    "hash": "d24c9ffc645fd3067e30dc358c4e731b",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.30"
+  },
+  {
+    "uuid": "0acae093-5f9f-4454-9219-063f0209c6c9",
+    "creationDate": "2026-10-19T03:59:57.156Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Rise to the Challenge",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Fire Emblem The Blazing Blade/Rise to the Challenge.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Fire Emblem The Blazing Blade/Rise to the Challenge.mp3",
+    "hash": "2473874b917ec5cb511cde736f267027",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.37"
+  },
+  {
+    "uuid": "7b579bb1-2c09-4629-aca6-57f677f9e3af",
+    "creationDate": "2026-10-19T03:59:57.177Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Winning Road",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Fire Emblem The Blazing Blade/Winning Road.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Fire Emblem The Blazing Blade/Winning Road.mp3",
+    "hash": "add7051710c6dc466c5ba4d5ae39fcfc",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.82"
+  },
+  {
+    "uuid": "6f34db9c-335d-45dd-9ef2-c109f65d4e41",
+    "creationDate": "2026-10-19T03:59:57.390Z",
+    "game": "Goemon's Great Adventure",
+    "song": "Burning My Soul",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Goemon's Great Adventure/Burning My Soul.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Goemon's Great Adventure/Burning My Soul.mp3",
+    "hash": "ae226bca5d95461ef605b2ff0028e280",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.61"
+  },
+  {
+    "uuid": "ecac16dd-d354-43cd-b07e-c0fa6ac55f9b",
+    "creationDate": "2026-10-19T03:59:57.947Z",
+    "game": "Halo: Combat Evolved",
+    "song": "Halo",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Halo Combat Evolved/Halo.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Halo Combat Evolved/Halo.mp3",
+    "hash": "0243dbd46013b8514bd5236323643ec0",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.39"
+  },
+  {
+    "uuid": "a8cd3e46-f9ae-444a-a7e7-711d22cb2465",
+    "creationDate": "2026-10-19T03:59:58.675Z",
+    "game": "Kingdom Hearts",
+    "song": "Go For It",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Kingdom Hearts/Go For It.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Go For It.mp3",
+    "hash": "96588e8d1b8d086915021732b096cbe5",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-19.24"
+  },
+  {
+    "uuid": "14e09a9d-0426-4f49-9d37-60ea3f2048f5",
+    "creationDate": "2026-10-19T03:59:58.700Z",
+    "game": "Kingdom Hearts",
+    "song": "Hand In Hand",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Kingdom Hearts/Hand In Hand.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Hand In Hand.mp3",
+    "hash": "85d5468c14a9f21289492cd91e5599bd",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.54"
+  },
+  {
+    "uuid": "d55e005e-d7f4-4dfe-9fba-9b40884f61c1",
+    "creationDate": "2026-10-19T03:59:58.705Z",
+    "game": "Kingdom Hearts",
+    "song": "Having a Wild Time",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Kingdom Hearts/Having a Wild Time.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Having a Wild Time.mp3",
+    "hash": "52a9b2b7d2e402b7b5a26d5c43a9e2b5",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-19.68"
+  },
+  {
+    "uuid": "7cc04029-4678-4468-a47b-407227333afc",
+    "creationDate": "2026-10-19T03:59:58.731Z",
+    "game": "Kingdom Hearts",
+    "song": "Hikari (Orchestral Version)",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Kingdom Hearts/Hikari (Orchestral Version).ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Hikari (Orchestral Version).mp3",
+    "hash": "c357457b1986a25bd020ba410f33388b",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.76"
+  },
+  {
+    "uuid": "6ca1d1be-03d1-4267-a679-89eada04daf8",
+    "creationDate": "2026-10-19T03:59:58.757Z",
+    "game": "Kingdom Hearts",
+    "song": "Night of Fate",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Kingdom Hearts/Night of Fate.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Night of Fate.mp3",
+    "hash": "9c80735b9800b29cf836cc1feb27d5f4",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.46"
+  },
+  {
+    "uuid": "1ac74468-25db-42e7-aace-e2c8db286bf4",
+    "creationDate": "2026-10-19T03:59:58.782Z",
+    "game": "Kingdom Hearts 358∕2 Days",
+    "song": "Axel and Saix",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Kingdom Hearts 358∕2 Days/Axel and Saix.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts 358∕2 Days/Axel and Saix.mp3",
+    "hash": "81a0891a85f8f367c34d93e869b6fabc",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-19.32"
+  },
+  {
+    "uuid": "a182eefe-3c6d-40a3-9158-f9ec2c5e107e",
+    "creationDate": "2026-10-19T03:59:58.841Z",
+    "game": "Kingdom Hearts 358∕2 Days",
+    "song": "The Other Promise",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Kingdom Hearts 358∕2 Days/The Other Promise.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts 358∕2 Days/The Other Promise.mp3",
+    "hash": "d2f23d2b19d6a629145554be03ddb99d",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.69"
+  },
+  {
+    "uuid": "155cc8fa-ab5a-43d0-8d96-a3a4483b0d2e",
+    "creationDate": "2026-10-19T03:59:58.905Z",
+    "game": "Kingdom Hearts II",
+    "song": "Riku's Theme",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Kingdom Hearts II/Riku's Theme.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts II/Riku's Theme.mp3",
+    "hash": "aae7f7cb8ab1aefe64583cb7fd31e21d",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.22"
+  },
+  {
+    "uuid": "52465601-292c-4f1d-821f-036641979b34",
+    "creationDate": "2026-10-19T03:59:58.954Z",
+    "game": "Kingdom Hearts II",
+    "song": "The 13th Struggle [2]",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Kingdom Hearts II/The 13th Struggle [2].ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts II/The 13th Struggle [2].mp3",
+    "hash": "0e02b435758073028022195b9af138c0",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.50"
+  },
+  {
+    "uuid": "8450ff9f-f9f0-4f3f-baaf-aed07338e494",
+    "creationDate": "2026-10-19T03:59:59.799Z",
+    "game": "Lufia II: Rise of the Sinistrals",
+    "song": "Boss Battle [2]",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Lufia II Rise of the Sinistrals/Boss Battle [2].ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Lufia II Rise of the Sinistrals/Boss Battle [2].mp3",
+    "hash": "32f0c3077c5803b689772c9335744e36",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.72"
+  },
+  {
+    "uuid": "905747ec-4a5f-4573-aded-587eec2be77b",
+    "creationDate": "2026-10-19T03:59:59.851Z",
+    "game": "Lufia II: Rise of the Sinistrals",
+    "song": "Final Battle",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Lufia II Rise of the Sinistrals/Final Battle.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Lufia II Rise of the Sinistrals/Final Battle.mp3",
+    "hash": "abe1c498df0520cebf7a264cc02a3815",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.43"
+  },
+  {
+    "uuid": "bf8dbfcc-29a4-4a73-9994-8d9a7aa239ab",
+    "creationDate": "2026-10-19T03:59:59.930Z",
+    "game": "Lufia II: Rise of the Sinistrals",
+    "song": "Sinistral Battle [2]",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Lufia II Rise of the Sinistrals/Sinistral Battle [2].ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Lufia II Rise of the Sinistrals/Sinistral Battle [2].mp3",
+    "hash": "8a523ec7fa4a673f6b2c4b011de075ff",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-14.78"
+  },
+  {
+    "uuid": "afcf0036-2830-47af-99ef-13be8f25b1cc",
+    "creationDate": "2026-10-19T03:59:59.953Z",
+    "game": "Lufia II: Rise of the Sinistrals",
+    "song": "The Earth [2]",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Lufia II Rise of the Sinistrals/The Earth [2].ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Lufia II Rise of the Sinistrals/The Earth [2].mp3",
+    "hash": "18d408f855ec6283491bbae2fb393362",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.76"
+  },
+  {
+    "uuid": "2cd49059-5e9c-4f92-b833-c981b1b82e05",
+    "creationDate": "2026-10-19T04:00:02.433Z",
+    "game": "Mega Man X3",
+    "song": "Gravity Beetle",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Mega Man X3/Gravity Beetle.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Mega Man X3/Gravity Beetle.mp3",
+    "hash": "5b598d90993d58655a7888aad3e66423",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.16"
+  },
+  {
+    "uuid": "9ef5dc52-d87d-407b-9e48-40fde9ee251a",
+    "creationDate": "2026-10-19T04:00:04.385Z",
+    "game": "Nintendo GameCube",
+    "song": "Menu",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Nintendo GameCube/Menu.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Nintendo GameCube/Menu.mp3",
+    "hash": "ba62a55848118609022dbb398d409ad0",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-17.96"
+  },
+  {
+    "uuid": "c9e549e7-9cd4-454e-a286-0f0767d92e57",
+    "creationDate": "2026-10-19T04:00:04.449Z",
+    "game": "Ogre Battle 64",
+    "song": "Decisive Battle",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Ogre Battle 64/Decisive Battle.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Ogre Battle 64/Decisive Battle.mp3",
+    "hash": "6e08c4d944119e153b9171363d0be927",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.17"
+  },
+  {
+    "uuid": "451d8852-3748-4cf8-b75d-9dc0a5c0fe84",
+    "creationDate": "2026-10-19T04:00:05.492Z",
+    "game": "Pilotwings 64",
+    "song": "Birdman",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Pilotwings 64/Birdman.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Pilotwings 64/Birdman.mp3",
+    "hash": "e66dfb2c0026447b858f7239d8f5f03e",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-17.18"
+  },
+  {
+    "uuid": "5d667cc0-3d0c-4739-85d0-dbb1a76a2473",
+    "creationDate": "2026-10-19T04:00:05.497Z",
+    "game": "Pilotwings 64",
+    "song": "Hang Glider",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Pilotwings 64/Hang Glider.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Pilotwings 64/Hang Glider.mp3",
+    "hash": "b31ea83c36a4c71e2b107ef7937300c0",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.59"
+  },
+  {
+    "uuid": "0464a263-fcfb-4e04-b48a-ef50d56bb953",
+    "creationDate": "2026-10-19T04:00:05.613Z",
+    "game": "Pizza Tower",
+    "song": "Oregano Mirage",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Pizza Tower/Oregano Mirage.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Pizza Tower/Oregano Mirage.mp3",
+    "hash": "d4db83a9c5f8bde81ec3d26cb30a04d2",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-17.56"
+  },
+  {
+    "uuid": "d5e9774c-6978-4f6d-97d3-71b404d9d1dc",
+    "creationDate": "2026-10-19T04:00:06.817Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Sprout Tower",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Pokémon Gold, Silver & Crystal/Sprout Tower.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Pokémon Gold, Silver & Crystal/Sprout Tower.mp3",
+    "hash": "9c1629e9f802b5e74be509c0dda9f6ed",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-19.35"
+  },
+  {
+    "uuid": "bda9d760-a1c8-4b15-bb09-79ea0664a826",
+    "creationDate": "2026-10-19T04:00:09.572Z",
+    "game": "Silent Hill 3",
+    "song": "You're Not Here",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Silent Hill 3/You're Not Here.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Silent Hill 3/You're Not Here.mp3",
+    "hash": "345af5782969e1d22a22150dc9a36085",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-19.50"
+  },
+  {
+    "uuid": "6383e986-fc80-4e74-a592-9c8a7eac8143",
+    "creationDate": "2026-10-19T04:00:11.580Z",
+    "game": "Star Fox 64",
+    "song": "Boss A",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Star Fox 64/Boss A.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Boss A.mp3",
+    "hash": "eef51a34466a7fb40555fbbf18d1fe60",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-17.73"
+  },
+  {
+    "uuid": "ce9d33e3-c1e3-4c1c-9960-9c42b1e6d9a6",
+    "creationDate": "2026-10-19T04:00:11.585Z",
+    "game": "Star Fox 64",
+    "song": "Boss B [2]",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Star Fox 64/Boss B [2].ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Boss B [2].mp3",
+    "hash": "b9cb5e58a137778790f6fcd8b8b6b1d6",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.65"
+  },
+  {
+    "uuid": "24374bd0-0360-4be2-98cc-08723b679f2a",
+    "creationDate": "2026-10-19T04:00:11.608Z",
+    "game": "Star Fox 64",
+    "song": "Corneria",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Star Fox 64/Corneria.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Corneria.mp3",
+    "hash": "8b9fa28aac869e103ad9e2b9bc17fd16",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.71"
+  },
+  {
+    "uuid": "6c7358ce-1c1a-40e8-81c5-73793ac6e909",
+    "creationDate": "2026-10-19T04:00:11.635Z",
+    "game": "Star Fox 64",
+    "song": "Map",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Star Fox 64/Map.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Map.mp3",
+    "hash": "9714312d9918a1ed301a0bddf5b1376a",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-19.58"
+  },
+  {
+    "uuid": "c24a5e90-a1a2-4dc2-a5fc-4c62760bc092",
+    "creationDate": "2026-10-19T04:00:11.640Z",
+    "game": "Star Fox 64",
+    "song": "Menu",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Star Fox 64/Menu.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Menu.mp3",
+    "hash": "89dc44b6c9f2a5d775db715965eac3ac",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-20.89"
+  },
+  {
+    "uuid": "4b5f1859-a633-42fc-9321-15d4918674e4",
+    "creationDate": "2026-10-19T04:00:11.670Z",
+    "game": "Star Fox 64",
+    "song": "Sector Z [2]",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Star Fox 64/Sector Z [2].ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Sector Z [2].mp3",
+    "hash": "250e4ab96b817bb591277afd9a3fa5ac",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-19.52"
+  },
+  {
+    "uuid": "04392c27-f8f7-4b8e-826a-ecf8f7e5fb81",
+    "creationDate": "2026-10-19T04:00:11.733Z",
+    "game": "Star Fox 64",
+    "song": "Venom",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Star Fox 64/Venom.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Venom.mp3",
+    "hash": "fb09c109a7a9407be489128b8eab5fd5",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-17.22"
+  },
+  {
+    "uuid": "7941f579-e18a-43b4-9c47-28b14eab8576",
+    "creationDate": "2026-10-19T04:00:11.757Z",
+    "game": "Star Fox Adventures",
+    "song": "Krazoa Shrine",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Star Fox Adventures/Krazoa Shrine.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Star Fox Adventures/Krazoa Shrine.mp3",
+    "hash": "1551010ae38427afa51dbb3b4a18ee2c",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.77"
+  },
+  {
+    "uuid": "0ee95675-248c-438a-8e71-4434fbb35a0a",
+    "creationDate": "2026-10-19T04:00:11.763Z",
+    "game": "Star Fox Adventures",
+    "song": "Thorntail Hollow (Day)",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Star Fox Adventures/Thorntail Hollow (Day).ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Star Fox Adventures/Thorntail Hollow (Day).mp3",
+    "hash": "a84fe651e8d21992fd5585fa410b25ca",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.40"
+  },
+  {
+    "uuid": "d9b63f10-48c7-4c07-9460-524a8273361d",
+    "creationDate": "2026-10-19T04:00:12.052Z",
+    "game": "Suikoden",
+    "song": "Main Theme",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Suikoden/Main Theme.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Suikoden/Main Theme.mp3",
+    "hash": "7f22cbb03a4b05607f0402919aa343ee",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-17.96"
+  },
+  {
+    "uuid": "d953a367-8ee7-4b27-8346-5ffd1268f529",
+    "creationDate": "2026-10-19T04:00:12.120Z",
+    "game": "Super Castlevania IV",
+    "song": "Forest of Monsters (Bongo Edition)",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Super Castlevania IV/Forest of Monsters (Bongo Edition).ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Super Castlevania IV/Forest of Monsters (Bongo Edition).mp3",
+    "hash": "af837ed6bb609147442e9f622ad27fbe",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.75"
+  },
+  {
+    "uuid": "b1774aa6-e647-4851-bc69-3fabac42bcde",
+    "creationDate": "2026-10-19T04:00:12.126Z",
+    "game": "Super Castlevania IV",
+    "song": "Forest of Monsters",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Super Castlevania IV/Forest of Monsters.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Super Castlevania IV/Forest of Monsters.mp3",
+    "hash": "9579f57149cd0312855c13f8435a7ae1",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.50"
+  },
+  {
+    "uuid": "31a3f0e4-0337-4be9-8967-438d4ee06f30",
+    "creationDate": "2026-10-19T04:00:12.739Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Barrel Volcano",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Barrel Volcano.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Super Mario RPG Legend of the Seven Stars/Barrel Volcano.mp3",
+    "hash": "999079bc8fd035637e1123a411d49b25",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.05"
+  },
+  {
+    "uuid": "b1c164d3-f294-4dff-8d7f-f9035f36cd70",
+    "creationDate": "2026-10-19T04:00:12.814Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Bowser's Keep",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Bowser's Keep.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Super Mario RPG Legend of the Seven Stars/Bowser's Keep.mp3",
+    "hash": "751e9abdd8c84e6c0d81011119539e06",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-15.40"
+  },
+  {
+    "uuid": "80c79e1d-5472-45a1-9026-45137e414853",
+    "creationDate": "2026-10-19T04:00:18.365Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Skyloft",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "The Legend of Zelda Skyward Sword/Skyloft.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/The Legend of Zelda Skyward Sword/Skyloft.mp3",
+    "hash": "c4bda6d22b26f4f5c1c16a3e5235d1de",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-20.09"
+  },
+  {
+    "uuid": "4fc906d7-6488-4e4a-8cfc-b72e503ba10a",
+    "creationDate": "2026-10-19T04:00:23.090Z",
+    "game": "Xenogears",
+    "song": "Bonds of the Sea and Fire",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Xenogears/Bonds of the Sea and Fire.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Xenogears/Bonds of the Sea and Fire.mp3",
+    "hash": "af7af7ef84cb32df66acd8d487e4a784",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-14.23"
+  },
+  {
+    "uuid": "d8341bf4-e9e9-4eec-9cd8-2e17b01ffba9",
+    "creationDate": "2026-10-19T04:00:23.108Z",
+    "game": "Xenogears",
+    "song": "Emotion",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Xenogears/Emotion.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Xenogears/Emotion.mp3",
+    "hash": "db51a48fa0c2a653141582c07e8971c1",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.17"
+  },
+  {
+    "uuid": "8fd39689-641a-48fb-8912-324033b5b99e",
+    "creationDate": "2026-10-19T04:00:23.114Z",
+    "game": "Xenogears",
+    "song": "Faraway Promise",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Xenogears/Faraway Promise.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Xenogears/Faraway Promise.mp3",
+    "hash": "9f8bd34a66addfe624e6ce66297525e6",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-17.21"
+  },
+  {
+    "uuid": "4204e90a-7c1d-46cc-bc6c-6d3cdac9401a",
+    "creationDate": "2026-10-19T04:00:23.134Z",
+    "game": "Yakuza",
+    "song": "For Whose Sake",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Yakuza/For Whose Sake.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Yakuza/For Whose Sake.mp3",
+    "hash": "73635edd726d050d0080408832904240",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.27"
+  },
+  {
+    "uuid": "28861631-58df-4328-abd6-dc1bfc3bccf0",
+    "creationDate": "2026-10-19T04:00:23.178Z",
+    "game": "Yakuza 0",
+    "song": "Intro",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Yakuza 0/Intro.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Yakuza 0/Intro.mp3",
+    "hash": "1615c3bf6bf4bb8debd3b621ec2e2e3c",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.37"
+  },
+  {
+    "uuid": "0025f3a8-dcc5-466a-bf6a-4afeefa32908",
+    "creationDate": "2026-10-19T04:00:23.184Z",
+    "game": "Yakuza 0",
+    "song": "Substory",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Yakuza 0/Substory.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Yakuza 0/Substory.mp3",
+    "hash": "e8d4cbf67935216c5ffe4918c5820123",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-16.63"
+  },
+  {
+    "uuid": "d3c52a43-999e-40c5-84e5-1905928c3dd2",
+    "creationDate": "2026-10-19T04:00:23.269Z",
+    "game": "Yoshi's Island",
+    "song": "Flower Garden",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Yoshi's Island/Flower Garden.ootrs",
+    "preview": "https://archive.org/download/darunias-joy/Yoshi's Island/Flower Garden.mp3",
+    "hash": "745cfe8f58ed8702f1e72e004514fa35",
+    "converters": [
+      "DarknessRadio"
+    ],
+    "lufs": "-18.31"
+  }
 ]
