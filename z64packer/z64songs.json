@@ -47582,57 +47582,6 @@
     ]
   },
   {
-    "uuid": "1d12ce64-5a8d-49fb-b8d0-2a0940957e68",
-    "creationDate": "2026-10-18T02:00:12.110Z",
-    "game": "Seihou 1: Shuusou Gyoku",
-    "song": "Dichromatic Lotus Butterfly ~ Ancients",
-    "type": "bgm",
-    "categories": [
-      "HyruleField",
-      "LostWoods",
-      "GerudoValley",
-      "KokiriForest",
-      "LonLonRanch",
-      "GoronCity",
-      "ZorasDomain",
-      "TempleOfTime",
-      "House",
-      "InsideDekuTree",
-      "DodongosCavern",
-      "JabuJabu",
-      "FireTemple",
-      "ForestTemple",
-      "IceCavern",
-      "WaterTemple",
-      "SpiritTemple",
-      "ShadowTemple",
-      "CastleUnderground",
-      "Fields",
-      "Town",
-      "MagicalPlace",
-      "ChildDungeon",
-      "AncientDungeon",
-      "MysticalDungeon",
-      "SpookyDungeon",
-      "Outdoors",
-      "Indoors",
-      "AdultDungeon",
-      "Overworld",
-      "Dungeon"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
-    "file": "Seihou 1 Shuusou Gyoku/Dichromatic Lotus Butterfly ~ Ancients.ootrs",
-    "preview": "https://archive.org/download/darunias-joy/Seihou 1 Shuusou Gyoku/Dichromatic Lotus Butterfly ~ Ancients.mp3",
-    "hash": "944c5814a497cf21704fa16d051ad41c",
-    "lufs": "-13.31",
-    "converters": [
-      "SeitanTaisen"
-    ]
-  },
-  {
     "uuid": "78d26ac4-ff6e-4611-8804-0c14f6d2fdb7",
     "creationDate": "2026-10-18T02:00:12.130Z",
     "game": "Seihou 1: Shuusou Gyoku",
@@ -50711,5 +50660,6 @@
       "DarknessRadio"
     ],
     "lufs": "-18.31"
-  }
+  },
+  "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
