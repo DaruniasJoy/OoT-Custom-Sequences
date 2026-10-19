@@ -1735,7 +1735,7 @@
     "logo": "https://i.imgur.com/PG6sCj1.png"
   },
   {
-    "game": "Soulcalibur II",
+    "game": "SoulCalibur II",
     "logo": "https://i.imgur.com/SG2MVQu.png"
   },
   {
@@ -2029,12 +2029,6 @@
     "game": "The King of Fighters 2002: Challenge to Ultimate Battle",
     "logo": "https://i.imgur.com/Sjpzhra.png",
     "short_name": "The King of Fighters 2002"
-  },
-  {
-    "game": "The Legend of Banjo-Kazooie: The Jiggies of Time",
-    "series": "Banjo-Kazooie Series",
-    "logo": "https://i.imgur.com/uhMttf9.png",
-    "short_name": "Jiggies of Time"
   },
   {
     "game": "The Legend of Zelda",
@@ -3801,6 +3795,7 @@
   },
   {
     "game": ".hack∕∕MUTATION",
+    "series": ".hack Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/ef1b9b0b9c5ad1de09b779f4f97ca59b.png"
   },
   {
@@ -4971,6 +4966,190 @@
   },
   {
     "game": "Hollow Knight: Silksong"
+  },
+  {
+    "game": "Banjo-Kazooie: Jiggies of Time",
+    "series": "Banjo-Kazooie Series",
+    "logo": "https://i.imgur.com/uhMttf9.png",
+    "short_name": "Jiggies of Time"
+  },
+  {
+    "game": "Marvel vs. Capcom: Clash of Super Heroes",
+    "series": "Vs. Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/46031b3d04dc90994ca317a7c55c4289.png",
+    "short_name": "Marvel vs. Capcom"
+  },
+  {
+    "game": "Mega Man 7",
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4c6f2a67916df843c2a3d1a8bea66a71.png"
+  },
+  {
+    "game": "Mega Man X: Corrupted",
+    "series": "Mega Man Series",
+    "logo": "https://jkbgames.com/w/images/e/e6/Site-logo.png"
+  },
+  {
+    "game": "Persona 4 Golden",
+    "series": "Persona Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a992995ef4f0439b258f2360dbb85511.png"
+  },
+  {
+    "game": "Pocky & Rocky",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/c3f400862abb2668f9c0cbe39cbb2469.png"
+  },
+  {
+    "game": "Raiden",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/bb3398edde45705621238b7d223b7323.png"
+  },
+  {
+    "game": "Seihou 1: Shuusou Gyoku",
+    "series": "Seihou Project",
+    "logo": "https://i.imgur.com/9jFUcbA.png",
+    "short_name": "Seihou 1"
+  },
+  {
+    "game": "Sonic Robo Blast 2: The Mystic Realm",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ae076908e0e9732aaa2493dcf7a997bf.png"
+  },
+  {
+    "game": "Spider-Man & Venom: Maximum Carnage",
+    "series": "Spider-Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0365aaecae1f149351d36fb06a31828f.png"
+  },
+  {
+    "game": "Street Fighter EX Plus Alpha",
+    "series": "Street Fighter Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/743c42531fc9555a73b2a4c8dfdcde8d.png"
+  },
+  {
+    "game": "Tales of Rebirth",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2c299b4ee4a34a8b90da552538e67112.png"
+  },
+  {
+    "game": "The Legend of the Mystical Ninja",
+    "series": "Ganbare Goemon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/393a0f103dfdc3798cf1cfc2e7bdbc1f.png"
+  },
+  {
+    "game": "Touhou 7.5: Immaterial and Missing Power",
+    "series": "Touhou Project",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f3840c3e3fb9af1a9d9a815e1c2adcf9.png",
+    "short_name": "Touhou 7.5"
+  },
+  {
+    "game": "Undertale: No More Deals",
+    "series": "Undertale Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7f519b0c6fc63cf4809b11e96e35b4ae.png"
+  },
+  {
+    "game": "Ys: The Oath in Felghana",
+    "series": "Ys Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3bc8f7011e08bfe6830c967b497bdf6d.png"
+  },
+  {
+    "game": "Guilty Gear",
+    "series": "Guilty Gear Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ae951984b10287b9c3e716c3347f46a4.png"
+  },
+  {
+    "game": "Kirby's Return to Dream Land",
+    "series": "Kirby Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2cc73b24083105c3d488cc61b606d4f0.png"
+  },
+  {
+    "game": "Legend of Mana",
+    "series": "Mana Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2ea667a5830b59ba21bcd2315ddc2014.png"
+  },
+  {
+    "game": "Puyo Puyo Sun",
+    "series": "Puyo Puyo Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6f31db0cab7c10ab173107e1f53376b8.png"
+  },
+  {
+    "game": "Sailor Moon Another Story",
+    "series": "Sailor Moon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d351f787f92fd392b0c30979e85630ef.png"
+  },
+  {
+    "game": "Tales of Destiny 2",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0a64dcdcbcd89c8d0f1540e08ec12091.png"
+  },
+  {
+    "game": "The King of Fighters '95",
+    "series": "The King of Fighters Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4f52c16c93e61c9e1c25f529932b0071.png"
+  },
+  {
+    "game": "Touhou 12.8: Fairy Wars",
+    "series": "Touhou Project",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7ed94938c403c962c1798fe420759807.png"
+  },
+  {
+    "game": "Touhou CD 4: Retrospective 53 minutes",
+    "series": "Touhou Project",
+    "logo": "https://lambda.vgmtreasurechest.com/soundtracks/zun-s-music-collection-04-retrospective-53-minutes/00%20Front.jpg"
+  },
+  {
+    "game": "Touhou Project",
+    "series": "Touhou Project",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Touhou_Project.svg/500px-Touhou_Project.svg.png"
+  },
+  {
+    "game": "Under Night In-Birth",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/aab8adb54ac1f1222e1842f33a4d161a.png"
+  },
+  {
+    "game": "Warriors Orochi 2",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6a4c174e71ea1d7c905c3004c2216e95.png"
+  },
+  {
+    "game": "X-Men vs. Street Fighter",
+    "series": "Vs. Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4974a9fe76a5b447c35ad12a15fa0260.png"
+  },
+  {
+    "game": "Ys Seven",
+    "series": "Ys Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/13d7dc096493e1f77fb4ccf3eaf79df1.png"
+  },
+  {
+    "game": "Ys VI: The Ark of Napishtim",
+    "series": "Ys Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7a873037e3a21153cc1ab9d7144fe125.png"
+  },
+  {
+    "game": "The Legend of Heroes: Trails from Zero"
+  },
+  {
+    "game": "Touhou CD 5: Magical Astronomy"
+  },
+  {
+    "game": ".hack∕∕INFECTION",
+    "series": ".hack Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/39aca26227b4762cf59f50e09159ca84.png"
+  },
+  {
+    "game": "Bonk's Adventure",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9b095e0906047abe5d69950086857a14.png"
+  },
+  {
+    "game": "Goemon's Great Adventure",
+    "series": "Ganbare Goemon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1217dfac1107f5d9fd05410319a1554a.png"
+  },
+  {
+    "game": "Mega Man X3",
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ed169960635ad981cb7b65edf84b3f8f.png"
+  },
+  {
+    "game": "Ogre Battle 64",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/059def4514ca1bc7ff5781ac48428572.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
