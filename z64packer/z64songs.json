@@ -45326,16 +45326,17 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Hyrule Warriors/Silent Guardians.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Hyrule Warriors/Silent Guardians.mp3",
     "hash": "cfd468de44fea3f0aa76868c494dfa5f",
     "lufs": "-14.92",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:37:25.849Z",
+    "composers": [
+      "Masato Koike",
+      "Yuki Matsumura"
     ]
   },
   {
