@@ -49706,18 +49706,17 @@
     "game": "Final Fantasy XIII",
     "song": "March of the Dreadnoughts",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy XIII/March of the Dreadnoughts.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy XIII/March of the Dreadnoughts.mp3",
     "hash": "8615d0765aa9ee2678036bc94f033ce3",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.75"
+    "lufs": "-19.75",
+    "lastUpdateDate": "2026-10-20T15:53:07.790Z",
+    "composers": [
+      "Masashi Hamauzu"
+    ]
   },
   {
     "uuid": "1b229cb4-f178-46a4-99a4-aea76eed0e97",
