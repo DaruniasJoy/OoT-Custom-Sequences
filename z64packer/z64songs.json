@@ -46598,16 +46598,16 @@
       "Overworld",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 6/Title Screen.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 6/Title Screen.mp3",
     "hash": "28763597496a2879e633297fd66a073f",
     "lufs": "-15.02",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T23:59:00.435Z",
+    "composers": [
+      "Yuko Takehara"
     ]
   },
   {
