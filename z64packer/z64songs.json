@@ -49233,18 +49233,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Hell's Valley",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Hell's Valley.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Hell's Valley.mp3",
     "hash": "bf9423a1e31b190e8eec21f205c40ad0",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.04"
+    "lufs": "-18.04",
+    "lastUpdateDate": "2026-10-20T15:05:43.207Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "4c7e66ef-bccf-44b6-a37a-ed63d478cb24",
