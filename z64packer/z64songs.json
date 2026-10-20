@@ -49597,18 +49597,17 @@
     "game": "Final Fantasy VII",
     "song": "Ahead On Our Way (BIG RANCH EDITION)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy VII/Ahead On Our Way (BIG RANCH EDITION).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy VII/Ahead On Our Way (BIG RANCH EDITION).mp3",
     "hash": "11151e75ad719fb35435d6735eefb41a",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.88"
+    "lufs": "-18.88",
+    "lastUpdateDate": "2026-10-20T15:47:37.854Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "uuid": "8f1cfb0f-317c-4c89-a908-1a570600fd58",
