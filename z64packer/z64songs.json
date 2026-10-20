@@ -49143,18 +49143,17 @@
     "game": "Banjo-Tooie",
     "song": "Glitter Gulch Mine (Mountain Remix)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Banjo-Tooie/Glitter Gulch Mine (Mountain Remix).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Banjo-Tooie/Glitter Gulch Mine (Mountain Remix).mp3",
     "hash": "91b6a326f64cbef901ce4749a1e26ba1",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.67"
+    "lufs": "-16.67",
+    "lastUpdateDate": "2026-10-20T14:56:33.819Z",
+    "composers": [
+      "Grant Kirkhope"
+    ]
   },
   {
     "uuid": "84b8a1d7-e15b-47dc-bb31-2a6cbc2e1737",
