@@ -46283,16 +46283,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 3/Needle Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 3/Needle Man.mp3",
     "hash": "314a9f7f386e08513d2a7581ddd1914d",
     "lufs": "-14.27",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:36:46.839Z",
+    "composers": [
+      "Yasuaki Fujita"
     ]
   },
   {
