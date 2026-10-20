@@ -45758,16 +45758,16 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Legend of Mana/Earth Painting.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Legend of Mana/Earth Painting.mp3",
     "hash": "c1f3518e8e73dfe99c9de82878b3a2e6",
     "lufs": "-16.17",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T17:07:36.605Z",
+    "composers": [
+      "Yoko Shimomura"
     ]
   },
   {
