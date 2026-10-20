@@ -46094,16 +46094,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 2/Metal Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 2/Metal Man.mp3",
     "hash": "a904e703930e516a885489aba1492019",
     "lufs": "-12.24",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:33:46.850Z",
+    "composers": [
+      "Takashi Tateishi"
     ]
   },
   {
