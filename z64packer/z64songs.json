@@ -49542,18 +49542,17 @@
     "game": "Demon's Souls",
     "song": "Vanguard",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Demon's Souls/Vanguard.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Demon's Souls/Vanguard.mp3",
     "hash": "36834634eb7ec69616cdcb37efbb2643",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-21.60"
+    "lufs": "-21.60",
+    "lastUpdateDate": "2026-10-20T15:42:11.771Z",
+    "composers": [
+      "Shunsuke Kida"
+    ]
   },
   {
     "uuid": "32ad8622-3b69-4952-8a54-a820bd9a903e",
