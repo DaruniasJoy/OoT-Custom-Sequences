@@ -46157,16 +46157,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 3/Gemini Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 3/Gemini Man.mp3",
     "hash": "ab621f846f91360c7f1ea7e568e27cbe",
     "lufs": "-12.07",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:36:01.618Z",
+    "composers": [
+      "Yasuaki Fujita"
     ]
   },
   {
