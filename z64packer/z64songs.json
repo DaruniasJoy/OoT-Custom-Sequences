@@ -49724,18 +49724,17 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Black Fang",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Fire Emblem The Blazing Blade/Black Fang.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Fire Emblem The Blazing Blade/Black Fang.mp3",
     "hash": "d24c9ffc645fd3067e30dc358c4e731b",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.30"
+    "lufs": "-16.30",
+    "lastUpdateDate": "2026-10-20T16:00:09.160Z",
+    "composers": [
+      "Saki Kasuga"
+    ]
   },
   {
     "uuid": "0acae093-5f9f-4454-9219-063f0209c6c9",
