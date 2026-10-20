@@ -49396,18 +49396,17 @@
     "game": "Castlevania: Symphony of the Night",
     "song": "Tower of Mist",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Castlevania Symphony of the Night/Tower of Mist.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Castlevania Symphony of the Night/Tower of Mist.mp3",
     "hash": "49d0f6840e6df35b97d087a885762820",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.55"
+    "lufs": "-19.55",
+    "lastUpdateDate": "2026-10-20T15:13:24.858Z",
+    "composers": [
+      "Michiru Yamane"
+    ]
   },
   {
     "uuid": "7b7c5ec5-58e4-41b7-b88d-5892fc58703c",
