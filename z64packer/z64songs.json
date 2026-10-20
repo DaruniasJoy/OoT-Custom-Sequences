@@ -51234,15 +51234,16 @@
       "CharacterTheme"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Genshin Impact/City of Mondstadt (Medley).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Genshin Impact/City of Mondstadt (Medley).mp3",
     "hash": "47c1b01dc2a8b90046f0eff835f6d71a",
     "lufs": "-22.97",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-20T21:54:28.210Z",
+    "composers": [
+      "Yu-Peng Chen"
     ]
   },
   {
