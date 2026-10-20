@@ -44644,16 +44644,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Chrono Trigger/World Revolution.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Chrono Trigger/World Revolution.mp3",
     "hash": "09a7a2de17ff59deefae4ab9b32505e2",
     "lufs": "-11.94",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:18:50.853Z",
+    "composers": [
+      "Yasunori Mitsuda"
     ]
   },
   {
