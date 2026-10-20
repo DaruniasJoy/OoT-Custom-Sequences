@@ -49106,18 +49106,17 @@
     "game": "Banjo-Kazooie",
     "song": "Bubblegloop Swamp (DK64 Boss Remix)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Banjo-Kazooie/Bubblegloop Swamp (DK64 Boss Remix).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Banjo-Kazooie/Bubblegloop Swamp (DK64 Boss Remix).mp3",
     "hash": "45cc0af28a236e7e4506a6304490156d",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.32"
+    "lufs": "-15.32",
+    "lastUpdateDate": "2026-10-20T14:51:17.160Z",
+    "composers": [
+      "Grant Kirkhope"
+    ]
   },
   {
     "uuid": "792b11cd-0b2f-4648-8c0d-b0cef703d32f",
