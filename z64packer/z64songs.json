@@ -49360,18 +49360,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Village at Night",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Village at Night.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Village at Night.mp3",
     "hash": "491d2cc68f19b836853333c2a63b70e7",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-20.77"
+    "lufs": "-20.77",
+    "lastUpdateDate": "2026-10-20T15:09:36.385Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "9c2aced7-0ee5-4566-a8fe-d809847467da",
