@@ -47156,16 +47156,20 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man ZX Advent/Determined Eyes.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man ZX Advent/Determined Eyes.mp3",
     "hash": "919237dfc202cf63fca65d45dc5f4df0",
     "lufs": "-13.47",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:52:40.248Z",
+    "composers": [
+      "Ippo Yamada",
+      "Ryo Kawakami",
+      "Masaki Suzuki",
+      "Koji Hayama",
+      "Luna Umegaki"
     ]
   },
   {
