@@ -49578,18 +49578,17 @@
     "game": "EarthBound",
     "song": "Onett",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "EarthBound/Onett.ootrs",
     "preview": "https://archive.org/download/darunias-joy/EarthBound/Onett.mp3",
     "hash": "12db95d626fcb27785c70ecfa23767e5",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.70"
+    "lufs": "-18.70",
+    "lastUpdateDate": "2026-10-20T15:45:14.871Z",
+    "composers": [
+      "Keiichi Suzuki"
+    ]
   },
   {
     "uuid": "0571cad4-af4e-4db1-99f8-4fd5d9a80e4d",
