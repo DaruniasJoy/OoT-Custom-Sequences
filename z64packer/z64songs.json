@@ -44712,16 +44712,16 @@
       "Dungeon",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Departure.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Departure.mp3",
     "hash": "d7a977a8ecc99d1eeff7d6cb008f6164",
     "lufs": "-15.49",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:33:24.686Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
