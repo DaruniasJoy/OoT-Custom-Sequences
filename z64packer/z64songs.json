@@ -50038,18 +50038,17 @@
     "game": "Lufia II: Rise of the Sinistrals",
     "song": "The Earth [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Lufia II Rise of the Sinistrals/The Earth [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Lufia II Rise of the Sinistrals/The Earth [2].mp3",
     "hash": "18d408f855ec6283491bbae2fb393362",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.76"
+    "lufs": "-16.76",
+    "lastUpdateDate": "2026-10-20T17:03:35.082Z",
+    "composers": [
+      "Yasunori Shiono"
+    ]
   },
   {
     "uuid": "2cd49059-5e9c-4f92-b833-c981b1b82e05",
