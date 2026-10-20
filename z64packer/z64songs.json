@@ -51117,16 +51117,16 @@
       "BigFanfare",
       "EventFanfare"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Contra/Stage Complete.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Contra/Stage Complete.mp3",
     "hash": "a3f586838615e83ee2510f1483cf0090",
     "lufs": "-17.02",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-20T21:49:48.870Z",
+    "composers": [
+      "Konami Kukeiha Club"
     ]
   },
   {
