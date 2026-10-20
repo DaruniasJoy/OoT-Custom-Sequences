@@ -49269,18 +49269,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Relic Keeper",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Relic Keeper.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Relic Keeper.mp3",
     "hash": "cd0e77062794a3a1817da6f717596b63",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.30"
+    "lufs": "-16.30",
+    "lastUpdateDate": "2026-10-20T15:07:05.355Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "f7231443-ad5c-47cd-a567-fee1631df082",
