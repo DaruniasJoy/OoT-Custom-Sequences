@@ -45209,16 +45209,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Guilty Gear/Momentary Life -Baiken's Theme-.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Guilty Gear/Momentary Life -Baiken's Theme-.mp3",
     "hash": "a8cea6a8af415ea7b4e4db21cae9f269",
     "lufs": "-14.54",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:19:53.682Z",
+    "composers": [
+      "Daisuke Ishiwatari"
     ]
   },
   {
