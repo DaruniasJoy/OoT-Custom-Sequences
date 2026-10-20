@@ -50421,18 +50421,18 @@
     "game": "Super Castlevania IV",
     "song": "Forest of Monsters (Bongo Edition)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Castlevania IV/Forest of Monsters (Bongo Edition).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Super Castlevania IV/Forest of Monsters (Bongo Edition).mp3",
     "hash": "af837ed6bb609147442e9f622ad27fbe",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.75"
+    "lufs": "-16.75",
+    "lastUpdateDate": "2026-10-20T15:15:39.854Z",
+    "composers": [
+      "Masanori Adachi",
+      "Taro Kudo"
+    ]
   },
   {
     "uuid": "b1774aa6-e647-4851-bc69-3fabac42bcde",
