@@ -45142,16 +45142,17 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Fire Emblem The Blazing Blade/Companions.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Fire Emblem The Blazing Blade/Companions.mp3",
     "hash": "3dbff231a2bce8ee25aefb5d7463c31a",
     "lufs": "-13.61",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:01:11.795Z",
+    "composers": [
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
     ]
   },
   {
