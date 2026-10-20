@@ -50098,18 +50098,17 @@
     "game": "Nintendo GameCube",
     "song": "Menu",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Nintendo GameCube/Menu.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Nintendo GameCube/Menu.mp3",
     "hash": "ba62a55848118609022dbb398d409ad0",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.96"
+    "lufs": "-17.96",
+    "lastUpdateDate": "2026-10-20T15:22:48.849Z",
+    "composers": [
+      "Hirokazu Tanaka"
+    ]
   },
   {
     "uuid": "c9e549e7-9cd4-454e-a286-0f0767d92e57",
