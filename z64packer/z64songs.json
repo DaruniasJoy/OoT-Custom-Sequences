@@ -49984,18 +49984,17 @@
     "game": "Lufia II: Rise of the Sinistrals",
     "song": "Boss Battle [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Lufia II Rise of the Sinistrals/Boss Battle [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Lufia II Rise of the Sinistrals/Boss Battle [2].mp3",
     "hash": "32f0c3077c5803b689772c9335744e36",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.72"
+    "lufs": "-15.72",
+    "lastUpdateDate": "2026-10-20T17:02:09.130Z",
+    "composers": [
+      "Yasunori Shiono"
+    ]
   },
   {
     "uuid": "905747ec-4a5f-4573-aded-587eec2be77b",
