@@ -49378,18 +49378,17 @@
     "game": "Castlevania: Symphony of the Night",
     "song": "Crystal Teardrops",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Castlevania Symphony of the Night/Crystal Teardrops.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Castlevania Symphony of the Night/Crystal Teardrops.mp3",
     "hash": "a962a881772f921bacbe35bf4d3f43ce",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.63"
+    "lufs": "-19.63",
+    "lastUpdateDate": "2026-10-20T15:11:48.904Z",
+    "composers": [
+      "Michiru Yamane"
+    ]
   },
   {
     "uuid": "bbb15c0d-87d8-4dd6-950a-f1a62cd84914",
