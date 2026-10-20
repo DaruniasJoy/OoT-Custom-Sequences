@@ -47042,16 +47042,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Zero 4/Esperanto.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man Zero 4/Esperanto.mp3",
     "hash": "a7cf2f67868e6d6c60b6eab91b357906",
     "lufs": "-13.87",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:55:25.219Z",
+    "composers": [
+      "Luna Umegaki"
     ]
   },
   {
