@@ -44935,16 +44935,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Reminiscence.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Reminiscence.mp3",
     "hash": "aff074e3cac36ddbfc36d5f023a205b3",
     "lufs": "-16.76",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:38:05.838Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
