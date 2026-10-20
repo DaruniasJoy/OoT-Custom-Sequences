@@ -47191,16 +47191,20 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man ZX Advent/Slam Down.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man ZX Advent/Slam Down.mp3",
     "hash": "a55400e8f8edfef83d8130d8ad688cd9",
     "lufs": "-10.89",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:53:24.841Z",
+    "composers": [
+      "Ippo Yamada",
+      "Ryo Kawakami",
+      "Masaki Suzuki",
+      "Koji Hayama",
+      "Luna Umegaki"
     ]
   },
   {
