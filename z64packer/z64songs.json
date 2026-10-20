@@ -46991,16 +46991,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X5/Zero Stage 2.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X5/Zero Stage 2.mp3",
     "hash": "29f940c0acfd52eb787ed68d4ecf44e5",
     "lufs": "-14.55",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:51:02.918Z",
+    "composers": [
+      "Naoto Tanaka"
     ]
   },
   {
