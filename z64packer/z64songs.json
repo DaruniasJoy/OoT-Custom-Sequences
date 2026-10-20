@@ -49743,18 +49743,18 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Rise to the Challenge",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Fire Emblem The Blazing Blade/Rise to the Challenge.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Fire Emblem The Blazing Blade/Rise to the Challenge.mp3",
     "hash": "2473874b917ec5cb511cde736f267027",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.37"
+    "lufs": "-16.37",
+    "lastUpdateDate": "2026-10-20T16:01:44.877Z",
+    "composers": [
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
+    ]
   },
   {
     "uuid": "7b579bb1-2c09-4629-aca6-57f677f9e3af",
