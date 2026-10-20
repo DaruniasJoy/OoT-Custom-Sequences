@@ -50440,18 +50440,18 @@
     "game": "Super Castlevania IV",
     "song": "Forest of Monsters",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Castlevania IV/Forest of Monsters.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Super Castlevania IV/Forest of Monsters.mp3",
     "hash": "9579f57149cd0312855c13f8435a7ae1",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.50"
+    "lufs": "-15.50",
+    "lastUpdateDate": "2026-10-20T15:15:03.141Z",
+    "composers": [
+      "Masanori Adachi",
+      "Taro Kudo"
+    ]
   },
   {
     "uuid": "31a3f0e4-0337-4be9-8967-438d4ee06f30",
