@@ -51610,16 +51610,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 2/Bubble Man [3].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 2/Bubble Man [3].mp3",
     "hash": "db9c5093d031ffbdf014b88d46998284",
     "lufs": "-14.09",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-20T23:51:50.174Z",
+    "composers": [
+      "Takashi Tateishi"
     ]
   },
   {
