@@ -46031,16 +46031,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 2/Flash Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 2/Flash Man.mp3",
     "hash": "59076f8b2e215a11e1693308278165af",
     "lufs": "-12.90",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:33:06.409Z",
+    "composers": [
+      "Takashi Tateishi"
     ]
   },
   {
