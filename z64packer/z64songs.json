@@ -49452,18 +49452,17 @@
     "game": "Dark Cloud",
     "song": "Main Theme",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Main Theme.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Main Theme.mp3",
     "hash": "b67e217ed9eca90f16e3526853159555",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.43"
+    "lufs": "-17.43",
+    "lastUpdateDate": "2026-10-20T15:35:02.715Z",
+    "composers": [
+      "Tomohito Nishiura"
+    ]
   },
   {
     "uuid": "5a3b3b0f-41c6-4458-920c-9984b17468c1",
