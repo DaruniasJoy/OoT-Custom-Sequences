@@ -51363,16 +51363,16 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Guilty Gear XX/Simple Life -Bridget's Theme-.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Guilty Gear XX/Simple Life -Bridget's Theme-.mp3",
     "hash": "c24c84f83d80f5fd34d29ddfbfdcb3ec",
     "lufs": "-18.26",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-20T23:42:16.840Z",
+    "composers": [
+      "Daisuke Ishiwatari"
     ]
   },
   {
