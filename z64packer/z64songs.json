@@ -49415,18 +49415,17 @@
     "game": "Conker's Bad Fur Day",
     "song": "The Cock and Plucker",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Conker's Bad Fur Day/The Cock and Plucker.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Conker's Bad Fur Day/The Cock and Plucker.mp3",
     "hash": "93f713eaf150bc82281af174637e25f2",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-22.78"
+    "lufs": "-22.78",
+    "lastUpdateDate": "2026-10-20T15:20:13.850Z",
+    "composers": [
+      "Robin Beanland"
+    ]
   },
   {
     "uuid": "b6e51b04-e4f9-40b3-86a1-79d3466a27a7",
