@@ -50002,18 +50002,17 @@
     "game": "Lufia II: Rise of the Sinistrals",
     "song": "Final Battle",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Lufia II Rise of the Sinistrals/Final Battle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Lufia II Rise of the Sinistrals/Final Battle.mp3",
     "hash": "abe1c498df0520cebf7a264cc02a3815",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.43"
+    "lufs": "-16.43",
+    "lastUpdateDate": "2026-10-20T17:02:41.090Z",
+    "composers": [
+      "Yasunori Shiono"
+    ]
   },
   {
     "uuid": "bf8dbfcc-29a4-4a73-9994-8d9a7aa239ab",
