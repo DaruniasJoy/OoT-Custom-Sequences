@@ -46670,16 +46670,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Battle Network/Running Through the Cyber World.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man Battle Network/Running Through the Cyber World.mp3",
     "hash": "f831b2a90c38a8b1243bcaab194d4824",
     "lufs": "-16.34",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:41:08.816Z",
+    "composers": [
+      "Akari Kaida"
     ]
   },
   {
