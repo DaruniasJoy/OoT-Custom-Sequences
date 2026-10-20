@@ -45378,16 +45378,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kirby 64 The Crystal Shards/Factory Inspection.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kirby 64 The Crystal Shards/Factory Inspection.mp3",
     "hash": "dd088700151ffe91976de74bed10cb13",
     "lufs": "-15.88",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:52:37.850Z",
+    "composers": [
+      "Jun Ishikawa"
     ]
   },
   {
