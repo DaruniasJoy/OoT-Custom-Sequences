@@ -49948,18 +49948,17 @@
     "game": "Kingdom Hearts II",
     "song": "Riku's Theme",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts II/Riku's Theme.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts II/Riku's Theme.mp3",
     "hash": "aae7f7cb8ab1aefe64583cb7fd31e21d",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.22"
+    "lufs": "-18.22",
+    "lastUpdateDate": "2026-10-20T16:50:47.304Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "52465601-292c-4f1d-821f-036641979b34",
