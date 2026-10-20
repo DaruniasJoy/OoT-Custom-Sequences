@@ -49305,18 +49305,18 @@
     "game": "Brave Fencer Musashi",
     "song": "Topo's Groove Heaven",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Topo's Groove Heaven.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Topo's Groove Heaven.mp3",
     "hash": "8865b219fdabe0edead076ffd3a85b23",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.60"
+    "lufs": "-19.60",
+    "lastUpdateDate": "2026-10-20T15:10:28.854Z",
+    "composers": [
+      "Tsuyoshi Sekito",
+      "Yoichi Yoshimoto"
+    ]
   },
   {
     "uuid": "fc236a90-aa7b-4cda-8f6f-f37555440a5b",
