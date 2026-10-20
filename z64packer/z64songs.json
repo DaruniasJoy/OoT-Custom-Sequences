@@ -44675,16 +44675,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Black Knight Pendragon.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Black Knight Pendragon.mp3",
     "hash": "c5e1effb476d12a653b2fd7a203be7f2",
     "lufs": "-15.81",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:32:00.872Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
