@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -44550,15 +44550,16 @@
       "Dungeon"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Banjo-Kazooie Jiggies of Time/Gerudo Fortress [Lute Tambourine].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Banjo-Kazooie Jiggies of Time/Gerudo Fortress [Lute Tambourine].mp3",
     "hash": "2c727b700cf965b6e7c639ac3293736e",
     "lufs": "-14.11",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T14:55:00.861Z",
+    "composers": [
+      "Bynine"
     ]
   },
   {
@@ -44581,15 +44582,16 @@
       "Fight"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Chrono Trigger/Lavos [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Chrono Trigger/Lavos [2].mp3",
     "hash": "74e8cc363c1167280be320d453da6f54",
     "lufs": "-18.17",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:18:08.619Z",
+    "composers": [
+      "Yasunori Mitsuda"
     ]
   },
   {
@@ -44611,16 +44613,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Chrono Trigger/Lavos.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Chrono Trigger/Lavos.mp3",
     "hash": "49097b973cd7149f8cf7622742bacd6d",
     "lufs": "-18.06",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:17:32.402Z",
+    "composers": [
+      "Yasunori Mitsuda"
     ]
   },
   {
@@ -44642,16 +44644,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Chrono Trigger/World Revolution.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Chrono Trigger/World Revolution.mp3",
     "hash": "09a7a2de17ff59deefae4ab9b32505e2",
     "lufs": "-11.94",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:18:50.853Z",
+    "composers": [
+      "Yasunori Mitsuda"
     ]
   },
   {
@@ -44673,16 +44675,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Black Knight Pendragon.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Black Knight Pendragon.mp3",
     "hash": "c5e1effb476d12a653b2fd7a203be7f2",
     "lufs": "-15.81",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:32:00.872Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
@@ -44710,16 +44712,16 @@
       "Dungeon",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Departure.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Departure.mp3",
     "hash": "d7a977a8ecc99d1eeff7d6cb008f6164",
     "lufs": "-15.49",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:33:24.686Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
@@ -44741,15 +44743,16 @@
       "Fight"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Divine Beast Dran.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Divine Beast Dran.mp3",
     "hash": "b85dd6e04c42cb631a40e59e272c5ac9",
     "lufs": "-14.15",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:33:52.719Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
@@ -44791,16 +44794,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Main Theme (Bossa Nova Version) [Horn].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Main Theme (Bossa Nova Version) [Horn].mp3",
     "hash": "3c22f543e288c078bf49980c5b16cb84",
     "lufs": "-15.95",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:36:20.051Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
@@ -44842,16 +44845,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Main Theme (Bossa Nova Version) [Oboe].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Main Theme (Bossa Nova Version) [Oboe].mp3",
     "hash": "f70d71a8d820c34eb1e8afd9ef2c6425",
     "lufs": "-17.06",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:36:52.295Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
@@ -44887,16 +44890,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Memories.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Memories.mp3",
     "hash": "2aeb15f750954542feca5806093b0c7e",
     "lufs": "-18.42",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:37:28.073Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
@@ -44932,16 +44935,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Reminiscence.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Reminiscence.mp3",
     "hash": "aff074e3cac36ddbfc36d5f023a205b3",
     "lufs": "-16.76",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:38:05.838Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
@@ -45012,15 +45015,16 @@
       "CharacterTheme"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy IX/You're Not Alone! [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy IX/You're Not Alone! [2].mp3",
     "hash": "c33b01746b07718ce5d2ac69ea5abe9e",
     "lufs": "-16.57",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:46:33.872Z",
+    "composers": [
+      "Nobuo Uematsu"
     ]
   },
   {
@@ -45087,16 +45091,16 @@
       "Fight",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Fire Emblem Fates/Justice RIP.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Fire Emblem Fates/Justice RIP.mp3",
     "hash": "5f7d76ea4bec60bfdedf11e321d85046",
     "lufs": "-12.72",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:58:24.735Z",
+    "composers": [
+      "Masato Kouda"
     ]
   },
   {
@@ -45138,16 +45142,17 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Fire Emblem The Blazing Blade/Companions.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Fire Emblem The Blazing Blade/Companions.mp3",
     "hash": "3dbff231a2bce8ee25aefb5d7463c31a",
     "lufs": "-13.61",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:01:11.795Z",
+    "composers": [
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
     ]
   },
   {
@@ -45204,16 +45209,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Guilty Gear/Momentary Life -Baiken's Theme-.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Guilty Gear/Momentary Life -Baiken's Theme-.mp3",
     "hash": "a8cea6a8af415ea7b4e4db21cae9f269",
     "lufs": "-14.54",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:19:53.682Z",
+    "composers": [
+      "Daisuke Ishiwatari"
     ]
   },
   {
@@ -45270,16 +45275,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Guilty Gear X/Walk In The Dusk.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Guilty Gear X/Walk In The Dusk.mp3",
     "hash": "7fe548aa14dcf0aae311e72f67c022b7",
     "lufs": "-16.77",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:34:05.287Z",
+    "composers": [
+      "Daisuke Ishiwatari"
     ]
   },
   {
@@ -45321,16 +45326,17 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Hyrule Warriors/Silent Guardians.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Hyrule Warriors/Silent Guardians.mp3",
     "hash": "cfd468de44fea3f0aa76868c494dfa5f",
     "lufs": "-14.92",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:37:25.849Z",
+    "composers": [
+      "Masato Koike",
+      "Yuki Matsumura"
     ]
   },
   {
@@ -45372,16 +45378,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kirby 64 The Crystal Shards/Factory Inspection.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kirby 64 The Crystal Shards/Factory Inspection.mp3",
     "hash": "dd088700151ffe91976de74bed10cb13",
     "lufs": "-15.88",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:52:37.850Z",
+    "composers": [
+      "Jun Ishikawa"
     ]
   },
   {
@@ -45423,16 +45429,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kirby Air Ride/Checker Knights.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kirby Air Ride/Checker Knights.mp3",
     "hash": "2af74146bb2f56d8a09a0e7bbf373795",
     "lufs": "-14.24",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:53:44.884Z",
+    "composers": [
+      "Akira Miyagawa"
     ]
   },
   {
@@ -45460,16 +45466,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kirby Air Ride/Item Bounce.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kirby Air Ride/Item Bounce.mp3",
     "hash": "b7655e8bb42f4bcbfaa45da0154bd887",
     "lufs": "-16.97",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:57:47.128Z",
+    "composers": [
+      "Hirokazu Ando"
     ]
   },
   {
@@ -45528,16 +45534,16 @@
       "Dungeon",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kirby's Return to Dream Land/Rainy Area.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kirby's Return to Dream Land/Rainy Area.mp3",
     "hash": "feb157e7ae9e3b6dd59b8cfaa941124a",
     "lufs": "-13.34",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T17:01:22.845Z",
+    "composers": [
+      "Jun Ishikawa"
     ]
   },
   {
@@ -45579,16 +45585,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kirby Super Star/Candy Mountain.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kirby Super Star/Candy Mountain.mp3",
     "hash": "56e75c68fafad2a0ea3a35d550eedc1b",
     "lufs": "-16.00",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:58:42.460Z",
+    "composers": [
+      "Jun Ishikawa"
     ]
   },
   {
@@ -45630,16 +45636,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kirby Super Star/Friends and Setting Sun.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kirby Super Star/Friends and Setting Sun.mp3",
     "hash": "9b02b1f754a9e1bf0fab7ca0a6af6e24",
     "lufs": "-17.56",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T17:00:04.861Z",
+    "composers": [
+      "Jun Ishikawa"
     ]
   },
   {
@@ -45682,16 +45688,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Legend of Mana/Diddles song.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Legend of Mana/Diddles song.mp3",
     "hash": "f0d8a7dca2174dbe7a32c9d76412de08",
     "lufs": "-10.67",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T17:07:02.557Z",
+    "composers": [
+      "Yoko Shimomura"
     ]
   },
   {
@@ -45752,16 +45758,16 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Legend of Mana/Earth Painting.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Legend of Mana/Earth Painting.mp3",
     "hash": "c1f3518e8e73dfe99c9de82878b3a2e6",
     "lufs": "-16.17",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T17:07:36.605Z",
+    "composers": [
+      "Yoko Shimomura"
     ]
   },
   {
@@ -45803,16 +45809,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Lunar Silver Star Story/Tumultuous Seas.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Lunar Silver Star Story/Tumultuous Seas.mp3",
     "hash": "4e07b880bcfc7d4c9c301880399eaf9a",
     "lufs": "-16.21",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T17:04:49.848Z",
+    "composers": [
+      "Noriyuki Iwadare"
     ]
   },
   {
@@ -45866,16 +45872,17 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 10/Abandoned Memory.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 10/Abandoned Memory.mp3",
     "hash": "a86140268f5e4f639cf7b3ad917a0b12",
     "lufs": "-12.87",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:38:48.481Z",
+    "composers": [
+      "Hiroki Isogai",
+      "Ippo Yamada"
     ]
   },
   {
@@ -45962,16 +45969,17 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 10/Wily Stage Boss.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 10/Wily Stage Boss.mp3",
     "hash": "fc90830239de87952f1a3091cfcbfa89",
     "lufs": "-12.38",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:40:03.528Z",
+    "composers": [
+      "Hiroki Isogai",
+      "Ippo Yamada"
     ]
   },
   {
@@ -46025,16 +46033,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 2/Flash Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 2/Flash Man.mp3",
     "hash": "59076f8b2e215a11e1693308278165af",
     "lufs": "-12.90",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:33:06.409Z",
+    "composers": [
+      "Takashi Tateishi"
     ]
   },
   {
@@ -46088,16 +46096,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 2/Metal Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 2/Metal Man.mp3",
     "hash": "a904e703930e516a885489aba1492019",
     "lufs": "-12.24",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:33:46.850Z",
+    "composers": [
+      "Takashi Tateishi"
     ]
   },
   {
@@ -46151,16 +46159,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 3/Gemini Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 3/Gemini Man.mp3",
     "hash": "ab621f846f91360c7f1ea7e568e27cbe",
     "lufs": "-12.07",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:36:01.618Z",
+    "composers": [
+      "Yasuaki Fujita"
     ]
   },
   {
@@ -46214,16 +46222,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 3/Hard Man [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 3/Hard Man [2].mp3",
     "hash": "376c73ee23306ed7f80965fde99bdf1d",
     "lufs": "-13.86",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:12:08.509Z",
+    "composers": [
+      "Yasuaki Fujita"
     ]
   },
   {
@@ -46277,16 +46285,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 3/Needle Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 3/Needle Man.mp3",
     "hash": "314a9f7f386e08513d2a7581ddd1914d",
     "lufs": "-14.27",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:36:46.839Z",
+    "composers": [
+      "Yasuaki Fujita"
     ]
   },
   {
@@ -46340,16 +46348,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 3/Snake Man [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 3/Snake Man [2].mp3",
     "hash": "2ffa3a4377b62c3d4e37c9c07589ff95",
     "lufs": "-13.65",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:12:38.219Z",
+    "composers": [
+      "Yasuaki Fujita"
     ]
   },
   {
@@ -46403,16 +46411,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 3/Spark Man [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 3/Spark Man [2].mp3",
     "hash": "65568c1a77b20ffb5cb57d0c59329a3d",
     "lufs": "-15.02",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:13:20.842Z",
+    "composers": [
+      "Yasuaki Fujita"
     ]
   },
   {
@@ -46662,16 +46670,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Battle Network/Running Through the Cyber World.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man Battle Network/Running Through the Cyber World.mp3",
     "hash": "f831b2a90c38a8b1243bcaab194d4824",
     "lufs": "-16.34",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:41:08.816Z",
+    "composers": [
+      "Akari Kaida"
     ]
   },
   {
@@ -46713,16 +46721,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Battle Network 2/Proof of Courage [Horn].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man Battle Network 2/Proof of Courage [Horn].mp3",
     "hash": "11e70672a88ca10f2cb3c376f783d03c",
     "lufs": "-13.34",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:42:54.402Z",
+    "composers": [
+      "Yoshino Aoki"
     ]
   },
   {
@@ -46764,16 +46772,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Battle Network 2/Proof of Courage [Oboe].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man Battle Network 2/Proof of Courage [Oboe].mp3",
     "hash": "af353788a62eba2f79e62f420d553bde",
     "lufs": "-13.80",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:44:07.857Z",
+    "composers": [
+      "Yoshino Aoki"
     ]
   },
   {
@@ -46827,16 +46835,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X/Opening Stage (MMX1-3 Medley).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X/Opening Stage (MMX1-3 Medley).mp3",
     "hash": "2352f97d84adc42f7223356d79f23f31",
     "lufs": "-13.01",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:45:30.847Z",
+    "composers": [
+      "Setsuo Yamamoto"
     ]
   },
   {
@@ -46922,16 +46930,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X5/X vs. Zero.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X5/X vs. Zero.mp3",
     "hash": "ce22235e27ed1b8ff5ee1e2ef2a34e02",
     "lufs": "-11.38",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:49:39.129Z",
+    "composers": [
+      "Naoto Tanaka"
     ]
   },
   {
@@ -46983,16 +46991,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X5/Zero Stage 2.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X5/Zero Stage 2.mp3",
     "hash": "29f940c0acfd52eb787ed68d4ecf44e5",
     "lufs": "-14.55",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:51:02.918Z",
+    "composers": [
+      "Naoto Tanaka"
     ]
   },
   {
@@ -47034,16 +47042,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Zero 4/Esperanto.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man Zero 4/Esperanto.mp3",
     "hash": "a7cf2f67868e6d6c60b6eab91b357906",
     "lufs": "-13.87",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:55:25.219Z",
+    "composers": [
+      "Luna Umegaki"
     ]
   },
   {
@@ -47085,16 +47093,19 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Zero 4/Holy Land.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man Zero 4/Holy Land.mp3",
     "hash": "7959e5fa715155f33c05a0c1794e88f6",
     "lufs": "-17.32",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:56:51.164Z",
+    "composers": [
+      "Ippo Yamada",
+      "Masaki Suzuki",
+      "Luna Umegaki",
+      "Shinichi Itakura"
     ]
   },
   {
@@ -47148,16 +47159,20 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man ZX Advent/Determined Eyes.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man ZX Advent/Determined Eyes.mp3",
     "hash": "919237dfc202cf63fca65d45dc5f4df0",
     "lufs": "-13.47",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:52:40.248Z",
+    "composers": [
+      "Ippo Yamada",
+      "Ryo Kawakami",
+      "Masaki Suzuki",
+      "Koji Hayama",
+      "Luna Umegaki"
     ]
   },
   {
@@ -47179,16 +47194,20 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man ZX Advent/Slam Down.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man ZX Advent/Slam Down.mp3",
     "hash": "a55400e8f8edfef83d8130d8ad688cd9",
     "lufs": "-10.89",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:53:24.841Z",
+    "composers": [
+      "Ippo Yamada",
+      "Ryo Kawakami",
+      "Masaki Suzuki",
+      "Koji Hayama",
+      "Luna Umegaki"
     ]
   },
   {
@@ -47242,16 +47261,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Nintendo 3DS/Internet Settings.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Nintendo 3DS/Internet Settings.mp3",
     "hash": "eae8febdcf649f6e61e31c5f7546b6b8",
     "lufs": "-15.23",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:26:11.153Z",
+    "composers": [
+      "Kazumi Totaka"
     ]
   },
   {
@@ -48970,18 +48989,17 @@
     "game": ".hack∕∕INFECTION",
     "song": "Mac Anu",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": ".hack∕∕INFECTION/Mac Anu.ootrs",
     "preview": "https://archive.org/download/darunias-joy/.hack∕∕INFECTION/Mac Anu.mp3",
     "hash": "6b16e845033464724d45d362092c40d6",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.93"
+    "lufs": "-15.93",
+    "lastUpdateDate": "2026-10-20T14:40:39.287Z",
+    "composers": [
+      "Chikayo Fukuda"
+    ]
   },
   {
     "uuid": "73a0c204-234a-485a-b771-056b10f2d7a4",
@@ -48989,18 +49007,17 @@
     "game": "Animal Crossing",
     "song": "Able Sisters",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Animal Crossing/Able Sisters.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Animal Crossing/Able Sisters.mp3",
     "hash": "44b4358506cc05317c70aa016ab20aea",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-20.15"
+    "lufs": "-20.15",
+    "lastUpdateDate": "2026-10-20T14:47:37.616Z",
+    "composers": [
+      "Toru Minegishi"
+    ]
   },
   {
     "uuid": "f4353f0d-0fbe-41d1-ab4e-86d55846300d",
@@ -49008,18 +49025,17 @@
     "game": "Animal Crossing",
     "song": "K.K. Love Song",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Animal Crossing/K.K. Love Song.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Animal Crossing/K.K. Love Song.mp3",
     "hash": "56438a96c6952e530d5f227b3a0dde9e",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.59"
+    "lufs": "-18.59",
+    "lastUpdateDate": "2026-10-20T14:49:18.397Z",
+    "composers": [
+      "Toru Minegishi"
+    ]
   },
   {
     "uuid": "b53fc6a4-9718-4ff6-b2c5-78b18af39307",
@@ -49027,18 +49043,17 @@
     "game": "Animal Crossing",
     "song": "Only Me",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Animal Crossing/Only Me.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Animal Crossing/Only Me.mp3",
     "hash": "773fda58d47f14cd04d4bf880d59c889",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.70"
+    "lufs": "-16.70",
+    "lastUpdateDate": "2026-10-20T14:48:31.749Z",
+    "composers": [
+      "Toru Minegishi"
+    ]
   },
   {
     "uuid": "631cc564-b937-42ee-82e5-e63a85876659",
@@ -49046,18 +49061,17 @@
     "game": "Banjo-Kazooie",
     "song": "Bubblegloop Swamp (DK64 Boss Remix)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Banjo-Kazooie/Bubblegloop Swamp (DK64 Boss Remix).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Banjo-Kazooie/Bubblegloop Swamp (DK64 Boss Remix).mp3",
     "hash": "45cc0af28a236e7e4506a6304490156d",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.32"
+    "lufs": "-15.32",
+    "lastUpdateDate": "2026-10-20T14:51:17.160Z",
+    "composers": [
+      "Grant Kirkhope"
+    ]
   },
   {
     "uuid": "792b11cd-0b2f-4648-8c0d-b0cef703d32f",
@@ -49065,18 +49079,17 @@
     "game": "Banjo-Kazooie",
     "song": "Gruntilda's Lair (FF Remix)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Banjo-Kazooie/Gruntilda's Lair (FF Remix).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Banjo-Kazooie/Gruntilda's Lair (FF Remix).mp3",
     "hash": "3fefeabda2e8d3e7c461d49ab22eeb65",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.85"
+    "lufs": "-16.85",
+    "lastUpdateDate": "2026-10-20T14:52:10.828Z",
+    "composers": [
+      "Grant Kirkhope"
+    ]
   },
   {
     "uuid": "f0dff509-7325-4c9e-92df-075600869896",
@@ -49084,18 +49097,17 @@
     "game": "Banjo-Tooie",
     "song": "Glitter Gulch Mine (Mountain Remix)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Banjo-Tooie/Glitter Gulch Mine (Mountain Remix).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Banjo-Tooie/Glitter Gulch Mine (Mountain Remix).mp3",
     "hash": "91b6a326f64cbef901ce4749a1e26ba1",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.67"
+    "lufs": "-16.67",
+    "lastUpdateDate": "2026-10-20T14:56:33.819Z",
+    "composers": [
+      "Grant Kirkhope"
+    ]
   },
   {
     "uuid": "84b8a1d7-e15b-47dc-bb31-2a6cbc2e1737",
@@ -49103,18 +49115,17 @@
     "game": "Bonk's Adventure",
     "song": "Round 1-1",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Bonk's Adventure/Round 1-1.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Bonk's Adventure/Round 1-1.mp3",
     "hash": "a1e09c16d980c0825c4cfe19b1145652",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.47"
+    "lufs": "-18.47",
+    "lastUpdateDate": "2026-10-20T14:57:51.241Z",
+    "composers": [
+      "Tsukasa Masuko"
+    ]
   },
   {
     "uuid": "bb73850c-60de-45e3-98f3-0c37552a76af",
@@ -49122,18 +49133,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Demon of Darkness",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Demon of Darkness.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Demon of Darkness.mp3",
     "hash": "5b039a1351307d7f28fda6c2b18922a4",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.77"
+    "lufs": "-18.77",
+    "lastUpdateDate": "2026-10-20T15:03:39.931Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "76d0c7c1-d9b4-4a61-90f0-30dba5ac2e66",
@@ -49141,18 +49151,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Grillin Mines",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Grillin Mines.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Grillin Mines.mp3",
     "hash": "e198b4bfb6e2ee71f351967a309c4692",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.08"
+    "lufs": "-16.08",
+    "lastUpdateDate": "2026-10-20T15:04:15.014Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "5844278c-e9d8-4b84-a8fd-81f9699d3ffa",
@@ -49160,18 +49169,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Grillin Village",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Grillin Village.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Grillin Village.mp3",
     "hash": "d6b201f8d586d3dc0e53171843a85d37",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.19"
+    "lufs": "-18.19",
+    "lastUpdateDate": "2026-10-20T15:05:06.666Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "3695897d-b132-4953-a034-608fa02049bd",
@@ -49179,18 +49187,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Hell's Valley",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Hell's Valley.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Hell's Valley.mp3",
     "hash": "bf9423a1e31b190e8eec21f205c40ad0",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.04"
+    "lufs": "-18.04",
+    "lastUpdateDate": "2026-10-20T15:05:43.207Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "4c7e66ef-bccf-44b6-a37a-ed63d478cb24",
@@ -49198,18 +49205,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Inn",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Inn.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Inn.mp3",
     "hash": "16c347acc58a8b57fe1c517357bdd145",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.69"
+    "lufs": "-18.69",
+    "lastUpdateDate": "2026-10-20T15:06:28.492Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "11656e81-4c7a-44ed-b8bb-6d040c7f5453",
@@ -49217,18 +49223,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Relic Keeper",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Relic Keeper.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Relic Keeper.mp3",
     "hash": "cd0e77062794a3a1817da6f717596b63",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.30"
+    "lufs": "-16.30",
+    "lastUpdateDate": "2026-10-20T15:07:05.355Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "f7231443-ad5c-47cd-a567-fee1631df082",
@@ -49236,18 +49241,17 @@
     "game": "Brave Fencer Musashi",
     "song": "The Musashi Legend [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/The Musashi Legend [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/The Musashi Legend [2].mp3",
     "hash": "23ecb599047ccc432b829e16f31a035d",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-13.01"
+    "lufs": "-13.01",
+    "lastUpdateDate": "2026-10-20T15:07:49.518Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "b648a755-601f-4e5d-ba5d-dbf260921115",
@@ -49255,18 +49259,18 @@
     "game": "Brave Fencer Musashi",
     "song": "Topo's Groove Heaven",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Topo's Groove Heaven.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Topo's Groove Heaven.mp3",
     "hash": "8865b219fdabe0edead076ffd3a85b23",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.60"
+    "lufs": "-19.60",
+    "lastUpdateDate": "2026-10-20T15:10:28.854Z",
+    "composers": [
+      "Tsuyoshi Sekito",
+      "Yoichi Yoshimoto"
+    ]
   },
   {
     "uuid": "fc236a90-aa7b-4cda-8f6f-f37555440a5b",
@@ -49274,18 +49278,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Twinpeak Mountain [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Twinpeak Mountain [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Twinpeak Mountain [2].mp3",
     "hash": "bb6c5c7463df7b4625e5acdc59ef8b46",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.47"
+    "lufs": "-15.47",
+    "lastUpdateDate": "2026-10-20T15:08:20.991Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "2d41c7bd-8a28-40e7-889c-52c6f689d818",
@@ -49293,18 +49296,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Vambee Village",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Vambee Village.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Vambee Village.mp3",
     "hash": "98fc035b333580de8deb12f2969c536f",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.71"
+    "lufs": "-18.71",
+    "lastUpdateDate": "2026-10-20T15:08:52.640Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "68a7f0e3-f619-4015-ba71-c2d73c7e8d2f",
@@ -49312,18 +49314,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Village at Night",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Village at Night.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Village at Night.mp3",
     "hash": "491d2cc68f19b836853333c2a63b70e7",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-20.77"
+    "lufs": "-20.77",
+    "lastUpdateDate": "2026-10-20T15:09:36.385Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "9c2aced7-0ee5-4566-a8fe-d809847467da",
@@ -49331,18 +49332,17 @@
     "game": "Castlevania: Symphony of the Night",
     "song": "Crystal Teardrops",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Castlevania Symphony of the Night/Crystal Teardrops.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Castlevania Symphony of the Night/Crystal Teardrops.mp3",
     "hash": "a962a881772f921bacbe35bf4d3f43ce",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.63"
+    "lufs": "-19.63",
+    "lastUpdateDate": "2026-10-20T15:11:48.904Z",
+    "composers": [
+      "Michiru Yamane"
+    ]
   },
   {
     "uuid": "bbb15c0d-87d8-4dd6-950a-f1a62cd84914",
@@ -49350,18 +49350,17 @@
     "game": "Castlevania: Symphony of the Night",
     "song": "Tower of Mist",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Castlevania Symphony of the Night/Tower of Mist.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Castlevania Symphony of the Night/Tower of Mist.mp3",
     "hash": "49d0f6840e6df35b97d087a885762820",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.55"
+    "lufs": "-19.55",
+    "lastUpdateDate": "2026-10-20T15:13:24.858Z",
+    "composers": [
+      "Michiru Yamane"
+    ]
   },
   {
     "uuid": "7b7c5ec5-58e4-41b7-b88d-5892fc58703c",
@@ -49369,18 +49368,17 @@
     "game": "Conker's Bad Fur Day",
     "song": "The Cock and Plucker",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Conker's Bad Fur Day/The Cock and Plucker.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Conker's Bad Fur Day/The Cock and Plucker.mp3",
     "hash": "93f713eaf150bc82281af174637e25f2",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-22.78"
+    "lufs": "-22.78",
+    "lastUpdateDate": "2026-10-20T15:20:13.850Z",
+    "composers": [
+      "Robin Beanland"
+    ]
   },
   {
     "uuid": "b6e51b04-e4f9-40b3-86a1-79d3466a27a7",
@@ -49388,18 +49386,17 @@
     "game": "Dark Cloud",
     "song": "Broken Promise (Music Box)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Broken Promise (Music Box).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Broken Promise (Music Box).mp3",
     "hash": "c79d6e469b996bb73752f6a1c61ead58",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.85"
+    "lufs": "-17.85",
+    "lastUpdateDate": "2026-10-20T15:32:53.336Z",
+    "composers": [
+      "Tomohito Nishiura"
+    ]
   },
   {
     "uuid": "7deb1d00-a639-4647-bf21-1259053867a5",
@@ -49407,18 +49404,17 @@
     "game": "Dark Cloud",
     "song": "Main Theme",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Main Theme.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Main Theme.mp3",
     "hash": "b67e217ed9eca90f16e3526853159555",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.43"
+    "lufs": "-17.43",
+    "lastUpdateDate": "2026-10-20T15:35:02.715Z",
+    "composers": [
+      "Tomohito Nishiura"
+    ]
   },
   {
     "uuid": "5a3b3b0f-41c6-4458-920c-9984b17468c1",
@@ -49426,18 +49422,17 @@
     "game": "Dark Cloud 2",
     "song": "Zelmite Mines",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud 2/Zelmite Mines.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud 2/Zelmite Mines.mp3",
     "hash": "cdca5627793cc52e024d76a8f44cf383",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.34"
+    "lufs": "-18.34",
+    "lastUpdateDate": "2026-10-20T15:31:13.678Z",
+    "composers": [
+      "Tomohito Nishiura"
+    ]
   },
   {
     "uuid": "6e2ee810-41a3-450e-b722-80930b6ad7bc",
@@ -49445,18 +49440,17 @@
     "game": "Demon's Souls",
     "song": "Leechmonger",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Demon's Souls/Leechmonger.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Demon's Souls/Leechmonger.mp3",
     "hash": "a73cada743b9fa72570744402bb0c762",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-21.51"
+    "lufs": "-21.51",
+    "lastUpdateDate": "2026-10-20T15:40:38.533Z",
+    "composers": [
+      "Shunsuke Kida"
+    ]
   },
   {
     "uuid": "36b2f427-f978-440e-9035-90162c702805",
@@ -49464,18 +49458,17 @@
     "game": "Demon's Souls",
     "song": "Maiden in Black",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Demon's Souls/Maiden in Black.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Demon's Souls/Maiden in Black.mp3",
     "hash": "d66251864b472392c82d252974e86d0f",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-23.39"
+    "lufs": "-23.39",
+    "lastUpdateDate": "2026-10-20T15:41:19.376Z",
+    "composers": [
+      "Shunsuke Kida"
+    ]
   },
   {
     "uuid": "e60cda57-d0a3-4efc-a8ba-c8b7db83c8bf",
@@ -49483,18 +49476,17 @@
     "game": "Demon's Souls",
     "song": "Phalanx [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Demon's Souls/Phalanx [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Demon's Souls/Phalanx [2].mp3",
     "hash": "816ef8c786b7b759a415227286c53adb",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-21.01"
+    "lufs": "-21.01",
+    "lastUpdateDate": "2026-10-20T15:41:43.408Z",
+    "composers": [
+      "Shunsuke Kida"
+    ]
   },
   {
     "uuid": "02f0c933-1d1f-4a65-b014-9b47906639e4",
@@ -49502,18 +49494,17 @@
     "game": "Demon's Souls",
     "song": "Vanguard",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Demon's Souls/Vanguard.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Demon's Souls/Vanguard.mp3",
     "hash": "36834634eb7ec69616cdcb37efbb2643",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-21.60"
+    "lufs": "-21.60",
+    "lastUpdateDate": "2026-10-20T15:42:11.771Z",
+    "composers": [
+      "Shunsuke Kida"
+    ]
   },
   {
     "uuid": "32ad8622-3b69-4952-8a54-a820bd9a903e",
@@ -49521,18 +49512,17 @@
     "game": "Dragon Quest III: The Seeds of Salvation",
     "song": "Pyramid",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dragon Quest III The Seeds of Salvation/Pyramid.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dragon Quest III The Seeds of Salvation/Pyramid.mp3",
     "hash": "6b7461b9c1b9ab8a35bf9fe5a254ddb5",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.87"
+    "lufs": "-16.87",
+    "lastUpdateDate": "2026-10-20T15:43:56.876Z",
+    "composers": [
+      "Koichi Sugiyama"
+    ]
   },
   {
     "uuid": "8ecbed73-8e1f-4192-b6f7-3b67b3d77522",
@@ -49540,18 +49530,17 @@
     "game": "EarthBound",
     "song": "Onett",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "EarthBound/Onett.ootrs",
     "preview": "https://archive.org/download/darunias-joy/EarthBound/Onett.mp3",
     "hash": "12db95d626fcb27785c70ecfa23767e5",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.70"
+    "lufs": "-18.70",
+    "lastUpdateDate": "2026-10-20T15:45:14.871Z",
+    "composers": [
+      "Keiichi Suzuki"
+    ]
   },
   {
     "uuid": "0571cad4-af4e-4db1-99f8-4fd5d9a80e4d",
@@ -49559,18 +49548,17 @@
     "game": "Final Fantasy VII",
     "song": "Ahead On Our Way (BIG RANCH EDITION)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy VII/Ahead On Our Way (BIG RANCH EDITION).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy VII/Ahead On Our Way (BIG RANCH EDITION).mp3",
     "hash": "11151e75ad719fb35435d6735eefb41a",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.88"
+    "lufs": "-18.88",
+    "lastUpdateDate": "2026-10-20T15:47:37.854Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "uuid": "8f1cfb0f-317c-4c89-a908-1a570600fd58",
@@ -49578,18 +49566,17 @@
     "game": "Final Fantasy VII",
     "song": "Barret's Theme",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy VII/Barret's Theme.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy VII/Barret's Theme.mp3",
     "hash": "974874b271eb6342a4b5e7745516a1d6",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.75"
+    "lufs": "-19.75",
+    "lastUpdateDate": "2026-10-20T15:48:03.360Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "uuid": "429e2f19-6abf-4e20-8383-6e0984c51819",
@@ -49597,18 +49584,17 @@
     "game": "Final Fantasy VII",
     "song": "Forested Temple [3]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy VII/Forested Temple [3].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy VII/Forested Temple [3].mp3",
     "hash": "5769a302cd55c6c3e68dd82d7bb5ada8",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.58"
+    "lufs": "-17.58",
+    "lastUpdateDate": "2026-10-20T15:48:49.884Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "uuid": "9e4cad6e-4831-499f-9d9c-e82aa50d820c",
@@ -49616,18 +49602,17 @@
     "game": "Final Fantasy VII",
     "song": "Underneath the Rotting Pizza",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy VII/Underneath the Rotting Pizza.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy VII/Underneath the Rotting Pizza.mp3",
     "hash": "45fa8de4309a0df01e362c0ab798a07f",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-21.34"
+    "lufs": "-21.34",
+    "lastUpdateDate": "2026-10-20T15:49:29.294Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "uuid": "cb817281-b4b2-4e37-a28d-ce3210d6ba72",
@@ -49635,18 +49620,17 @@
     "game": "Final Fantasy VIII",
     "song": "Breezy",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy VIII/Breezy.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy VIII/Breezy.mp3",
     "hash": "d51593369bc204c10529aaaa42872b5b",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-20.84"
+    "lufs": "-20.84",
+    "lastUpdateDate": "2026-10-20T15:50:04.786Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "uuid": "a15c7926-9cdb-436a-8468-a46dcc5f5e35",
@@ -49654,18 +49638,18 @@
     "game": "Final Fantasy X-2",
     "song": "Memories of Light and Waves",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy X-2/Memories of Light and Waves.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy X-2/Memories of Light and Waves.mp3",
     "hash": "908f18ff78b61b75c2217f64435fa599",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.86"
+    "lufs": "-17.86",
+    "lastUpdateDate": "2026-10-20T15:52:22.857Z",
+    "composers": [
+      "Noriko Matsueda",
+      "Takahito Eguchi"
+    ]
   },
   {
     "uuid": "50deb8a6-3f86-4316-9076-d831564fefec",
@@ -49673,18 +49657,17 @@
     "game": "Final Fantasy XIII",
     "song": "March of the Dreadnoughts",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy XIII/March of the Dreadnoughts.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy XIII/March of the Dreadnoughts.mp3",
     "hash": "8615d0765aa9ee2678036bc94f033ce3",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.75"
+    "lufs": "-19.75",
+    "lastUpdateDate": "2026-10-20T15:53:07.790Z",
+    "composers": [
+      "Masashi Hamauzu"
+    ]
   },
   {
     "uuid": "1b229cb4-f178-46a4-99a4-aea76eed0e97",
@@ -49692,18 +49675,17 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Black Fang",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Fire Emblem The Blazing Blade/Black Fang.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Fire Emblem The Blazing Blade/Black Fang.mp3",
     "hash": "d24c9ffc645fd3067e30dc358c4e731b",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.30"
+    "lufs": "-16.30",
+    "lastUpdateDate": "2026-10-20T16:00:09.160Z",
+    "composers": [
+      "Saki Kasuga"
+    ]
   },
   {
     "uuid": "0acae093-5f9f-4454-9219-063f0209c6c9",
@@ -49711,18 +49693,18 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Rise to the Challenge",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Fire Emblem The Blazing Blade/Rise to the Challenge.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Fire Emblem The Blazing Blade/Rise to the Challenge.mp3",
     "hash": "2473874b917ec5cb511cde736f267027",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.37"
+    "lufs": "-16.37",
+    "lastUpdateDate": "2026-10-20T16:01:44.877Z",
+    "composers": [
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
+    ]
   },
   {
     "uuid": "7b579bb1-2c09-4629-aca6-57f677f9e3af",
@@ -49730,18 +49712,17 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Winning Road",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Fire Emblem The Blazing Blade/Winning Road.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Fire Emblem The Blazing Blade/Winning Road.mp3",
     "hash": "add7051710c6dc466c5ba4d5ae39fcfc",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.82"
+    "lufs": "-16.82",
+    "lastUpdateDate": "2026-10-20T16:02:24.851Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "6f34db9c-335d-45dd-9ef2-c109f65d4e41",
@@ -49749,18 +49730,21 @@
     "game": "Goemon's Great Adventure",
     "song": "Burning My Soul",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Goemon's Great Adventure/Burning My Soul.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Goemon's Great Adventure/Burning My Soul.mp3",
     "hash": "ae226bca5d95461ef605b2ff0028e280",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.61"
+    "lufs": "-15.61",
+    "lastUpdateDate": "2026-10-20T16:17:39.135Z",
+    "composers": [
+      "Hirotaka Kurita",
+      "Nobuyuki Akena",
+      "Shigeru Araki",
+      "Yasumasa Kitagawa",
+      "Yusuke Kato"
+    ]
   },
   {
     "uuid": "ecac16dd-d354-43cd-b07e-c0fa6ac55f9b",
@@ -49768,18 +49752,18 @@
     "game": "Halo: Combat Evolved",
     "song": "Halo",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Halo Combat Evolved/Halo.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Halo Combat Evolved/Halo.mp3",
     "hash": "0243dbd46013b8514bd5236323643ec0",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.39"
+    "lufs": "-15.39",
+    "lastUpdateDate": "2026-10-20T16:35:39.181Z",
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
+    ]
   },
   {
     "uuid": "a8cd3e46-f9ae-444a-a7e7-711d22cb2465",
@@ -49787,18 +49771,17 @@
     "game": "Kingdom Hearts",
     "song": "Go For It",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts/Go For It.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Go For It.mp3",
     "hash": "96588e8d1b8d086915021732b096cbe5",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.24"
+    "lufs": "-19.24",
+    "lastUpdateDate": "2026-10-20T16:45:10.152Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "14e09a9d-0426-4f49-9d37-60ea3f2048f5",
@@ -49806,18 +49789,17 @@
     "game": "Kingdom Hearts",
     "song": "Hand In Hand",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts/Hand In Hand.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Hand In Hand.mp3",
     "hash": "85d5468c14a9f21289492cd91e5599bd",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.54"
+    "lufs": "-18.54",
+    "lastUpdateDate": "2026-10-20T16:45:59.009Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "d55e005e-d7f4-4dfe-9fba-9b40884f61c1",
@@ -49825,18 +49807,17 @@
     "game": "Kingdom Hearts",
     "song": "Having a Wild Time",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts/Having a Wild Time.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Having a Wild Time.mp3",
     "hash": "52a9b2b7d2e402b7b5a26d5c43a9e2b5",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.68"
+    "lufs": "-19.68",
+    "lastUpdateDate": "2026-10-20T16:46:33.481Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "7cc04029-4678-4468-a47b-407227333afc",
@@ -49844,18 +49825,17 @@
     "game": "Kingdom Hearts",
     "song": "Hikari (Orchestral Version)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts/Hikari (Orchestral Version).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Hikari (Orchestral Version).mp3",
     "hash": "c357457b1986a25bd020ba410f33388b",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.76"
+    "lufs": "-15.76",
+    "lastUpdateDate": "2026-10-20T16:47:34.195Z",
+    "composers": [
+      "Hikaru Utada"
+    ]
   },
   {
     "uuid": "6ca1d1be-03d1-4267-a679-89eada04daf8",
@@ -49863,18 +49843,17 @@
     "game": "Kingdom Hearts",
     "song": "Night of Fate",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts/Night of Fate.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Night of Fate.mp3",
     "hash": "9c80735b9800b29cf836cc1feb27d5f4",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.46"
+    "lufs": "-15.46",
+    "lastUpdateDate": "2026-10-20T16:48:28.239Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "1ac74468-25db-42e7-aace-e2c8db286bf4",
@@ -49882,18 +49861,17 @@
     "game": "Kingdom Hearts 358∕2 Days",
     "song": "Axel and Saix",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts 358∕2 Days/Axel and Saix.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts 358∕2 Days/Axel and Saix.mp3",
     "hash": "81a0891a85f8f367c34d93e869b6fabc",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.32"
+    "lufs": "-19.32",
+    "lastUpdateDate": "2026-10-20T16:49:43.479Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "a182eefe-3c6d-40a3-9158-f9ec2c5e107e",
@@ -49901,18 +49879,17 @@
     "game": "Kingdom Hearts 358∕2 Days",
     "song": "The Other Promise",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts 358∕2 Days/The Other Promise.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts 358∕2 Days/The Other Promise.mp3",
     "hash": "d2f23d2b19d6a629145554be03ddb99d",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.69"
+    "lufs": "-15.69",
+    "lastUpdateDate": "2026-10-20T16:50:09.896Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "155cc8fa-ab5a-43d0-8d96-a3a4483b0d2e",
@@ -49920,18 +49897,17 @@
     "game": "Kingdom Hearts II",
     "song": "Riku's Theme",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts II/Riku's Theme.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts II/Riku's Theme.mp3",
     "hash": "aae7f7cb8ab1aefe64583cb7fd31e21d",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.22"
+    "lufs": "-18.22",
+    "lastUpdateDate": "2026-10-20T16:50:47.304Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "52465601-292c-4f1d-821f-036641979b34",
@@ -49939,18 +49915,17 @@
     "game": "Kingdom Hearts II",
     "song": "The 13th Struggle [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts II/The 13th Struggle [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts II/The 13th Struggle [2].mp3",
     "hash": "0e02b435758073028022195b9af138c0",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.50"
+    "lufs": "-18.50",
+    "lastUpdateDate": "2026-10-20T16:51:17.874Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "8450ff9f-f9f0-4f3f-baaf-aed07338e494",
@@ -49958,18 +49933,17 @@
     "game": "Lufia II: Rise of the Sinistrals",
     "song": "Boss Battle [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Lufia II Rise of the Sinistrals/Boss Battle [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Lufia II Rise of the Sinistrals/Boss Battle [2].mp3",
     "hash": "32f0c3077c5803b689772c9335744e36",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.72"
+    "lufs": "-15.72",
+    "lastUpdateDate": "2026-10-20T17:02:09.130Z",
+    "composers": [
+      "Yasunori Shiono"
+    ]
   },
   {
     "uuid": "905747ec-4a5f-4573-aded-587eec2be77b",
@@ -49977,18 +49951,17 @@
     "game": "Lufia II: Rise of the Sinistrals",
     "song": "Final Battle",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Lufia II Rise of the Sinistrals/Final Battle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Lufia II Rise of the Sinistrals/Final Battle.mp3",
     "hash": "abe1c498df0520cebf7a264cc02a3815",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.43"
+    "lufs": "-16.43",
+    "lastUpdateDate": "2026-10-20T17:02:41.090Z",
+    "composers": [
+      "Yasunori Shiono"
+    ]
   },
   {
     "uuid": "bf8dbfcc-29a4-4a73-9994-8d9a7aa239ab",
@@ -49996,18 +49969,17 @@
     "game": "Lufia II: Rise of the Sinistrals",
     "song": "Sinistral Battle [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Lufia II Rise of the Sinistrals/Sinistral Battle [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Lufia II Rise of the Sinistrals/Sinistral Battle [2].mp3",
     "hash": "8a523ec7fa4a673f6b2c4b011de075ff",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-14.78"
+    "lufs": "-14.78",
+    "lastUpdateDate": "2026-10-20T17:03:03.583Z",
+    "composers": [
+      "Yasunori Shiono"
+    ]
   },
   {
     "uuid": "afcf0036-2830-47af-99ef-13be8f25b1cc",
@@ -50015,18 +49987,17 @@
     "game": "Lufia II: Rise of the Sinistrals",
     "song": "The Earth [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Lufia II Rise of the Sinistrals/The Earth [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Lufia II Rise of the Sinistrals/The Earth [2].mp3",
     "hash": "18d408f855ec6283491bbae2fb393362",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.76"
+    "lufs": "-16.76",
+    "lastUpdateDate": "2026-10-20T17:03:35.082Z",
+    "composers": [
+      "Yasunori Shiono"
+    ]
   },
   {
     "uuid": "2cd49059-5e9c-4f92-b833-c981b1b82e05",
@@ -50034,18 +50005,17 @@
     "game": "Mega Man X3",
     "song": "Gravity Beetle",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X3/Gravity Beetle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X3/Gravity Beetle.mp3",
     "hash": "5b598d90993d58655a7888aad3e66423",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.16"
+    "lufs": "-18.16",
+    "lastUpdateDate": "2026-10-20T19:48:16.731Z",
+    "composers": [
+      "Kinuyo Yamashita"
+    ]
   },
   {
     "uuid": "9ef5dc52-d87d-407b-9e48-40fde9ee251a",
@@ -50053,18 +50023,17 @@
     "game": "Nintendo GameCube",
     "song": "Menu",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Nintendo GameCube/Menu.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Nintendo GameCube/Menu.mp3",
     "hash": "ba62a55848118609022dbb398d409ad0",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.96"
+    "lufs": "-17.96",
+    "lastUpdateDate": "2026-10-20T15:22:48.849Z",
+    "composers": [
+      "Hirokazu Tanaka"
+    ]
   },
   {
     "uuid": "c9e549e7-9cd4-454e-a286-0f0767d92e57",
@@ -50376,18 +50345,18 @@
     "game": "Super Castlevania IV",
     "song": "Forest of Monsters (Bongo Edition)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Castlevania IV/Forest of Monsters (Bongo Edition).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Super Castlevania IV/Forest of Monsters (Bongo Edition).mp3",
     "hash": "af837ed6bb609147442e9f622ad27fbe",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.75"
+    "lufs": "-16.75",
+    "lastUpdateDate": "2026-10-20T15:15:39.854Z",
+    "composers": [
+      "Masanori Adachi",
+      "Taro Kudo"
+    ]
   },
   {
     "uuid": "b1774aa6-e647-4851-bc69-3fabac42bcde",
@@ -50395,18 +50364,18 @@
     "game": "Super Castlevania IV",
     "song": "Forest of Monsters",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Castlevania IV/Forest of Monsters.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Super Castlevania IV/Forest of Monsters.mp3",
     "hash": "9579f57149cd0312855c13f8435a7ae1",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.50"
+    "lufs": "-15.50",
+    "lastUpdateDate": "2026-10-20T15:15:03.141Z",
+    "composers": [
+      "Masanori Adachi",
+      "Taro Kudo"
+    ]
   },
   {
     "uuid": "31a3f0e4-0337-4be9-8967-438d4ee06f30",
