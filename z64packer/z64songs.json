@@ -49858,18 +49858,17 @@
     "game": "Kingdom Hearts",
     "song": "Having a Wild Time",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts/Having a Wild Time.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Having a Wild Time.mp3",
     "hash": "52a9b2b7d2e402b7b5a26d5c43a9e2b5",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.68"
+    "lufs": "-19.68",
+    "lastUpdateDate": "2026-10-20T16:46:33.481Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "7cc04029-4678-4468-a47b-407227333afc",
