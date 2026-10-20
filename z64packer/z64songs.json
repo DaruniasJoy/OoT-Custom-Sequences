@@ -46772,16 +46772,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Battle Network 2/Proof of Courage [Oboe].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man Battle Network 2/Proof of Courage [Oboe].mp3",
     "hash": "af353788a62eba2f79e62f420d553bde",
     "lufs": "-13.80",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:44:07.857Z",
+    "composers": [
+      "Yoshino Aoki"
     ]
   },
   {
