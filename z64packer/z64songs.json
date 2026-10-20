@@ -49912,18 +49912,17 @@
     "game": "Kingdom Hearts 358∕2 Days",
     "song": "Axel and Saix",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts 358∕2 Days/Axel and Saix.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts 358∕2 Days/Axel and Saix.mp3",
     "hash": "81a0891a85f8f367c34d93e869b6fabc",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.32"
+    "lufs": "-19.32",
+    "lastUpdateDate": "2026-10-20T16:49:43.479Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "a182eefe-3c6d-40a3-9158-f9ec2c5e107e",
