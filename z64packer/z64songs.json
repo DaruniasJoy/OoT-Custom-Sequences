@@ -53905,15 +53905,16 @@
       "Fight"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Guilty Gear X/Awe of She -Dizzy's Theme-.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Guilty Gear X/Awe of She -Dizzy's Theme-.mp3",
     "hash": "a3117960bae5ecbc0255eeb3bc59ac55",
     "lufs": "-14.05",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-20T23:41:31.078Z",
+    "composers": [
+      "Daisuke Ishiwatari"
     ]
   },
   {
