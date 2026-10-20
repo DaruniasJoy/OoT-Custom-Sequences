@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -50661,6 +50661,38 @@
       "DarknessRadio"
     ],
     "lufs": "-18.31"
+  },
+  {
+    "uuid": "30a63ade-bcfb-44c7-b311-315ca4d41e91",
+    "creationDate": "2026-10-20T02:59:25.909Z",
+    "game": "Persona 4",
+    "song": "A Corner of Memories",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Oobie"
+    ],
+    "lufs": "-24.64",
+    "file": "Persona 4/A Corner of Memories.ootrs",
+    "type": "bgm\r",
+    "categories": [
+      "TitleTheme",
+      "WindmillHut",
+      "FairyFountain",
+      "TempleOfTime",
+      "ChamberOfTheSages",
+      "GanonBattle",
+      "HeroTheme",
+      "MagicalPlace",
+      "FinalFight",
+      "Indoors",
+      "BigFight",
+      "CharacterTheme",
+      "Overworld",
+      "Fight"
+    ],
+    "preview": "Persona 4/A Corner of Memories.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
