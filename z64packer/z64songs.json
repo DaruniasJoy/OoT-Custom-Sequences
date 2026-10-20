@@ -44582,15 +44582,16 @@
       "Fight"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Chrono Trigger/Lavos [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Chrono Trigger/Lavos [2].mp3",
     "hash": "74e8cc363c1167280be320d453da6f54",
     "lufs": "-18.17",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:18:08.619Z",
+    "composers": [
+      "Yasunori Mitsuda"
     ]
   },
   {
