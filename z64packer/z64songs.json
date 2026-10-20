@@ -45275,16 +45275,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Guilty Gear X/Walk In The Dusk.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Guilty Gear X/Walk In The Dusk.mp3",
     "hash": "7fe548aa14dcf0aae311e72f67c022b7",
     "lufs": "-16.77",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:34:05.287Z",
+    "composers": [
+      "Daisuke Ishiwatari"
     ]
   },
   {
