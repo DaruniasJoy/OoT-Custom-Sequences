@@ -45872,16 +45872,17 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 10/Abandoned Memory.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 10/Abandoned Memory.mp3",
     "hash": "a86140268f5e4f639cf7b3ad917a0b12",
     "lufs": "-12.87",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:38:48.481Z",
+    "composers": [
+      "Hiroki Isogai",
+      "Ippo Yamada"
     ]
   },
   {
