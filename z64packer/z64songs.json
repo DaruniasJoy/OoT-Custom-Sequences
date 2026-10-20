@@ -49633,18 +49633,17 @@
     "game": "Final Fantasy VII",
     "song": "Forested Temple [3]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy VII/Forested Temple [3].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy VII/Forested Temple [3].mp3",
     "hash": "5769a302cd55c6c3e68dd82d7bb5ada8",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.58"
+    "lufs": "-17.58",
+    "lastUpdateDate": "2026-10-20T15:48:49.884Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "uuid": "9e4cad6e-4831-499f-9d9c-e82aa50d820c",
