@@ -45636,16 +45636,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kirby Super Star/Friends and Setting Sun.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kirby Super Star/Friends and Setting Sun.mp3",
     "hash": "9b02b1f754a9e1bf0fab7ca0a6af6e24",
     "lufs": "-17.56",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T17:00:04.861Z",
+    "composers": [
+      "Jun Ishikawa"
     ]
   },
   {
