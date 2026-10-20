@@ -46220,16 +46220,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 3/Hard Man [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 3/Hard Man [2].mp3",
     "hash": "376c73ee23306ed7f80965fde99bdf1d",
     "lufs": "-13.86",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:12:08.509Z",
+    "composers": [
+      "Yasuaki Fujita"
     ]
   },
   {
