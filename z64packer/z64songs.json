@@ -49324,18 +49324,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Twinpeak Mountain [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Twinpeak Mountain [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Twinpeak Mountain [2].mp3",
     "hash": "bb6c5c7463df7b4625e5acdc59ef8b46",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.47"
+    "lufs": "-15.47",
+    "lastUpdateDate": "2026-10-20T15:08:20.991Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "2d41c7bd-8a28-40e7-889c-52c6f689d818",
