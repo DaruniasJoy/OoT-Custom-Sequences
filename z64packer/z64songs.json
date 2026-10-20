@@ -45809,16 +45809,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Lunar Silver Star Story/Tumultuous Seas.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Lunar Silver Star Story/Tumultuous Seas.mp3",
     "hash": "4e07b880bcfc7d4c9c301880399eaf9a",
     "lufs": "-16.21",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T17:04:49.848Z",
+    "composers": [
+      "Noriyuki Iwadare"
     ]
   },
   {
