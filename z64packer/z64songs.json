@@ -49070,18 +49070,17 @@
     "game": "Animal Crossing",
     "song": "K.K. Love Song",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Animal Crossing/K.K. Love Song.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Animal Crossing/K.K. Love Song.mp3",
     "hash": "56438a96c6952e530d5f227b3a0dde9e",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.59"
+    "lufs": "-18.59",
+    "lastUpdateDate": "2026-10-20T14:49:18.397Z",
+    "composers": [
+      "Toru Minegishi"
+    ]
   },
   {
     "uuid": "b53fc6a4-9718-4ff6-b2c5-78b18af39307",
