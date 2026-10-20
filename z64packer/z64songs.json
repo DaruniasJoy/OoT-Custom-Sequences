@@ -44845,16 +44845,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Main Theme (Bossa Nova Version) [Oboe].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Main Theme (Bossa Nova Version) [Oboe].mp3",
     "hash": "f70d71a8d820c34eb1e8afd9ef2c6425",
     "lufs": "-17.06",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:36:52.295Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
