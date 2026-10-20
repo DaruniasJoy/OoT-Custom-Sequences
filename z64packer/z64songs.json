@@ -49669,18 +49669,17 @@
     "game": "Final Fantasy VIII",
     "song": "Breezy",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy VIII/Breezy.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy VIII/Breezy.mp3",
     "hash": "d51593369bc204c10529aaaa42872b5b",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-20.84"
+    "lufs": "-20.84",
+    "lastUpdateDate": "2026-10-20T15:50:04.786Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "uuid": "a15c7926-9cdb-436a-8468-a46dcc5f5e35",
