@@ -51575,16 +51575,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 2/Air Man [3].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 2/Air Man [3].mp3",
     "hash": "3304229e188edd2f971bc32d9b0d3ffc",
     "lufs": "-9.96",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-20T23:49:02.998Z",
+    "composers": [
+      "Takashi Tateishi"
     ]
   },
   {
