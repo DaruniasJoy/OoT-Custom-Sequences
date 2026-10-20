@@ -49802,18 +49802,18 @@
     "game": "Halo: Combat Evolved",
     "song": "Halo",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Halo Combat Evolved/Halo.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Halo Combat Evolved/Halo.mp3",
     "hash": "0243dbd46013b8514bd5236323643ec0",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.39"
+    "lufs": "-15.39",
+    "lastUpdateDate": "2026-10-20T16:35:39.181Z",
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
+    ]
   },
   {
     "uuid": "a8cd3e46-f9ae-444a-a7e7-711d22cb2465",
