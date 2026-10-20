@@ -45015,15 +45015,16 @@
       "CharacterTheme"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy IX/You're Not Alone! [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy IX/You're Not Alone! [2].mp3",
     "hash": "c33b01746b07718ce5d2ac69ea5abe9e",
     "lufs": "-16.57",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:46:33.872Z",
+    "composers": [
+      "Nobuo Uematsu"
     ]
   },
   {
