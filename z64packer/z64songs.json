@@ -49651,18 +49651,17 @@
     "game": "Final Fantasy VII",
     "song": "Underneath the Rotting Pizza",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy VII/Underneath the Rotting Pizza.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy VII/Underneath the Rotting Pizza.mp3",
     "hash": "45fa8de4309a0df01e362c0ab798a07f",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-21.34"
+    "lufs": "-21.34",
+    "lastUpdateDate": "2026-10-20T15:49:29.294Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "uuid": "cb817281-b4b2-4e37-a28d-ce3210d6ba72",
