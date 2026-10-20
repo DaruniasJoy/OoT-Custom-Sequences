@@ -45969,16 +45969,17 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 10/Wily Stage Boss.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 10/Wily Stage Boss.mp3",
     "hash": "fc90830239de87952f1a3091cfcbfa89",
     "lufs": "-12.38",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:40:03.528Z",
+    "composers": [
+      "Hiroki Isogai",
+      "Ippo Yamada"
     ]
   },
   {
