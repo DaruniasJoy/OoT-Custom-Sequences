@@ -47244,16 +47244,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Nintendo 3DS/Internet Settings.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Nintendo 3DS/Internet Settings.mp3",
     "hash": "eae8febdcf649f6e61e31c5f7546b6b8",
     "lufs": "-15.23",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:26:11.153Z",
+    "composers": [
+      "Kazumi Totaka"
     ]
   },
   {
