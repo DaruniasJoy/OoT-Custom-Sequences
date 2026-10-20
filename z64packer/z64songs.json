@@ -49471,18 +49471,17 @@
     "game": "Dark Cloud 2",
     "song": "Zelmite Mines",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud 2/Zelmite Mines.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud 2/Zelmite Mines.mp3",
     "hash": "cdca5627793cc52e024d76a8f44cf383",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.34"
+    "lufs": "-18.34",
+    "lastUpdateDate": "2026-10-20T15:31:13.678Z",
+    "composers": [
+      "Tomohito Nishiura"
+    ]
   },
   {
     "uuid": "6e2ee810-41a3-450e-b722-80930b6ad7bc",
