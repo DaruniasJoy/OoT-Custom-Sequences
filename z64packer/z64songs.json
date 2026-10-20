@@ -45534,16 +45534,16 @@
       "Dungeon",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kirby's Return to Dream Land/Rainy Area.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kirby's Return to Dream Land/Rainy Area.mp3",
     "hash": "feb157e7ae9e3b6dd59b8cfaa941124a",
     "lufs": "-13.34",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T17:01:22.845Z",
+    "composers": [
+      "Jun Ishikawa"
     ]
   },
   {
