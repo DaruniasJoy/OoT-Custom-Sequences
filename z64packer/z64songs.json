@@ -44743,15 +44743,16 @@
       "Fight"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Divine Beast Dran.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Divine Beast Dran.mp3",
     "hash": "b85dd6e04c42cb631a40e59e272c5ac9",
     "lufs": "-14.15",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:33:52.719Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
