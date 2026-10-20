@@ -46835,16 +46835,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X/Opening Stage (MMX1-3 Medley).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X/Opening Stage (MMX1-3 Medley).mp3",
     "hash": "2352f97d84adc42f7223356d79f23f31",
     "lufs": "-13.01",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:45:30.847Z",
+    "composers": [
+      "Setsuo Yamamoto"
     ]
   },
   {
