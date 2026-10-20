@@ -49179,18 +49179,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Demon of Darkness",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Demon of Darkness.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Demon of Darkness.mp3",
     "hash": "5b039a1351307d7f28fda6c2b18922a4",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.77"
+    "lufs": "-18.77",
+    "lastUpdateDate": "2026-10-20T15:03:39.931Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "76d0c7c1-d9b4-4a61-90f0-30dba5ac2e66",
