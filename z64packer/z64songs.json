@@ -45091,16 +45091,16 @@
       "Fight",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Fire Emblem Fates/Justice RIP.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Fire Emblem Fates/Justice RIP.mp3",
     "hash": "5f7d76ea4bec60bfdedf11e321d85046",
     "lufs": "-12.72",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:58:24.735Z",
+    "composers": [
+      "Masato Kouda"
     ]
   },
   {
