@@ -49161,18 +49161,17 @@
     "game": "Bonk's Adventure",
     "song": "Round 1-1",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Bonk's Adventure/Round 1-1.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Bonk's Adventure/Round 1-1.mp3",
     "hash": "a1e09c16d980c0825c4cfe19b1145652",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.47"
+    "lufs": "-18.47",
+    "lastUpdateDate": "2026-10-20T14:57:51.241Z",
+    "composers": [
+      "Tsukasa Masuko"
+    ]
   },
   {
     "uuid": "bb73850c-60de-45e3-98f3-0c37552a76af",
