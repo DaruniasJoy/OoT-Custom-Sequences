@@ -49560,18 +49560,17 @@
     "game": "Dragon Quest III: The Seeds of Salvation",
     "song": "Pyramid",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dragon Quest III The Seeds of Salvation/Pyramid.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dragon Quest III The Seeds of Salvation/Pyramid.mp3",
     "hash": "6b7461b9c1b9ab8a35bf9fe5a254ddb5",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.87"
+    "lufs": "-16.87",
+    "lastUpdateDate": "2026-10-20T15:43:56.876Z",
+    "composers": [
+      "Koichi Sugiyama"
+    ]
   },
   {
     "uuid": "8ecbed73-8e1f-4192-b6f7-3b67b3d77522",
