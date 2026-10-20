@@ -49342,18 +49342,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Vambee Village",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Vambee Village.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Vambee Village.mp3",
     "hash": "98fc035b333580de8deb12f2969c536f",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.71"
+    "lufs": "-18.71",
+    "lastUpdateDate": "2026-10-20T15:08:52.640Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "68a7f0e3-f619-4015-ba71-c2d73c7e8d2f",
