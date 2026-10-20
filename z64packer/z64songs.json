@@ -49524,18 +49524,17 @@
     "game": "Demon's Souls",
     "song": "Phalanx [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Demon's Souls/Phalanx [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Demon's Souls/Phalanx [2].mp3",
     "hash": "816ef8c786b7b759a415227286c53adb",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-21.01"
+    "lufs": "-21.01",
+    "lastUpdateDate": "2026-10-20T15:41:43.408Z",
+    "composers": [
+      "Shunsuke Kida"
+    ]
   },
   {
     "uuid": "02f0c933-1d1f-4a65-b014-9b47906639e4",
