@@ -49197,18 +49197,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Grillin Mines",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Grillin Mines.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Grillin Mines.mp3",
     "hash": "e198b4bfb6e2ee71f351967a309c4692",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.08"
+    "lufs": "-16.08",
+    "lastUpdateDate": "2026-10-20T15:04:15.014Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "5844278c-e9d8-4b84-a8fd-81f9699d3ffa",
