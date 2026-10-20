@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -44560,7 +44560,10 @@
     "lastUpdateDate": "2026-10-20T14:55:00.861Z",
     "composers": [
       "Bynine"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "05bff5d9-99d7-45d8-91e9-d2c8aa6afe03",
@@ -44592,7 +44595,10 @@
     "lastUpdateDate": "2026-10-20T15:18:08.619Z",
     "composers": [
       "Yasunori Mitsuda"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "9df130f9-6ac7-4d6c-bb47-fcdfe48288e5",
@@ -44623,7 +44629,11 @@
     "lastUpdateDate": "2026-10-20T15:17:32.402Z",
     "composers": [
       "Yasunori Mitsuda"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "2a62c8a5-d90e-4f50-94d8-1c243e742573",
@@ -44654,7 +44664,11 @@
     "lastUpdateDate": "2026-10-20T15:18:50.853Z",
     "composers": [
       "Yasunori Mitsuda"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "8ab075ca-225f-46bf-b252-05ee7bbf0a8e",
@@ -44685,7 +44699,11 @@
     "lastUpdateDate": "2026-10-20T15:32:00.872Z",
     "composers": [
       "Tomohito Nishiura"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "be765142-008e-4bed-bd7d-2d58491b10af",
@@ -44722,7 +44740,11 @@
     "lastUpdateDate": "2026-10-20T15:33:24.686Z",
     "composers": [
       "Tomohito Nishiura"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f5a52c54-b4fa-4ae9-a4c0-52d4150f0f5f",
@@ -44753,7 +44775,10 @@
     "lastUpdateDate": "2026-10-20T15:33:52.719Z",
     "composers": [
       "Tomohito Nishiura"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "4dcdb955-cc42-4ec1-8587-cba50a347973",
@@ -44804,7 +44829,11 @@
     "lastUpdateDate": "2026-10-20T15:36:20.051Z",
     "composers": [
       "Tomohito Nishiura"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "5569d7d6-8ab3-4caa-9525-d90d5fb39b1a",
@@ -44855,7 +44884,11 @@
     "lastUpdateDate": "2026-10-20T15:36:52.295Z",
     "composers": [
       "Tomohito Nishiura"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "ecc4af9c-3d45-462f-b81d-5ad26bd518b3",
@@ -44900,7 +44933,11 @@
     "lastUpdateDate": "2026-10-20T15:37:28.073Z",
     "composers": [
       "Tomohito Nishiura"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "5c61859f-9767-4fa8-afc4-0451c7a11e99",
@@ -44945,7 +44982,11 @@
     "lastUpdateDate": "2026-10-20T15:38:05.838Z",
     "composers": [
       "Tomohito Nishiura"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "a6c44f82-7b51-4e3a-b895-2d93b3f03905",
@@ -45025,7 +45066,10 @@
     "lastUpdateDate": "2026-10-20T15:46:33.872Z",
     "composers": [
       "Nobuo Uematsu"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "ed859091-11cb-4a24-be0c-238ec0133e62",
@@ -45101,7 +45145,11 @@
     "lastUpdateDate": "2026-10-20T15:58:24.735Z",
     "composers": [
       "Masato Kouda"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "41e8fa83-e380-4ed7-a9d4-0de07104ca39",
@@ -45153,7 +45201,11 @@
     "composers": [
       "Yuka Tsujiyoko",
       "Saki Kasuga"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "ed6e99c1-1513-4287-8a0f-a2d7f07d9d37",
@@ -45219,7 +45271,11 @@
     "lastUpdateDate": "2026-10-20T16:19:53.682Z",
     "composers": [
       "Daisuke Ishiwatari"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "bdb59dd7-6623-41d3-ab50-d4f4d10d9d31",
@@ -45285,7 +45341,11 @@
     "lastUpdateDate": "2026-10-20T16:34:05.287Z",
     "composers": [
       "Daisuke Ishiwatari"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "5ffa82a4-d7eb-46cf-8849-8e224c13a7fe",
@@ -45337,7 +45397,11 @@
     "composers": [
       "Masato Koike",
       "Yuki Matsumura"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "270f8720-90eb-40af-b7aa-8452a01a3696",
@@ -45388,7 +45452,11 @@
     "lastUpdateDate": "2026-10-20T16:52:37.850Z",
     "composers": [
       "Jun Ishikawa"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "a2f91054-add7-45de-93af-a21112dbed7d",
@@ -45439,7 +45507,11 @@
     "lastUpdateDate": "2026-10-20T16:53:44.884Z",
     "composers": [
       "Akira Miyagawa"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "aa715338-d912-4776-897c-57eed5c8ec22",
@@ -45476,7 +45548,11 @@
     "lastUpdateDate": "2026-10-20T16:57:47.128Z",
     "composers": [
       "Hirokazu Ando"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f4076171-990a-4893-a55e-42e6c6c239eb",
@@ -45544,7 +45620,11 @@
     "lastUpdateDate": "2026-10-20T17:01:22.845Z",
     "composers": [
       "Jun Ishikawa"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "b6e437b3-ab4e-4783-a29e-acf6d2763da1",
@@ -45595,7 +45675,11 @@
     "lastUpdateDate": "2026-10-20T16:58:42.460Z",
     "composers": [
       "Jun Ishikawa"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "6e1ba7f3-886c-4f78-bff8-426cfe9734e2",
@@ -45646,7 +45730,11 @@
     "lastUpdateDate": "2026-10-20T17:00:04.861Z",
     "composers": [
       "Jun Ishikawa"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "e9a7fee3-9198-4480-8e2d-e1fadddd8e14",
@@ -45698,7 +45786,11 @@
     "lastUpdateDate": "2026-10-20T17:07:02.557Z",
     "composers": [
       "Yoko Shimomura"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "785bcb85-6d99-408b-a535-8516d1f8ff6c",
@@ -45768,7 +45860,11 @@
     "lastUpdateDate": "2026-10-20T17:07:36.605Z",
     "composers": [
       "Yoko Shimomura"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "b08ebdad-edd0-4518-b69f-8ef9251a6399",
@@ -45819,7 +45915,11 @@
     "lastUpdateDate": "2026-10-20T17:04:49.848Z",
     "composers": [
       "Noriyuki Iwadare"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f2993594-7a74-4d4a-8a88-2ec80dfd35ab",
@@ -45883,7 +45983,11 @@
     "composers": [
       "Hiroki Isogai",
       "Ippo Yamada"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "3ad4d2c9-e06b-4dc2-b31d-1e3a51456ffc",
@@ -45980,7 +46084,11 @@
     "composers": [
       "Hiroki Isogai",
       "Ippo Yamada"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "e85f303f-7284-4e95-bc3c-a440e018e3bf",
@@ -46043,7 +46151,11 @@
     "lastUpdateDate": "2026-10-20T19:33:06.409Z",
     "composers": [
       "Takashi Tateishi"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "df958bca-48f6-4d46-80c7-64c390f17b19",
@@ -46106,7 +46218,11 @@
     "lastUpdateDate": "2026-10-20T19:33:46.850Z",
     "composers": [
       "Takashi Tateishi"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "c3c0931e-fa91-428a-a934-d952dcaa024f",
@@ -46169,7 +46285,11 @@
     "lastUpdateDate": "2026-10-20T19:36:01.618Z",
     "composers": [
       "Yasuaki Fujita"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "69d4b81a-574b-491b-a219-f399653a09ac",
@@ -46232,7 +46352,11 @@
     "lastUpdateDate": "2026-10-20T19:12:08.509Z",
     "composers": [
       "Yasuaki Fujita"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "a067891e-cb9b-438e-b3fd-bafd33d426b5",
@@ -46295,7 +46419,11 @@
     "lastUpdateDate": "2026-10-20T19:36:46.839Z",
     "composers": [
       "Yasuaki Fujita"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "14197921-9d14-41cf-8ce2-ca86e9b2b4d7",
@@ -46358,7 +46486,11 @@
     "lastUpdateDate": "2026-10-20T19:12:38.219Z",
     "composers": [
       "Yasuaki Fujita"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "6ba802fb-e08a-4ac2-8a34-7d8a8481ff4e",
@@ -46421,7 +46553,11 @@
     "lastUpdateDate": "2026-10-20T19:13:20.842Z",
     "composers": [
       "Yasuaki Fujita"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "310be747-1557-4dd1-a91a-dab5447216f4",
@@ -46680,7 +46816,11 @@
     "lastUpdateDate": "2026-10-20T19:41:08.816Z",
     "composers": [
       "Akari Kaida"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "e3cceabb-0d28-4d64-ae6d-60f4a1137ebc",
@@ -46731,7 +46871,11 @@
     "lastUpdateDate": "2026-10-20T19:42:54.402Z",
     "composers": [
       "Yoshino Aoki"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "4ca6569d-649c-4b8a-a5de-393a180d12fa",
@@ -46782,7 +46926,11 @@
     "lastUpdateDate": "2026-10-20T19:44:07.857Z",
     "composers": [
       "Yoshino Aoki"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "fecd39a3-94d8-409f-8cbc-0afff48ecffc",
@@ -46845,40 +46993,11 @@
     "lastUpdateDate": "2026-10-20T19:45:30.847Z",
     "composers": [
       "Setsuo Yamamoto"
-    ]
-  },
-  {
-    "uuid": "91f603a5-0398-4369-a360-5d4ca8e60ac8",
-    "creationDate": "2026-10-18T02:00:04.313Z",
-    "game": "Mega Man X: Corrupted",
-    "song": "Crystal Raffler",
-    "type": "bgm",
-    "categories": [
-      "JabuJabu",
-      "ForestTemple",
-      "FireTemple",
-      "IceCavern",
-      "WaterTemple",
-      "SpiritTemple",
-      "ShadowTemple",
-      "ChildDungeon",
-      "AncientDungeon",
-      "MysticalDungeon",
-      "SpookyDungeon",
-      "AdultDungeon",
-      "Dungeon"
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "isCrossGame": false,
-    "file": "Mega Man X Corrupted/Crystal Raffler.ootrs",
-    "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Crystal Raffler.mp3",
-    "hash": "652bd46795f2a8080515e2f5beede010",
-    "lufs": "-14.96",
-    "converters": [
-      "SeitanTaisen"
-    ]
+    "isCrossGame": false
   },
   {
     "uuid": "f100c353-1be7-4210-ab40-66ac694b5a5c",
@@ -46940,7 +47059,11 @@
     "lastUpdateDate": "2026-10-20T19:49:39.129Z",
     "composers": [
       "Naoto Tanaka"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "ec960de3-be13-49b0-9fcb-c5df8d0cd228",
@@ -47001,7 +47124,11 @@
     "lastUpdateDate": "2026-10-20T19:51:02.918Z",
     "composers": [
       "Naoto Tanaka"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "b34502ec-0884-4e15-84f7-2ebaaafa5d86",
@@ -47052,7 +47179,11 @@
     "lastUpdateDate": "2026-10-20T19:55:25.219Z",
     "composers": [
       "Luna Umegaki"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "56f82b8a-73eb-459d-9a01-d20e0a100531",
@@ -47106,7 +47237,11 @@
       "Masaki Suzuki",
       "Luna Umegaki",
       "Shinichi Itakura"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "02042b10-689a-4330-85b3-c8f737a259f8",
@@ -47173,7 +47308,11 @@
       "Masaki Suzuki",
       "Koji Hayama",
       "Luna Umegaki"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "45658dcf-328e-4102-b9fc-32c876411fe1",
@@ -47208,7 +47347,11 @@
       "Masaki Suzuki",
       "Koji Hayama",
       "Luna Umegaki"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "cfc599e8-677a-445a-9b40-8df3325af8ee",
@@ -47271,7 +47414,11 @@
     "lastUpdateDate": "2026-10-20T15:26:11.153Z",
     "composers": [
       "Kazumi Totaka"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d58adfc2-c397-4879-92bd-5cec5995f88e",
@@ -48999,7 +49146,12 @@
     "lastUpdateDate": "2026-10-20T14:40:39.287Z",
     "composers": [
       "Chikayo Fukuda"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "73a0c204-234a-485a-b771-056b10f2d7a4",
@@ -49017,7 +49169,12 @@
     "lastUpdateDate": "2026-10-20T14:47:37.616Z",
     "composers": [
       "Toru Minegishi"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f4353f0d-0fbe-41d1-ab4e-86d55846300d",
@@ -49035,7 +49192,12 @@
     "lastUpdateDate": "2026-10-20T14:49:18.397Z",
     "composers": [
       "Toru Minegishi"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "b53fc6a4-9718-4ff6-b2c5-78b18af39307",
@@ -49053,7 +49215,12 @@
     "lastUpdateDate": "2026-10-20T14:48:31.749Z",
     "composers": [
       "Toru Minegishi"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "631cc564-b937-42ee-82e5-e63a85876659",
@@ -49071,7 +49238,12 @@
     "lastUpdateDate": "2026-10-20T14:51:17.160Z",
     "composers": [
       "Grant Kirkhope"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "792b11cd-0b2f-4648-8c0d-b0cef703d32f",
@@ -49089,7 +49261,12 @@
     "lastUpdateDate": "2026-10-20T14:52:10.828Z",
     "composers": [
       "Grant Kirkhope"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f0dff509-7325-4c9e-92df-075600869896",
@@ -49107,7 +49284,12 @@
     "lastUpdateDate": "2026-10-20T14:56:33.819Z",
     "composers": [
       "Grant Kirkhope"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "84b8a1d7-e15b-47dc-bb31-2a6cbc2e1737",
@@ -49125,7 +49307,12 @@
     "lastUpdateDate": "2026-10-20T14:57:51.241Z",
     "composers": [
       "Tsukasa Masuko"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "bb73850c-60de-45e3-98f3-0c37552a76af",
@@ -49143,7 +49330,12 @@
     "lastUpdateDate": "2026-10-20T15:03:39.931Z",
     "composers": [
       "Tsuyoshi Sekito"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "76d0c7c1-d9b4-4a61-90f0-30dba5ac2e66",
@@ -49161,7 +49353,12 @@
     "lastUpdateDate": "2026-10-20T15:04:15.014Z",
     "composers": [
       "Tsuyoshi Sekito"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "5844278c-e9d8-4b84-a8fd-81f9699d3ffa",
@@ -49179,7 +49376,12 @@
     "lastUpdateDate": "2026-10-20T15:05:06.666Z",
     "composers": [
       "Tsuyoshi Sekito"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "3695897d-b132-4953-a034-608fa02049bd",
@@ -49197,7 +49399,12 @@
     "lastUpdateDate": "2026-10-20T15:05:43.207Z",
     "composers": [
       "Tsuyoshi Sekito"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "4c7e66ef-bccf-44b6-a37a-ed63d478cb24",
@@ -49215,7 +49422,12 @@
     "lastUpdateDate": "2026-10-20T15:06:28.492Z",
     "composers": [
       "Tsuyoshi Sekito"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "11656e81-4c7a-44ed-b8bb-6d040c7f5453",
@@ -49233,7 +49445,12 @@
     "lastUpdateDate": "2026-10-20T15:07:05.355Z",
     "composers": [
       "Tsuyoshi Sekito"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f7231443-ad5c-47cd-a567-fee1631df082",
@@ -49251,7 +49468,12 @@
     "lastUpdateDate": "2026-10-20T15:07:49.518Z",
     "composers": [
       "Tsuyoshi Sekito"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "b648a755-601f-4e5d-ba5d-dbf260921115",
@@ -49270,7 +49492,12 @@
     "composers": [
       "Tsuyoshi Sekito",
       "Yoichi Yoshimoto"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "fc236a90-aa7b-4cda-8f6f-f37555440a5b",
@@ -49288,7 +49515,12 @@
     "lastUpdateDate": "2026-10-20T15:08:20.991Z",
     "composers": [
       "Tsuyoshi Sekito"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "2d41c7bd-8a28-40e7-889c-52c6f689d818",
@@ -49306,7 +49538,12 @@
     "lastUpdateDate": "2026-10-20T15:08:52.640Z",
     "composers": [
       "Tsuyoshi Sekito"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "68a7f0e3-f619-4015-ba71-c2d73c7e8d2f",
@@ -49324,7 +49561,12 @@
     "lastUpdateDate": "2026-10-20T15:09:36.385Z",
     "composers": [
       "Tsuyoshi Sekito"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "9c2aced7-0ee5-4566-a8fe-d809847467da",
@@ -49342,7 +49584,12 @@
     "lastUpdateDate": "2026-10-20T15:11:48.904Z",
     "composers": [
       "Michiru Yamane"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "bbb15c0d-87d8-4dd6-950a-f1a62cd84914",
@@ -49360,7 +49607,12 @@
     "lastUpdateDate": "2026-10-20T15:13:24.858Z",
     "composers": [
       "Michiru Yamane"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "7b7c5ec5-58e4-41b7-b88d-5892fc58703c",
@@ -49378,7 +49630,12 @@
     "lastUpdateDate": "2026-10-20T15:20:13.850Z",
     "composers": [
       "Robin Beanland"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "b6e51b04-e4f9-40b3-86a1-79d3466a27a7",
@@ -49396,7 +49653,12 @@
     "lastUpdateDate": "2026-10-20T15:32:53.336Z",
     "composers": [
       "Tomohito Nishiura"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "7deb1d00-a639-4647-bf21-1259053867a5",
@@ -49414,7 +49676,12 @@
     "lastUpdateDate": "2026-10-20T15:35:02.715Z",
     "composers": [
       "Tomohito Nishiura"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "5a3b3b0f-41c6-4458-920c-9984b17468c1",
@@ -49432,7 +49699,12 @@
     "lastUpdateDate": "2026-10-20T15:31:13.678Z",
     "composers": [
       "Tomohito Nishiura"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "6e2ee810-41a3-450e-b722-80930b6ad7bc",
@@ -49450,7 +49722,12 @@
     "lastUpdateDate": "2026-10-20T15:40:38.533Z",
     "composers": [
       "Shunsuke Kida"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "36b2f427-f978-440e-9035-90162c702805",
@@ -49468,7 +49745,12 @@
     "lastUpdateDate": "2026-10-20T15:41:19.376Z",
     "composers": [
       "Shunsuke Kida"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "e60cda57-d0a3-4efc-a8ba-c8b7db83c8bf",
@@ -49486,7 +49768,12 @@
     "lastUpdateDate": "2026-10-20T15:41:43.408Z",
     "composers": [
       "Shunsuke Kida"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "02f0c933-1d1f-4a65-b014-9b47906639e4",
@@ -49504,7 +49791,12 @@
     "lastUpdateDate": "2026-10-20T15:42:11.771Z",
     "composers": [
       "Shunsuke Kida"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "32ad8622-3b69-4952-8a54-a820bd9a903e",
@@ -49522,7 +49814,12 @@
     "lastUpdateDate": "2026-10-20T15:43:56.876Z",
     "composers": [
       "Koichi Sugiyama"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "8ecbed73-8e1f-4192-b6f7-3b67b3d77522",
@@ -49540,7 +49837,12 @@
     "lastUpdateDate": "2026-10-20T15:45:14.871Z",
     "composers": [
       "Keiichi Suzuki"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "0571cad4-af4e-4db1-99f8-4fd5d9a80e4d",
@@ -49558,7 +49860,12 @@
     "lastUpdateDate": "2026-10-20T15:47:37.854Z",
     "composers": [
       "Nobuo Uematsu"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "8f1cfb0f-317c-4c89-a908-1a570600fd58",
@@ -49576,7 +49883,12 @@
     "lastUpdateDate": "2026-10-20T15:48:03.360Z",
     "composers": [
       "Nobuo Uematsu"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "429e2f19-6abf-4e20-8383-6e0984c51819",
@@ -49594,7 +49906,12 @@
     "lastUpdateDate": "2026-10-20T15:48:49.884Z",
     "composers": [
       "Nobuo Uematsu"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "9e4cad6e-4831-499f-9d9c-e82aa50d820c",
@@ -49612,7 +49929,12 @@
     "lastUpdateDate": "2026-10-20T15:49:29.294Z",
     "composers": [
       "Nobuo Uematsu"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "cb817281-b4b2-4e37-a28d-ce3210d6ba72",
@@ -49630,7 +49952,12 @@
     "lastUpdateDate": "2026-10-20T15:50:04.786Z",
     "composers": [
       "Nobuo Uematsu"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "a15c7926-9cdb-436a-8468-a46dcc5f5e35",
@@ -49649,7 +49976,12 @@
     "composers": [
       "Noriko Matsueda",
       "Takahito Eguchi"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "50deb8a6-3f86-4316-9076-d831564fefec",
@@ -49667,7 +49999,12 @@
     "lastUpdateDate": "2026-10-20T15:53:07.790Z",
     "composers": [
       "Masashi Hamauzu"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "1b229cb4-f178-46a4-99a4-aea76eed0e97",
@@ -49685,7 +50022,12 @@
     "lastUpdateDate": "2026-10-20T16:00:09.160Z",
     "composers": [
       "Saki Kasuga"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "0acae093-5f9f-4454-9219-063f0209c6c9",
@@ -49704,7 +50046,12 @@
     "composers": [
       "Yuka Tsujiyoko",
       "Saki Kasuga"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "7b579bb1-2c09-4629-aca6-57f677f9e3af",
@@ -49722,7 +50069,12 @@
     "lastUpdateDate": "2026-10-20T16:02:24.851Z",
     "composers": [
       "Yuka Tsujiyoko"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "6f34db9c-335d-45dd-9ef2-c109f65d4e41",
@@ -49744,7 +50096,12 @@
       "Shigeru Araki",
       "Yasumasa Kitagawa",
       "Yusuke Kato"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "ecac16dd-d354-43cd-b07e-c0fa6ac55f9b",
@@ -49763,7 +50120,12 @@
     "composers": [
       "Martin O'Donnell",
       "Michael Salvatori"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "a8cd3e46-f9ae-444a-a7e7-711d22cb2465",
@@ -49781,7 +50143,12 @@
     "lastUpdateDate": "2026-10-20T16:45:10.152Z",
     "composers": [
       "Yoko Shimomura"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "14e09a9d-0426-4f49-9d37-60ea3f2048f5",
@@ -49799,7 +50166,12 @@
     "lastUpdateDate": "2026-10-20T16:45:59.009Z",
     "composers": [
       "Yoko Shimomura"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d55e005e-d7f4-4dfe-9fba-9b40884f61c1",
@@ -49817,7 +50189,12 @@
     "lastUpdateDate": "2026-10-20T16:46:33.481Z",
     "composers": [
       "Yoko Shimomura"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "7cc04029-4678-4468-a47b-407227333afc",
@@ -49835,7 +50212,12 @@
     "lastUpdateDate": "2026-10-20T16:47:34.195Z",
     "composers": [
       "Hikaru Utada"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "6ca1d1be-03d1-4267-a679-89eada04daf8",
@@ -49853,7 +50235,12 @@
     "lastUpdateDate": "2026-10-20T16:48:28.239Z",
     "composers": [
       "Yoko Shimomura"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "1ac74468-25db-42e7-aace-e2c8db286bf4",
@@ -49871,7 +50258,12 @@
     "lastUpdateDate": "2026-10-20T16:49:43.479Z",
     "composers": [
       "Yoko Shimomura"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "a182eefe-3c6d-40a3-9158-f9ec2c5e107e",
@@ -49889,7 +50281,12 @@
     "lastUpdateDate": "2026-10-20T16:50:09.896Z",
     "composers": [
       "Yoko Shimomura"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "155cc8fa-ab5a-43d0-8d96-a3a4483b0d2e",
@@ -49907,7 +50304,12 @@
     "lastUpdateDate": "2026-10-20T16:50:47.304Z",
     "composers": [
       "Yoko Shimomura"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "52465601-292c-4f1d-821f-036641979b34",
@@ -49925,7 +50327,12 @@
     "lastUpdateDate": "2026-10-20T16:51:17.874Z",
     "composers": [
       "Yoko Shimomura"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "8450ff9f-f9f0-4f3f-baaf-aed07338e494",
@@ -49943,7 +50350,12 @@
     "lastUpdateDate": "2026-10-20T17:02:09.130Z",
     "composers": [
       "Yasunori Shiono"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "905747ec-4a5f-4573-aded-587eec2be77b",
@@ -49961,7 +50373,12 @@
     "lastUpdateDate": "2026-10-20T17:02:41.090Z",
     "composers": [
       "Yasunori Shiono"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "bf8dbfcc-29a4-4a73-9994-8d9a7aa239ab",
@@ -49979,7 +50396,12 @@
     "lastUpdateDate": "2026-10-20T17:03:03.583Z",
     "composers": [
       "Yasunori Shiono"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "afcf0036-2830-47af-99ef-13be8f25b1cc",
@@ -49997,7 +50419,12 @@
     "lastUpdateDate": "2026-10-20T17:03:35.082Z",
     "composers": [
       "Yasunori Shiono"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "2cd49059-5e9c-4f92-b833-c981b1b82e05",
@@ -50015,7 +50442,12 @@
     "lastUpdateDate": "2026-10-20T19:48:16.731Z",
     "composers": [
       "Kinuyo Yamashita"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "9ef5dc52-d87d-407b-9e48-40fde9ee251a",
@@ -50033,7 +50465,12 @@
     "lastUpdateDate": "2026-10-20T15:22:48.849Z",
     "composers": [
       "Hirokazu Tanaka"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "c9e549e7-9cd4-454e-a286-0f0767d92e57",
@@ -50356,7 +50793,12 @@
     "composers": [
       "Masanori Adachi",
       "Taro Kudo"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "b1774aa6-e647-4851-bc69-3fabac42bcde",
@@ -50375,7 +50817,12 @@
     "composers": [
       "Masanori Adachi",
       "Taro Kudo"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "31a3f0e4-0337-4be9-8967-438d4ee06f30",
@@ -53464,6 +53911,35 @@
     "converters": [
       "Kevxs"
     ]
+  },
+  {
+    "uuid": "aa3f582c-6170-41d3-be78-618456e0b0bb",
+    "creationDate": "2026-10-20T20:26:01.060Z",
+    "game": "Mega Man X: Corrupted",
+    "song": "Crystal Rafflar",
+    "type": "bgm",
+    "categories": [
+      "JabuJabu",
+      "ForestTemple",
+      "FireTemple",
+      "IceCavern",
+      "WaterTemple",
+      "SpiritTemple",
+      "ShadowTemple",
+      "ChildDungeon",
+      "AncientDungeon",
+      "MysticalDungeon",
+      "SpookyDungeon",
+      "AdultDungeon",
+      "Dungeon"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "file": "Mega Man X Corrupted/Crystal Rafflar.ootrs",
+    "preview": "",
+    "hash": "652bd46795f2a8080515e2f5beede010"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
