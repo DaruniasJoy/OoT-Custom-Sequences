@@ -49966,18 +49966,17 @@
     "game": "Kingdom Hearts II",
     "song": "The 13th Struggle [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts II/The 13th Struggle [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts II/The 13th Struggle [2].mp3",
     "hash": "0e02b435758073028022195b9af138c0",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.50"
+    "lufs": "-18.50",
+    "lastUpdateDate": "2026-10-20T16:51:17.874Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "8450ff9f-f9f0-4f3f-baaf-aed07338e494",
