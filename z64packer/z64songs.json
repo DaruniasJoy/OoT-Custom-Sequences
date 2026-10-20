@@ -47093,16 +47093,19 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Zero 4/Holy Land.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man Zero 4/Holy Land.mp3",
     "hash": "7959e5fa715155f33c05a0c1794e88f6",
     "lufs": "-17.32",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:56:51.164Z",
+    "composers": [
+      "Ippo Yamada",
+      "Masaki Suzuki",
+      "Luna Umegaki",
+      "Shinichi Itakura"
     ]
   },
   {
