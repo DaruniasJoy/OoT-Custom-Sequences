@@ -49215,18 +49215,17 @@
     "game": "Brave Fencer Musashi",
     "song": "Grillin Village",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/Grillin Village.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/Grillin Village.mp3",
     "hash": "d6b201f8d586d3dc0e53171843a85d37",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.19"
+    "lufs": "-18.19",
+    "lastUpdateDate": "2026-10-20T15:05:06.666Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "3695897d-b132-4953-a034-608fa02049bd",
