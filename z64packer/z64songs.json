@@ -49762,18 +49762,17 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Winning Road",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Fire Emblem The Blazing Blade/Winning Road.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Fire Emblem The Blazing Blade/Winning Road.mp3",
     "hash": "add7051710c6dc466c5ba4d5ae39fcfc",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.82"
+    "lufs": "-16.82",
+    "lastUpdateDate": "2026-10-20T16:02:24.851Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "6f34db9c-335d-45dd-9ef2-c109f65d4e41",
