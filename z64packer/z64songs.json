@@ -49287,18 +49287,17 @@
     "game": "Brave Fencer Musashi",
     "song": "The Musashi Legend [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Brave Fencer Musashi/The Musashi Legend [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Brave Fencer Musashi/The Musashi Legend [2].mp3",
     "hash": "23ecb599047ccc432b829e16f31a035d",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-13.01"
+    "lufs": "-13.01",
+    "lastUpdateDate": "2026-10-20T15:07:49.518Z",
+    "composers": [
+      "Tsuyoshi Sekito"
+    ]
   },
   {
     "uuid": "b648a755-601f-4e5d-ba5d-dbf260921115",
