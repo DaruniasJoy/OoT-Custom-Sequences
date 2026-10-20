@@ -49089,18 +49089,17 @@
     "game": "Animal Crossing",
     "song": "Only Me",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Animal Crossing/Only Me.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Animal Crossing/Only Me.mp3",
     "hash": "773fda58d47f14cd04d4bf880d59c889",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.70"
+    "lufs": "-16.70",
+    "lastUpdateDate": "2026-10-20T14:48:31.749Z",
+    "composers": [
+      "Toru Minegishi"
+    ]
   },
   {
     "uuid": "631cc564-b937-42ee-82e5-e63a85876659",
