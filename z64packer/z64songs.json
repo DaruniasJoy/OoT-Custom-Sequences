@@ -44890,16 +44890,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Memories.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Memories.mp3",
     "hash": "2aeb15f750954542feca5806093b0c7e",
     "lufs": "-18.42",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T15:37:28.073Z",
+    "composers": [
+      "Tomohito Nishiura"
     ]
   },
   {
