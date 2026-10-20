@@ -44550,15 +44550,16 @@
       "Dungeon"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Banjo-Kazooie Jiggies of Time/Gerudo Fortress [Lute Tambourine].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Banjo-Kazooie Jiggies of Time/Gerudo Fortress [Lute Tambourine].mp3",
     "hash": "2c727b700cf965b6e7c639ac3293736e",
     "lufs": "-14.11",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T14:55:00.861Z",
+    "composers": [
+      "Bynine"
     ]
   },
   {
