@@ -49822,18 +49822,17 @@
     "game": "Kingdom Hearts",
     "song": "Go For It",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts/Go For It.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Go For It.mp3",
     "hash": "96588e8d1b8d086915021732b096cbe5",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.24"
+    "lufs": "-19.24",
+    "lastUpdateDate": "2026-10-20T16:45:10.152Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "14e09a9d-0426-4f49-9d37-60ea3f2048f5",
