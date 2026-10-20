@@ -49930,18 +49930,17 @@
     "game": "Kingdom Hearts 358∕2 Days",
     "song": "The Other Promise",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts 358∕2 Days/The Other Promise.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts 358∕2 Days/The Other Promise.mp3",
     "hash": "d2f23d2b19d6a629145554be03ddb99d",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.69"
+    "lufs": "-15.69",
+    "lastUpdateDate": "2026-10-20T16:50:09.896Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "155cc8fa-ab5a-43d0-8d96-a3a4483b0d2e",
