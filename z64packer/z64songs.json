@@ -51407,16 +51407,16 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Little Nemo The Dream Master/Nightmare Land.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Little Nemo The Dream Master/Nightmare Land.mp3",
     "hash": "9804d11f9a745ed5bff9ccceea6e8477",
     "lufs": "-23.96",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-20T23:45:03.389Z",
+    "composers": [
+      "Junko Tamiya"
     ]
   },
   {
