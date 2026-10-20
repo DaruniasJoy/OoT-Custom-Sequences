@@ -45429,16 +45429,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kirby Air Ride/Checker Knights.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kirby Air Ride/Checker Knights.mp3",
     "hash": "2af74146bb2f56d8a09a0e7bbf373795",
     "lufs": "-14.24",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:53:44.884Z",
+    "composers": [
+      "Akira Miyagawa"
     ]
   },
   {
