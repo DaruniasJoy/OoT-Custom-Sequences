@@ -49615,18 +49615,17 @@
     "game": "Final Fantasy VII",
     "song": "Barret's Theme",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy VII/Barret's Theme.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy VII/Barret's Theme.mp3",
     "hash": "974874b271eb6342a4b5e7745516a1d6",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.75"
+    "lufs": "-19.75",
+    "lastUpdateDate": "2026-10-20T15:48:03.360Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "uuid": "429e2f19-6abf-4e20-8383-6e0984c51819",
