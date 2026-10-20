@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -51085,16 +51085,16 @@
       "Overworld",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Blue Archive/Guruguru Usagi.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Blue Archive/Guruguru Usagi.mp3",
     "hash": "e8395cf3223b62d8ba99fd2e52425793",
     "lufs": "-21.38",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-20T21:46:56.865Z",
+    "composers": [
+      "Mitsukiyo"
     ]
   },
   {
