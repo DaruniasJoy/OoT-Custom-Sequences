@@ -46930,16 +46930,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X5/X vs. Zero.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X5/X vs. Zero.mp3",
     "hash": "ce22235e27ed1b8ff5ee1e2ef2a34e02",
     "lufs": "-11.38",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:49:39.129Z",
+    "composers": [
+      "Naoto Tanaka"
     ]
   },
   {
