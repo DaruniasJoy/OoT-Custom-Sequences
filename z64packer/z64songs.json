@@ -49052,18 +49052,17 @@
     "game": "Animal Crossing",
     "song": "Able Sisters",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Animal Crossing/Able Sisters.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Animal Crossing/Able Sisters.mp3",
     "hash": "44b4358506cc05317c70aa016ab20aea",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-20.15"
+    "lufs": "-20.15",
+    "lastUpdateDate": "2026-10-20T14:47:37.616Z",
+    "composers": [
+      "Toru Minegishi"
+    ]
   },
   {
     "uuid": "f4353f0d-0fbe-41d1-ab4e-86d55846300d",
