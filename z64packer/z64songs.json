@@ -45466,16 +45466,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kirby Air Ride/Item Bounce.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kirby Air Ride/Item Bounce.mp3",
     "hash": "b7655e8bb42f4bcbfaa45da0154bd887",
     "lufs": "-16.97",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:57:47.128Z",
+    "composers": [
+      "Hirokazu Ando"
     ]
   },
   {
