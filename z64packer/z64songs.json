@@ -49994,18 +49994,17 @@
     "game": "Mega Man X3",
     "song": "Gravity Beetle",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X3/Gravity Beetle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X3/Gravity Beetle.mp3",
     "hash": "5b598d90993d58655a7888aad3e66423",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.16"
+    "lufs": "-18.16",
+    "lastUpdateDate": "2026-10-20T19:48:16.731Z",
+    "composers": [
+      "Kinuyo Yamashita"
+    ]
   },
   {
     "uuid": "9ef5dc52-d87d-407b-9e48-40fde9ee251a",
