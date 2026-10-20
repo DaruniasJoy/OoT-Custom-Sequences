@@ -49894,18 +49894,17 @@
     "game": "Kingdom Hearts",
     "song": "Night of Fate",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts/Night of Fate.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Night of Fate.mp3",
     "hash": "9c80735b9800b29cf836cc1feb27d5f4",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.46"
+    "lufs": "-15.46",
+    "lastUpdateDate": "2026-10-20T16:48:28.239Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "1ac74468-25db-42e7-aace-e2c8db286bf4",
