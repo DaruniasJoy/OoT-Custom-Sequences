@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -49034,18 +49034,17 @@
     "game": ".hack∕∕INFECTION",
     "song": "Mac Anu",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": ".hack∕∕INFECTION/Mac Anu.ootrs",
     "preview": "https://archive.org/download/darunias-joy/.hack∕∕INFECTION/Mac Anu.mp3",
     "hash": "6b16e845033464724d45d362092c40d6",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.93"
+    "lufs": "-15.93",
+    "lastUpdateDate": "2026-10-20T14:40:39.287Z",
+    "composers": [
+      "Chikayo Fukuda"
+    ]
   },
   {
     "uuid": "73a0c204-234a-485a-b771-056b10f2d7a4",
