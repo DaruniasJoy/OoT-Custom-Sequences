@@ -49124,18 +49124,17 @@
     "game": "Banjo-Kazooie",
     "song": "Gruntilda's Lair (FF Remix)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Banjo-Kazooie/Gruntilda's Lair (FF Remix).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Banjo-Kazooie/Gruntilda's Lair (FF Remix).mp3",
     "hash": "3fefeabda2e8d3e7c461d49ab22eeb65",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.85"
+    "lufs": "-16.85",
+    "lastUpdateDate": "2026-10-20T14:52:10.828Z",
+    "composers": [
+      "Grant Kirkhope"
+    ]
   },
   {
     "uuid": "f0dff509-7325-4c9e-92df-075600869896",
