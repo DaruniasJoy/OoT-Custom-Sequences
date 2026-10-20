@@ -49780,18 +49780,21 @@
     "game": "Goemon's Great Adventure",
     "song": "Burning My Soul",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Goemon's Great Adventure/Burning My Soul.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Goemon's Great Adventure/Burning My Soul.mp3",
     "hash": "ae226bca5d95461ef605b2ff0028e280",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.61"
+    "lufs": "-15.61",
+    "lastUpdateDate": "2026-10-20T16:17:39.135Z",
+    "composers": [
+      "Hirotaka Kurita",
+      "Nobuyuki Akena",
+      "Shigeru Araki",
+      "Yasumasa Kitagawa",
+      "Yusuke Kato"
+    ]
   },
   {
     "uuid": "ecac16dd-d354-43cd-b07e-c0fa6ac55f9b",
