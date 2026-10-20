@@ -49876,18 +49876,17 @@
     "game": "Kingdom Hearts",
     "song": "Hikari (Orchestral Version)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts/Hikari (Orchestral Version).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Hikari (Orchestral Version).mp3",
     "hash": "c357457b1986a25bd020ba410f33388b",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.76"
+    "lufs": "-15.76",
+    "lastUpdateDate": "2026-10-20T16:47:34.195Z",
+    "composers": [
+      "Hikaru Utada"
+    ]
   },
   {
     "uuid": "6ca1d1be-03d1-4267-a679-89eada04daf8",
