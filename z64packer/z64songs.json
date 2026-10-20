@@ -51274,15 +51274,17 @@
       "CharacterTheme"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Genshin Impact/Main Theme [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Genshin Impact/Main Theme [2].mp3",
     "hash": "6b29567652cf653a0087c1c8b9b9f8a9",
     "lufs": "-22.97",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-20T21:56:06.131Z",
+    "composers": [
+      "Yu-Peng Chen",
+      "HOYO-MiX"
     ]
   },
   {
