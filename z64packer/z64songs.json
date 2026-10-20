@@ -49687,18 +49687,18 @@
     "game": "Final Fantasy X-2",
     "song": "Memories of Light and Waves",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Final Fantasy X-2/Memories of Light and Waves.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Final Fantasy X-2/Memories of Light and Waves.mp3",
     "hash": "908f18ff78b61b75c2217f64435fa599",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.86"
+    "lufs": "-17.86",
+    "lastUpdateDate": "2026-10-20T15:52:22.857Z",
+    "composers": [
+      "Noriko Matsueda",
+      "Takahito Eguchi"
+    ]
   },
   {
     "uuid": "50deb8a6-3f86-4316-9076-d831564fefec",
