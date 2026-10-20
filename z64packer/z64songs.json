@@ -51654,16 +51654,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 2/Crash Man [3].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 2/Crash Man [3].mp3",
     "hash": "1eb7752f42830cef8c92f2d5daec8212",
     "lufs": "-11.59",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-20T23:53:14.149Z",
+    "composers": [
+      "Takashi Tateishi"
     ]
   },
   {
