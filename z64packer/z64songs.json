@@ -50020,18 +50020,17 @@
     "game": "Lufia II: Rise of the Sinistrals",
     "song": "Sinistral Battle [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Lufia II Rise of the Sinistrals/Sinistral Battle [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Lufia II Rise of the Sinistrals/Sinistral Battle [2].mp3",
     "hash": "8a523ec7fa4a673f6b2c4b011de075ff",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-14.78"
+    "lufs": "-14.78",
+    "lastUpdateDate": "2026-10-20T17:03:03.583Z",
+    "composers": [
+      "Yasunori Shiono"
+    ]
   },
   {
     "uuid": "afcf0036-2830-47af-99ef-13be8f25b1cc",
