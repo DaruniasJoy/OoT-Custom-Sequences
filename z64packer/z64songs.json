@@ -45688,16 +45688,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Legend of Mana/Diddles song.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Legend of Mana/Diddles song.mp3",
     "hash": "f0d8a7dca2174dbe7a32c9d76412de08",
     "lufs": "-10.67",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T17:07:02.557Z",
+    "composers": [
+      "Yoko Shimomura"
     ]
   },
   {
