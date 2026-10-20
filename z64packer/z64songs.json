@@ -49488,18 +49488,17 @@
     "game": "Demon's Souls",
     "song": "Leechmonger",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Demon's Souls/Leechmonger.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Demon's Souls/Leechmonger.mp3",
     "hash": "a73cada743b9fa72570744402bb0c762",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-21.51"
+    "lufs": "-21.51",
+    "lastUpdateDate": "2026-10-20T15:40:38.533Z",
+    "composers": [
+      "Shunsuke Kida"
+    ]
   },
   {
     "uuid": "36b2f427-f978-440e-9035-90162c702805",
