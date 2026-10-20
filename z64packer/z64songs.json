@@ -51197,16 +51197,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Corpse Party/Chapter 1 Main Theme.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Corpse Party/Chapter 1 Main Theme.mp3",
     "hash": "3baddd4f0f9059aae37a685d33a127ab",
     "lufs": "-13.23",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-20T21:50:58.552Z",
+    "composers": [
+      "Mao Hamamoto"
     ]
   },
   {
