@@ -5151,5 +5151,27 @@
     "game": "Ogre Battle 64",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/059def4514ca1bc7ff5781ac48428572.png"
   },
+  {
+    "game": "Contra",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f4d3a9b22204bc9cd4a83ec616bf6097.png"
+  },
+  {
+    "game": "Little Nemo: The Dream Master",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/c033734a9132db7dd9378d363d2b18cf.png"
+  },
+  {
+    "game": "Mega Man",
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8767bccb1ff4231a9962e3914f4f1f8f.png"
+  },
+  {
+    "game": "Mega Man X4",
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b13245211331d16e2a04423665d4b3a8.png"
+  },
+  {
+    "game": "Project Zomboid",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/074ab924540667aad42a8ea3beccd19b.png"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
