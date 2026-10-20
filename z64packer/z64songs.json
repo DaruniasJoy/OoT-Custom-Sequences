@@ -51442,16 +51442,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mario Party 2/Horror Land.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mario Party 2/Horror Land.mp3",
     "hash": "35bb9b5a2ba5e65cbc45bef12b590f2c",
     "lufs": "-20.62",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-20T23:46:51.815Z",
+    "composers": [
+      "Hironao Yamamoto"
     ]
   },
   {
