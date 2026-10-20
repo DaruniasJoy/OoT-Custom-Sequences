@@ -49433,18 +49433,17 @@
     "game": "Dark Cloud",
     "song": "Broken Promise (Music Box)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Broken Promise (Music Box).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Dark Cloud/Broken Promise (Music Box).mp3",
     "hash": "c79d6e469b996bb73752f6a1c61ead58",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.85"
+    "lufs": "-17.85",
+    "lastUpdateDate": "2026-10-20T15:32:53.336Z",
+    "composers": [
+      "Tomohito Nishiura"
+    ]
   },
   {
     "uuid": "7deb1d00-a639-4647-bf21-1259053867a5",
