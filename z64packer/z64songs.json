@@ -49840,18 +49840,17 @@
     "game": "Kingdom Hearts",
     "song": "Hand In Hand",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kingdom Hearts/Hand In Hand.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kingdom Hearts/Hand In Hand.mp3",
     "hash": "85d5468c14a9f21289492cd91e5599bd",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.54"
+    "lufs": "-18.54",
+    "lastUpdateDate": "2026-10-20T16:45:59.009Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "d55e005e-d7f4-4dfe-9fba-9b40884f61c1",
