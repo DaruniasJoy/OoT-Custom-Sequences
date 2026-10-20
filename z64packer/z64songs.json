@@ -49506,18 +49506,17 @@
     "game": "Demon's Souls",
     "song": "Maiden in Black",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Demon's Souls/Maiden in Black.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Demon's Souls/Maiden in Black.mp3",
     "hash": "d66251864b472392c82d252974e86d0f",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-23.39"
+    "lufs": "-23.39",
+    "lastUpdateDate": "2026-10-20T15:41:19.376Z",
+    "composers": [
+      "Shunsuke Kida"
+    ]
   },
   {
     "uuid": "e60cda57-d0a3-4efc-a8ba-c8b7db83c8bf",
