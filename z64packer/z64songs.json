@@ -45585,16 +45585,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Kirby Super Star/Candy Mountain.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Kirby Super Star/Candy Mountain.mp3",
     "hash": "56e75c68fafad2a0ea3a35d550eedc1b",
     "lufs": "-16.00",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T16:58:42.460Z",
+    "composers": [
+      "Jun Ishikawa"
     ]
   },
   {
