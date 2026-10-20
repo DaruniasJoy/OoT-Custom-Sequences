@@ -46346,16 +46346,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 3/Snake Man [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 3/Snake Man [2].mp3",
     "hash": "2ffa3a4377b62c3d4e37c9c07589ff95",
     "lufs": "-13.65",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-20T19:12:38.219Z",
+    "composers": [
+      "Yasuaki Fujita"
     ]
   },
   {
