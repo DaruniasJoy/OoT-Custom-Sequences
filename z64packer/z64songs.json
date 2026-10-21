@@ -50938,18 +50938,17 @@
     "game": "Yakuza",
     "song": "For Whose Sake",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Yakuza/For Whose Sake.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Yakuza/For Whose Sake.mp3",
     "hash": "73635edd726d050d0080408832904240",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.27"
+    "lufs": "-16.27",
+    "lastUpdateDate": "2026-10-21T02:30:41.295Z",
+    "composers": [
+      "Sachio Ogawa"
+    ]
   },
   {
     "uuid": "28861631-58df-4328-abd6-dc1bfc3bccf0",
