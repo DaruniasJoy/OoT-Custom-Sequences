@@ -53593,15 +53593,16 @@
       "CharacterTheme"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X5/Zero Virus Stage 1.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X5/Zero Virus Stage 1.mp3",
     "hash": "21fe86234afaa730fd785451d759bac2",
     "lufs": "-14.44",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:56:03.893Z",
+    "composers": [
+      "Naoto Tanaka"
     ]
   },
   {
