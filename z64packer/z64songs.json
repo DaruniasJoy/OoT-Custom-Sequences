@@ -52798,16 +52798,16 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Strike Battle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Strike Battle.mp3",
     "hash": "44974cc024426897ce67023a23032f4c",
     "lufs": "-18.51",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:16:31.855Z",
+    "composers": [
+      "Dominic Ninmark"
     ]
   },
   {
