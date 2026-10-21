@@ -51890,16 +51890,19 @@
       "Dungeon"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 7/Walk the Invisible.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 7/Walk the Invisible.mp3",
     "hash": "a27eae0fc48877e90472582a0349bcb9",
     "lufs": "-17.45",
     "converters": [
       "Kevxs"
-    ]
+    ],
+    "lastUpdateDate": "2026-10-21T00:04:21.158Z",
+    "composers": [
+      "Yuko Takehara",
+      "Toshihiko Horiyama"
+    ],
+    "notes": "Also known as \"Dr. Wily Stage 3\""
   },
   {
     "uuid": "ced68e1c-f2bb-4f6e-8166-1b8f03a9268a",
