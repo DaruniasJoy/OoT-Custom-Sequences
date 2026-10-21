@@ -52039,16 +52039,16 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X/Flame Mammoth.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X/Flame Mammoth.mp3",
     "hash": "3b30af84b73961a0dad6953f6418595c",
     "lufs": "-15.76",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:07:34.543Z",
+    "composers": [
+      "Setsuo Yamamoto"
     ]
   },
   {
