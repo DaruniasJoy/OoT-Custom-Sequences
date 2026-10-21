@@ -48400,16 +48400,18 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "The King of Fighters '95/Shuddering Gong.ootrs",
     "preview": "https://archive.org/download/darunias-joy/The King of Fighters '95/Shuddering Gong.mp3",
     "hash": "6430760733da08e3b79bd1118ad3b936",
     "lufs": "-13.18",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:19:45.265Z",
+    "composers": [
+      "Akihiro Uchida",
+      "Masahiko Hataya",
+      "Pearl Sibakiti"
     ]
   },
   {
