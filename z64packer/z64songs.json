@@ -48149,16 +48149,17 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Tales of Destiny/Heatwave.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Tales of Destiny/Heatwave.mp3",
     "hash": "fcc68f3d82da383e0286a2d3dd1f1c49",
     "lufs": "-13.06",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:10:05.229Z",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
     ]
   },
   {
