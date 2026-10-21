@@ -48117,16 +48117,17 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Smash Bros. Melee/Multi Man Melee 2.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Super Smash Bros. Melee/Multi Man Melee 2.mp3",
     "hash": "c7a9c3f203c07acfa1bd1450c133710f",
     "lufs": "-14.35",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:08:47.367Z",
+    "composers": [
+      "Hirokazu Ando",
+      "Shogo Sakai"
     ]
   },
   {
