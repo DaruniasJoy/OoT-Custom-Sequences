@@ -50514,18 +50514,17 @@
     "game": "Pilotwings 64",
     "song": "Hang Glider",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Pilotwings 64/Hang Glider.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Pilotwings 64/Hang Glider.mp3",
     "hash": "b31ea83c36a4c71e2b107ef7937300c0",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.59"
+    "lufs": "-16.59",
+    "lastUpdateDate": "2026-10-21T01:26:26.564Z",
+    "composers": [
+      "Dan Hess"
+    ]
   },
   {
     "uuid": "0464a263-fcfb-4e04-b48a-ef50d56bb953",
