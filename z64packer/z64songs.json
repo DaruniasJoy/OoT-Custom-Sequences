@@ -47993,16 +47993,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Mario RPG Legend of the Seven Stars/Bowser Battle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Super Mario RPG Legend of the Seven Stars/Bowser Battle.mp3",
     "hash": "f2a6b80f4b8ff838ad4702f980c1731b",
     "lufs": "-15.16",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:04:41.469Z",
+    "composers": [
+      "Yoko Shimomura"
     ]
   },
   {
