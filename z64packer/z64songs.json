@@ -47485,16 +47485,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Pocky & Rocky/Rocky's Message [Oboe].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Pocky & Rocky/Rocky's Message [Oboe].mp3",
     "hash": "431a4ae52479647718ca9423bf3b9706",
     "lufs": "-16.20",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T01:29:21.998Z",
+    "composers": [
+      "Hiroyuki Iwatsuki"
     ]
   },
   {
