@@ -52163,16 +52163,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X/Sigma Stage 1.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X/Sigma Stage 1.mp3",
     "hash": "9457e6edb9b82b824a2fe9c5a9e90e03",
     "lufs": "-16.52",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:10:09.956Z",
+    "composers": [
+      "Setsuo Yamamoto"
     ]
   },
   {
