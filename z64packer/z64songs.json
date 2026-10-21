@@ -53862,16 +53862,16 @@
       "Dungeon",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sonic.EXE/HILL.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Sonic.EXE/HILL.mp3",
     "hash": "a85410338b7c76bcbfe9684241c565b4",
     "lufs": "-22.08",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:43:59.979Z",
+    "composers": [
+      "Kyū Sawamura"
     ]
   },
   {
