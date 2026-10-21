@@ -51937,15 +51937,16 @@
       "Dungeon"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 8/Frost Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 8/Frost Man.mp3",
     "hash": "551fc867b42ee6a9f2c03083e7915760",
     "lufs": "-14.14",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:42:21.780Z",
+    "composers": [
+      "Shusaku Uchiyama"
     ]
   },
   {
