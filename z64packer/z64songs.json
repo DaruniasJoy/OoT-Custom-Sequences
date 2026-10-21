@@ -51530,16 +51530,16 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 10/Get The Punk Out.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 10/Get The Punk Out.mp3",
     "hash": "43d60a4f909fd41785a7552a8fc0d09d",
     "lufs": "-11.43",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:43:16.328Z",
+    "composers": [
+      "Ippo Yamada"
     ]
   },
   {
