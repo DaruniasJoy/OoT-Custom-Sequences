@@ -50587,18 +50587,17 @@
     "game": "Star Fox 64",
     "song": "Boss A",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Star Fox 64/Boss A.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Boss A.mp3",
     "hash": "eef51a34466a7fb40555fbbf18d1fe60",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.73"
+    "lufs": "-17.73",
+    "lastUpdateDate": "2026-10-21T01:51:56.356Z",
+    "composers": [
+      "Hajime Wakai"
+    ]
   },
   {
     "uuid": "ce9d33e3-c1e3-4c1c-9960-9c42b1e6d9a6",
