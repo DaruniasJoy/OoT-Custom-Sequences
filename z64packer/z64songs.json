@@ -52519,16 +52519,16 @@
       "Fight",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Mid Boss Battle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Mid Boss Battle.mp3",
     "hash": "79939d8a25b6bd9c632634e2e3c0e43f",
     "lufs": "-16.28",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:12:54.928Z",
+    "composers": [
+      "Dominic Ninmark"
     ]
   },
   {
