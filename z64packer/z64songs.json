@@ -47593,16 +47593,16 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Puyo Puyo Sun/Rival Mode.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Puyo Puyo Sun/Rival Mode.mp3",
     "hash": "d87cd4ff7dbbc50733f727ee4a1fe9a3",
     "lufs": "-14.38",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T01:32:59.001Z",
+    "composers": [
+      "Katsumi Tanaka"
     ]
   },
   {
