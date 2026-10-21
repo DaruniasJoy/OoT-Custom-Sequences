@@ -52599,16 +52599,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Opening Stage X.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Opening Stage X.mp3",
     "hash": "0750ffd01213c253632332274e8408e0",
     "lufs": "-14.09",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:14:22.859Z",
+    "composers": [
+      "Dominic Ninmark"
     ]
   },
   {
