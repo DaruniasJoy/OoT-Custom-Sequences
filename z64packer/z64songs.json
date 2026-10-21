@@ -53232,16 +53232,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X3/Toxic Seahorse.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X3/Toxic Seahorse.mp3",
     "hash": "316ed3af08588b6e348ce6927f9964a8",
     "lufs": "-14.63",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:49:58.541Z",
+    "composers": [
+      "Kinuyo Yamashita"
     ]
   },
   {
