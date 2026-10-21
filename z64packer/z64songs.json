@@ -48725,16 +48725,16 @@
       "Fight",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Warriors Orochi 2/Flying Kung Fu.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Warriors Orochi 2/Flying Kung Fu.mp3",
     "hash": "4509b1b57a2aec25f797d29b80ebc339",
     "lufs": "-14.32",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:28:14.426Z",
+    "composers": [
+      "Masato Koike"
     ]
   },
   {
