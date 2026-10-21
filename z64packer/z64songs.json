@@ -52398,16 +52398,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Force Starfish.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Force Starfish.mp3",
     "hash": "b7f6b805fb8c8e205ff7fbf6603c5c2c",
     "lufs": "-13.14",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:35:12.418Z",
+    "composers": [
+      "Dominic Ninmark"
     ]
   },
   {
