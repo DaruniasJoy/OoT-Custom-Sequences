@@ -50732,18 +50732,17 @@
     "game": "Star Fox Adventures",
     "song": "Thorntail Hollow (Day)",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Star Fox Adventures/Thorntail Hollow (Day).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Star Fox Adventures/Thorntail Hollow (Day).mp3",
     "hash": "a84fe651e8d21992fd5585fa410b25ca",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.40"
+    "lufs": "-18.40",
+    "lastUpdateDate": "2026-10-21T01:59:09.350Z",
+    "composers": [
+      "David Wise"
+    ]
   },
   {
     "uuid": "d9b63f10-48c7-4c07-9460-524a8273361d",
