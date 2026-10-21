@@ -50902,18 +50902,17 @@
     "game": "Xenogears",
     "song": "Emotion",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Xenogears/Emotion.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Xenogears/Emotion.mp3",
     "hash": "db51a48fa0c2a653141582c07e8971c1",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.17"
+    "lufs": "-16.17",
+    "lastUpdateDate": "2026-10-21T02:29:22.881Z",
+    "composers": [
+      "Yasunori Mitsuda"
+    ]
   },
   {
     "uuid": "8fd39689-641a-48fb-8912-324033b5b99e",
