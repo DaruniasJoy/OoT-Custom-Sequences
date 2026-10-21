@@ -53270,16 +53270,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X3/Vile Stage.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X3/Vile Stage.mp3",
     "hash": "91bf2c82b7f9d53993a45a401c2f7e7b",
     "lufs": "-15.90",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:50:42.456Z",
+    "composers": [
+      "Kinuyo Yamashita"
     ]
   },
   {
