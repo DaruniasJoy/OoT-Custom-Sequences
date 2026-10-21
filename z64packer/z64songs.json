@@ -47786,16 +47786,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sonic the Hedgehog (8-bit)/Scrap Brain Zone[Oboe].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Sonic the Hedgehog (8-bit)/Scrap Brain Zone[Oboe].mp3",
     "hash": "0570b54aa9d77b60a50216a8db23d811",
     "lufs": "-14.75",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T01:42:30.420Z",
+    "composers": [
+      "Yuzo Koshiro"
     ]
   },
   {
