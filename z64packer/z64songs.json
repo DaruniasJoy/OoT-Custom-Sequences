@@ -52712,16 +52712,16 @@
       "Overworld",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Ride Robbers.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Ride Robbers.mp3",
     "hash": "a924a90291e2e601b463ab6e69b00d7d",
     "lufs": "-14.02",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:15:39.649Z",
+    "composers": [
+      "Dominic Ninmark"
     ]
   },
   {
