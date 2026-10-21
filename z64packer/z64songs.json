@@ -53075,16 +53075,16 @@
       "Dungeon",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X3/Crush Crawfish.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X3/Crush Crawfish.mp3",
     "hash": "b0d99ada5a14a8a80667bf3a3c7fe8bf",
     "lufs": "-11.55",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:48:51.046Z",
+    "composers": [
+      "Kinuyo Yamashita"
     ]
   },
   {
