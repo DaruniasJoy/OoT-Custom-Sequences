@@ -47907,16 +47907,17 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Spider-Man & Venom Maximum Carnage/Heroic Assault.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Spider-Man & Venom Maximum Carnage/Heroic Assault.mp3",
     "hash": "e19cd86837c82f7d3fd45eb1cb1d5970",
     "lufs": "-16.75",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T01:50:25.364Z",
+    "composers": [
+      "Chris Jojo",
+      "Allister Brimble"
     ]
   },
   {
