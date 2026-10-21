@@ -51968,16 +51968,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X/Boss Battle [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X/Boss Battle [2].mp3",
     "hash": "35e3a7c662bd533ba566d1f1bf538b5b",
     "lufs": "-12.31",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:06:38.156Z",
+    "composers": [
+      "Setsuo Yamamoto"
     ]
   },
   {
