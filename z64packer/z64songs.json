@@ -48500,16 +48500,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "The Legend of Zelda A Link Between Worlds/Ravio.ootrs",
     "preview": "https://archive.org/download/darunias-joy/The Legend of Zelda A Link Between Worlds/Ravio.mp3",
     "hash": "c7f0cad6ff909ca4348e22cbef4d4c1b",
     "lufs": "-18.63",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:21:18.031Z",
+    "composers": [
+      "Ryo Nagamatsu"
     ]
   },
   {
