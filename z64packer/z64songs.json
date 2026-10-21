@@ -48336,16 +48336,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Tales of Vesperia/Fury Sparks.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Tales of Vesperia/Fury Sparks.mp3",
     "hash": "b67eca1361e06ef800dfd312985712ef",
     "lufs": "-13.37",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:16:49.166Z",
+    "composers": [
+      "Hibiki Aoyama"
     ]
   },
   {
