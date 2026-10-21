@@ -52559,16 +52559,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Neurohack Mosquito.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Neurohack Mosquito.mp3",
     "hash": "4393084319448b0996879a580527eca7",
     "lufs": "-13.44",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:13:27.489Z",
+    "composers": [
+      "Dominic Ninmark"
     ]
   },
   {
