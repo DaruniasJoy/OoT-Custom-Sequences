@@ -52673,16 +52673,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Pitfall Passage.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Pitfall Passage.mp3",
     "hash": "de062ca48a175e32edfa1153e53ee5a7",
     "lufs": "-14.72",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:27:28.317Z",
+    "composers": [
+      "Dominic Ninmark"
     ]
   },
   {
