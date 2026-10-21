@@ -50994,18 +50994,17 @@
     "game": "Yoshi's Island",
     "song": "Flower Garden",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Yoshi's Island/Flower Garden.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Yoshi's Island/Flower Garden.mp3",
     "hash": "745cfe8f58ed8702f1e72e004514fa35",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.31"
+    "lufs": "-18.31",
+    "lastUpdateDate": "2026-10-21T02:32:59.376Z",
+    "composers": [
+      "Koji Kondo"
+    ]
   },
   {
     "uuid": "30a63ade-bcfb-44c7-b311-315ca4d41e91",
