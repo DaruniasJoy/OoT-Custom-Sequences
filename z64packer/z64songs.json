@@ -50660,18 +50660,17 @@
     "game": "Star Fox 64",
     "song": "Menu",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Star Fox 64/Menu.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Menu.mp3",
     "hash": "89dc44b6c9f2a5d775db715965eac3ac",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-20.89"
+    "lufs": "-20.89",
+    "lastUpdateDate": "2026-10-21T01:55:32.066Z",
+    "composers": [
+      "Koji Kondo"
+    ]
   },
   {
     "uuid": "4b5f1859-a633-42fc-9321-15d4918674e4",
