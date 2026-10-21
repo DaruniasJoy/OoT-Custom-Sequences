@@ -47531,16 +47531,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Pocky & Rocky/Rocky's Message [Ocarina].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Pocky & Rocky/Rocky's Message [Ocarina].mp3",
     "hash": "2fc60265c12f74ea29c1c0975fc7e5ce",
     "lufs": "-14.57",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T01:29:57.242Z",
+    "composers": [
+      "Hiroyuki Iwatsuki"
     ]
   },
   {
