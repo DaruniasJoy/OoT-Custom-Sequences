@@ -50714,18 +50714,17 @@
     "game": "Star Fox Adventures",
     "song": "Krazoa Shrine",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Star Fox Adventures/Krazoa Shrine.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Star Fox Adventures/Krazoa Shrine.mp3",
     "hash": "1551010ae38427afa51dbb3b4a18ee2c",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.77"
+    "lufs": "-15.77",
+    "lastUpdateDate": "2026-10-21T01:58:34.632Z",
+    "composers": [
+      "David Wise"
+    ]
   },
   {
     "uuid": "0ee95675-248c-438a-8e71-4434fbb35a0a",
