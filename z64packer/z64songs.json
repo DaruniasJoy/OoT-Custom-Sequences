@@ -52084,16 +52084,16 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X/Opening Stage.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X/Opening Stage.mp3",
     "hash": "ec5cbc8214f7a7214c1f93f6219e3052",
     "lufs": "-12.25",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:10:00.856Z",
+    "composers": [
+      "Setsuo Yamamoto"
     ]
   },
   {
