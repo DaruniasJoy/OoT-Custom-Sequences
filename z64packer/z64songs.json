@@ -52356,16 +52356,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Crystal Rafflar [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Crystal Rafflar [2].mp3",
     "hash": "374b8758c957c0f9ad7601ce4693c7af",
     "lufs": "-15.62",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:24:07.628Z",
+    "composers": [
+      "Dominic Ninmark"
     ]
   },
   {
