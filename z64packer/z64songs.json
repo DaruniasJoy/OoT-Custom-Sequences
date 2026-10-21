@@ -47624,16 +47624,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sailor Moon Another Story/Fight to Change Destiny.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Sailor Moon Another Story/Fight to Change Destiny.mp3",
     "hash": "57de5d19df61d7705966d59e6ebc24c3",
     "lufs": "-15.63",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T01:36:46.274Z",
+    "composers": [
+      "Takanori Arisawa"
     ]
   },
   {
