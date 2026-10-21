@@ -50496,18 +50496,17 @@
     "game": "Pilotwings 64",
     "song": "Birdman",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Pilotwings 64/Birdman.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Pilotwings 64/Birdman.mp3",
     "hash": "e66dfb2c0026447b858f7239d8f5f03e",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.18"
+    "lufs": "-17.18",
+    "lastUpdateDate": "2026-10-21T01:25:31.697Z",
+    "composers": [
+      "Dan Hess"
+    ]
   },
   {
     "uuid": "5d667cc0-3d0c-4739-85d0-dbb1a76a2473",
