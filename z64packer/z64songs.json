@@ -50819,18 +50819,17 @@
     "game": "Super Mario RPG: Legend of the Seven Stars",
     "song": "Barrel Volcano",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Mario RPG Legend of the Seven Stars/Barrel Volcano.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Super Mario RPG Legend of the Seven Stars/Barrel Volcano.mp3",
     "hash": "999079bc8fd035637e1123a411d49b25",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.05"
+    "lufs": "-15.05",
+    "lastUpdateDate": "2026-10-21T02:03:41.077Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "b1c164d3-f294-4dff-8d7f-f9035f36cd70",
