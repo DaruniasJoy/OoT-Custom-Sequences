@@ -53026,16 +53026,16 @@
       "AdultDungeon",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X3/Blizzard Buffalo.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X3/Blizzard Buffalo.mp3",
     "hash": "0a15dc1bd7b440f17c0d2a3a2d012e8f",
     "lufs": "-14.48",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:48:10.450Z",
+    "composers": [
+      "Kinuyo Yamashita"
     ]
   },
   {
