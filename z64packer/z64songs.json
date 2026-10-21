@@ -50837,18 +50837,17 @@
     "game": "Super Mario RPG: Legend of the Seven Stars",
     "song": "Bowser's Keep",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Mario RPG Legend of the Seven Stars/Bowser's Keep.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Super Mario RPG Legend of the Seven Stars/Bowser's Keep.mp3",
     "hash": "751e9abdd8c84e6c0d81011119539e06",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.40"
+    "lufs": "-15.40",
+    "lastUpdateDate": "2026-10-21T02:05:06.626Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "80c79e1d-5472-45a1-9026-45137e414853",
