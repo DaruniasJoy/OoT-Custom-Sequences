@@ -50641,18 +50641,18 @@
     "game": "Star Fox 64",
     "song": "Map",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Star Fox 64/Map.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Map.mp3",
     "hash": "9714312d9918a1ed301a0bddf5b1376a",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.58"
+    "lufs": "-19.58",
+    "lastUpdateDate": "2026-10-21T01:54:39.010Z",
+    "composers": [
+      "Hajime Wakai",
+      "Koji Kondo"
+    ]
   },
   {
     "uuid": "c24a5e90-a1a2-4dc2-a5fc-4c62760bc092",
