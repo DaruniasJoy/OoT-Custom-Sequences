@@ -53314,16 +53314,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X3/Volt Catfish.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X3/Volt Catfish.mp3",
     "hash": "c63209fb5251ee2b15076ae064ccb477",
     "lufs": "-15.64",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:51:20.947Z",
+    "composers": [
+      "Kinuyo Yamashita"
     ]
   },
   {
