@@ -50623,18 +50623,17 @@
     "game": "Star Fox 64",
     "song": "Corneria",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Star Fox 64/Corneria.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Corneria.mp3",
     "hash": "8b9fa28aac869e103ad9e2b9bc17fd16",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-18.71"
+    "lufs": "-18.71",
+    "lastUpdateDate": "2026-10-21T01:53:54.031Z",
+    "composers": [
+      "Hajime Wakai"
+    ]
   },
   {
     "uuid": "6c7358ce-1c1a-40e8-81c5-73793ac6e909",
