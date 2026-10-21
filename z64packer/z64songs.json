@@ -52273,16 +52273,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X/Storm Eagle [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X/Storm Eagle [2].mp3",
     "hash": "ff9903d64ec657fc7e635cf5af1787c1",
     "lufs": "-10.91",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:12:52.259Z",
+    "composers": [
+      "Makoto Tomozawa"
     ]
   },
   {
