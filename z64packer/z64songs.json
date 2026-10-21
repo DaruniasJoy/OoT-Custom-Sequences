@@ -47960,15 +47960,18 @@
       "Dungeon"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Street Fighter EX Plus Alpha/Amusementive Crime.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Street Fighter EX Plus Alpha/Amusementive Crime.mp3",
     "hash": "51edc976b19cb4f78cbbc1ca0efbf474",
     "lufs": "-12.97",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:01:16.384Z",
+    "composers": [
+      "Shinji Hosoe",
+      "Ayako Saso",
+      "Takayuki Aihara"
     ]
   },
   {
