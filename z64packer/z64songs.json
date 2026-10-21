@@ -48463,16 +48463,16 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "The Legend of Heroes Trails from Zero/Get Over the Barrier -Roaring Ver-.ootrs",
     "preview": "https://archive.org/download/darunias-joy/The Legend of Heroes Trails from Zero/Get Over the Barrier -Roaring Ver-.mp3",
     "hash": "1583e34bdde101ecde3b351e81a1a5d4",
     "lufs": "-18.68",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:20:41.039Z",
+    "composers": [
+      "Falcom Sound Team jdk"
     ]
   },
   {
