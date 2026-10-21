@@ -53160,16 +53160,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X3/Gravity Beetle [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X3/Gravity Beetle [2].mp3",
     "hash": "4fbfefeddd88985d5a0c7243d60fc0cb",
     "lufs": "-11.23",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:18:15.122Z",
+    "composers": [
+      "Kinuyo Yamashita"
     ]
   },
   {
