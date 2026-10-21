@@ -50753,18 +50753,17 @@
     "game": "Suikoden",
     "song": "Main Theme",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Suikoden/Main Theme.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Suikoden/Main Theme.mp3",
     "hash": "7f22cbb03a4b05607f0402919aa343ee",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.96"
+    "lufs": "-17.96",
+    "lastUpdateDate": "2026-10-21T02:02:40.362Z",
+    "composers": [
+      "Miki Higashino"
+    ]
   },
   {
     "uuid": "d953a367-8ee7-4b27-8346-5ffd1268f529",
