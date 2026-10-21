@@ -53830,16 +53830,16 @@
       "BigFanfare",
       "EventFanfare"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Project Zomboid/Skill Level Up.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Project Zomboid/Skill Level Up.mp3",
     "hash": "3189230bd81c43ab9cba16c76f7768da",
     "lufs": "-22.84",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:32:01.874Z",
+    "composers": [
+      "Zach Beever"
     ]
   },
   {
