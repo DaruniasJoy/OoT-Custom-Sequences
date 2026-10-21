@@ -48253,16 +48253,17 @@
       "Overworld",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Tales of Destiny 2/Coup de Grace.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Tales of Destiny 2/Coup de Grace.mp3",
     "hash": "2929bc359446e6bd2e88cba326b89cda",
     "lufs": "-15.38",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:14:35.053Z",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
     ]
   },
   {
