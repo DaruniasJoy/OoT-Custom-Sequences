@@ -52750,16 +52750,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Sparkling Scorpio.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Sparkling Scorpio.mp3",
     "hash": "2daab7b2c3ef6a862a832169d8194b78",
     "lufs": "-15.17",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:30:55.493Z",
+    "composers": [
+      "Dominic Ninmark"
     ]
   },
   {
