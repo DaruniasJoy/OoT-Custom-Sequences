@@ -52315,16 +52315,16 @@
       "Overworld",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Character Select.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Character Select.mp3",
     "hash": "6dc044f4d4374ccf10a7b16baab3b5c8",
     "lufs": "-17.90",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:33:03.214Z",
+    "composers": [
+      "Dominic Ninmark"
     ]
   },
   {
