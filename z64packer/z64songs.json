@@ -48646,16 +48646,19 @@
       "Fight",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Undertale Yellow/A Mother's Love (Full).ootrs",
     "preview": "https://archive.org/download/darunias-joy/Undertale Yellow/A Mother's Love (Full).mp3",
     "hash": "0527d68240799f680c372346bd5c5a66",
     "lufs": "-12.59",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:25:13.508Z",
+    "composers": [
+      "MasterSwordRemix",
+      "emBer",
+      "NoteBlock",
+      "Figburn"
     ]
   },
   {
