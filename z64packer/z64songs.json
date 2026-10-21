@@ -52123,16 +52123,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X/Password.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X/Password.mp3",
     "hash": "bcd8a338a207765f6c6f6573349dfc7a",
     "lufs": "-19.71",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:08:57.992Z",
+    "composers": [
+      "Toshihiko Horiyama"
     ]
   },
   {
