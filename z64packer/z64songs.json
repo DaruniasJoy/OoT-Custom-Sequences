@@ -50478,18 +50478,17 @@
     "game": "Ogre Battle 64",
     "song": "Decisive Battle",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ogre Battle 64/Decisive Battle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ogre Battle 64/Decisive Battle.mp3",
     "hash": "6e08c4d944119e153b9171363d0be927",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.17"
+    "lufs": "-15.17",
+    "lastUpdateDate": "2026-10-21T01:21:28.444Z",
+    "composers": [
+      "Masaharu Iwata"
+    ]
   },
   {
     "uuid": "451d8852-3748-4cf8-b75d-9dc0a5c0fe84",
