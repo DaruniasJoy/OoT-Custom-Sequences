@@ -46755,16 +46755,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 9/Tornado Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 9/Tornado Man.mp3",
     "hash": "40e53b8ce9de409e88a5fc7ca62c93cf",
     "lufs": "-14.88",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T00:08:14.650Z",
+    "composers": [
+      "Ippo Yamada"
     ]
   },
   {
