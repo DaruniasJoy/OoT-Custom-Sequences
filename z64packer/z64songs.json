@@ -53192,16 +53192,16 @@
       "BigFanfare",
       "EventFanfare"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X3/Stage Complete.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X3/Stage Complete.mp3",
     "hash": "d68aaec7bf3d5b6cc7d1eac20a174d0c",
     "lufs": "-17.20",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:52:00.854Z",
+    "composers": [
+      "Kinuyo Yamashita"
     ]
   },
   {
