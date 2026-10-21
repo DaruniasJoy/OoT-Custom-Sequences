@@ -50862,18 +50862,17 @@
     "game": "The Legend of Zelda: Skyward Sword",
     "song": "Skyloft",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "The Legend of Zelda Skyward Sword/Skyloft.ootrs",
     "preview": "https://archive.org/download/darunias-joy/The Legend of Zelda Skyward Sword/Skyloft.mp3",
     "hash": "c4bda6d22b26f4f5c1c16a3e5235d1de",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-20.09"
+    "lufs": "-20.09",
+    "lastUpdateDate": "2026-10-21T02:22:22.852Z",
+    "composers": [
+      "Shiho Fujii"
+    ]
   },
   {
     "uuid": "4fc906d7-6488-4e4a-8cfc-b72e503ba10a",
