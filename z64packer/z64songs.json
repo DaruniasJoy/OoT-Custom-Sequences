@@ -47439,16 +47439,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 4/A New World Fool.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Persona 4/A New World Fool.mp3",
     "hash": "8b0e4800a02d27fd6fcbf891c76f3ed2",
     "lufs": "-14.74",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T01:22:42.092Z",
+    "composers": [
+      "Shoji Meguro"
     ]
   },
   {
