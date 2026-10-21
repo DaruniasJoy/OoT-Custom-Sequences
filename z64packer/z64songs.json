@@ -50884,18 +50884,17 @@
     "game": "Xenogears",
     "song": "Bonds of the Sea and Fire",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Xenogears/Bonds of the Sea and Fire.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Xenogears/Bonds of the Sea and Fire.mp3",
     "hash": "af7af7ef84cb32df66acd8d487e4a784",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-14.23"
+    "lufs": "-14.23",
+    "lastUpdateDate": "2026-10-21T02:28:57.512Z",
+    "composers": [
+      "Yasunori Mitsuda"
+    ]
   },
   {
     "uuid": "d8341bf4-e9e9-4eec-9cd8-2e17b01ffba9",
