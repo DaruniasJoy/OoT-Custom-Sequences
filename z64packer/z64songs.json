@@ -53750,16 +53750,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Zero 2/Power Bom.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man Zero 2/Power Bom.mp3",
     "hash": "8846a157e69c69382d9bdba69ab4f0e5",
     "lufs": "-10.95",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:20:20.076Z",
+    "composers": [
+      "Masaki Suzuki"
     ]
   },
   {
