@@ -52921,16 +52921,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X2/Crystal Snail.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X2/Crystal Snail.mp3",
     "hash": "96399dab3972e1e79b59361061b4cfaf",
     "lufs": "-15.96",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:45:06.466Z",
+    "composers": [
+      "Yuki Iwai"
     ]
   },
   {
