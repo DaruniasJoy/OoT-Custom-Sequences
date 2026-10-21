@@ -53629,15 +53629,16 @@
       "Dungeon"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X6/Commander Yammark.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X6/Commander Yammark.mp3",
     "hash": "68bd5c246e91d395679e5012cfb6d444",
     "lufs": "-19.48",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:58:05.267Z",
+    "composers": [
+      "Akemi Kimura"
     ]
   },
   {
