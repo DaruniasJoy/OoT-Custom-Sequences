@@ -50920,18 +50920,17 @@
     "game": "Xenogears",
     "song": "Faraway Promise",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Xenogears/Faraway Promise.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Xenogears/Faraway Promise.mp3",
     "hash": "9f8bd34a66addfe624e6ce66297525e6",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.21"
+    "lufs": "-17.21",
+    "lastUpdateDate": "2026-10-21T02:29:51.781Z",
+    "composers": [
+      "Yasunori Mitsuda"
+    ]
   },
   {
     "uuid": "4204e90a-7c1d-46cc-bc6c-6d3cdac9401a",
