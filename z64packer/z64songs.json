@@ -53708,15 +53708,16 @@
       "Dungeon"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Zero 2/Gravity.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man Zero 2/Gravity.mp3",
     "hash": "d2dc877ac0e6a726d3abb93d07d86440",
     "lufs": "-12.82",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:18:50.220Z",
+    "composers": [
+      "Masaki Suzuki"
     ]
   },
   {
