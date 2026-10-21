@@ -46629,16 +46629,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 9/Boss.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 9/Boss.mp3",
     "hash": "401e5e322be3b79dd9ecc1cb83271395",
     "lufs": "-11.94",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T00:05:46.911Z",
+    "composers": [
+      "Yu Shimoda"
     ]
   },
   {
