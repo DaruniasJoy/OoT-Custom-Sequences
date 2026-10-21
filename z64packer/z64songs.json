@@ -53390,16 +53390,16 @@
       "Overworld",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X4/Eregion.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X4/Eregion.mp3",
     "hash": "fffad222b740d9078db31565fafd10ff",
     "lufs": "-16.41",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:53:34.820Z",
+    "composers": [
+      "Toshihiko Horiyama"
     ]
   },
   {
