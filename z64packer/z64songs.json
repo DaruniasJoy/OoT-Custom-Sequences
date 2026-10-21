@@ -50678,18 +50678,17 @@
     "game": "Star Fox 64",
     "song": "Sector Z [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Star Fox 64/Sector Z [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Sector Z [2].mp3",
     "hash": "250e4ab96b817bb591277afd9a3fa5ac",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.52"
+    "lufs": "-19.52",
+    "lastUpdateDate": "2026-10-21T01:56:08.298Z",
+    "composers": [
+      "Hajime Wakai"
+    ]
   },
   {
     "uuid": "04392c27-f8f7-4b8e-826a-ecf8f7e5fb81",
