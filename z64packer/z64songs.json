@@ -48570,16 +48570,16 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Under Night In-Birth/Night Walker.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Under Night In-Birth/Night Walker.mp3",
     "hash": "316ff6fb02369d46c1343271b51e6560",
     "lufs": "-13.54",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:23:57.035Z",
+    "composers": [
+      "Raito"
     ]
   },
   {
