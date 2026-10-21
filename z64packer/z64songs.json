@@ -52836,16 +52836,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Warfare Milodon.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Warfare Milodon.mp3",
     "hash": "44dba98228f0f92adf3a200a3c39957f",
     "lufs": "-13.27",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:17:05.045Z",
+    "composers": [
+      "Dominic Ninmark"
     ]
   },
   {
