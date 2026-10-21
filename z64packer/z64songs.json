@@ -48221,16 +48221,17 @@
       "Fight",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Tales of Destiny 2/A Resolution.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Tales of Destiny 2/A Resolution.mp3",
     "hash": "9f33412d40e6ed3528ede74d2d7c6022",
     "lufs": "-17.33",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:13:52.460Z",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
     ]
   },
   {
