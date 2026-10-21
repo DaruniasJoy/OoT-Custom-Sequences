@@ -52994,16 +52994,16 @@
       "BigFanfare",
       "EventFanfare"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X2/Stage Complete.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X2/Stage Complete.mp3",
     "hash": "ce31237b48134a9d9e7304f0d7b16478",
     "lufs": "-15.01",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:47:27.750Z",
+    "composers": [
+      "Yuki Iwai"
     ]
   },
   {
