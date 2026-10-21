@@ -52960,16 +52960,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X2/Overdrive Ostrich.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X2/Overdrive Ostrich.mp3",
     "hash": "f3993b248ed4cf221515cef8c751719a",
     "lufs": "-14.99",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:45:50.313Z",
+    "composers": [
+      "Yuki Iwai"
     ]
   },
   {
