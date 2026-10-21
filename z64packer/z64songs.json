@@ -51481,16 +51481,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man/Cut Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man/Cut Man.mp3",
     "hash": "323bb30a2ed3352382b80465a806ac34",
     "lufs": "-17.95",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:36:00.974Z",
+    "composers": [
+      "Manami Matsumae"
     ]
   },
   {
