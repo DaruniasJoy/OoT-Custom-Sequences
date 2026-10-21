@@ -51729,16 +51729,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 2/Password.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 2/Password.mp3",
     "hash": "efc38b84bbe3151e0343a5bb9a15c716",
     "lufs": "-12.55",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:37:31.895Z",
+    "composers": [
+      "Takashi Tateishi"
     ]
   },
   {
