@@ -52235,16 +52235,16 @@
       "BigFanfare",
       "EventFanfare"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X/Stage Complete.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X/Stage Complete.mp3",
     "hash": "b18852c97b120153f1d7d641d5fd63ad",
     "lufs": "-13.24",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:10:55.210Z",
+    "composers": [
+      "Setsuo Yamamoto"
     ]
   },
   {
