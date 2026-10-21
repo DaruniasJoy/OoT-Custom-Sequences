@@ -51815,15 +51815,16 @@
       "Dungeon"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 7/Freeze Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 7/Freeze Man.mp3",
     "hash": "44f7ca803d08761fcf23ae5946915a4e",
     "lufs": "-17.89",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:39:58.561Z",
+    "composers": [
+      "Yuko Takehara"
     ]
   },
   {
