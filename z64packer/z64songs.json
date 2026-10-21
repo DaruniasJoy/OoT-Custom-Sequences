@@ -52433,16 +52433,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Forest Mountain.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Forest Mountain.mp3",
     "hash": "de0b1705ba673a50fd371c81e970b481",
     "lufs": "-14.68",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T01:01:18.153Z",
+    "composers": [
+      "Dominic Ninmark"
     ]
   },
   {
