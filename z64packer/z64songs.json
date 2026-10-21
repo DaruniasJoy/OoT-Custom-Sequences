@@ -53547,16 +53547,16 @@
       "BigFanfare",
       "EventFanfare"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X5/Stage Complete X.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X5/Stage Complete X.mp3",
     "hash": "d58057153afb177dd0f59e968976bf59",
     "lufs": "-18.07",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:56:58.552Z",
+    "composers": [
+      "Naoto Tanaka"
     ]
   },
   {
