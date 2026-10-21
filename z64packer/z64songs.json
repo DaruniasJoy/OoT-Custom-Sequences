@@ -53511,16 +53511,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X5/Opening Stage Zero.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X5/Opening Stage Zero.mp3",
     "hash": "3d8f617ed4774002bbe629c4beb458cb",
     "lufs": "-17.79",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:21:02.757Z",
+    "composers": [
+      "Naoto Tanaka"
     ]
   },
   {
