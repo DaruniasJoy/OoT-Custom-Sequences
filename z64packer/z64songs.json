@@ -46042,16 +46042,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 10/Against The Pressure.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 10/Against The Pressure.mp3",
     "hash": "f1fb8c0ac24cddba5828fab26779e93b",
     "lufs": "-11.66",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T00:15:06.729Z",
+    "composers": [
+      "Ryo Kawakami"
     ]
   },
   {
