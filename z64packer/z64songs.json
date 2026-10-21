@@ -50696,18 +50696,17 @@
     "game": "Star Fox 64",
     "song": "Venom",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Star Fox 64/Venom.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Venom.mp3",
     "hash": "fb09c109a7a9407be489128b8eab5fd5",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.22"
+    "lufs": "-17.22",
+    "lastUpdateDate": "2026-10-21T01:56:56.014Z",
+    "composers": [
+      "Hajime Wakai"
+    ]
   },
   {
     "uuid": "7941f579-e18a-43b4-9c47-28b14eab8576",
