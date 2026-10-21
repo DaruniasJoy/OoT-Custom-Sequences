@@ -48304,16 +48304,17 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Tales of Destiny 2/Dona Nobis Pacem.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Tales of Destiny 2/Dona Nobis Pacem.mp3",
     "hash": "3ac729027b76d2e8792eacc4e0890746",
     "lufs": "-14.57",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:15:05.238Z",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
     ]
   },
   {
