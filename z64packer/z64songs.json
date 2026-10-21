@@ -50605,18 +50605,17 @@
     "game": "Star Fox 64",
     "song": "Boss B [2]",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Star Fox 64/Boss B [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Star Fox 64/Boss B [2].mp3",
     "hash": "b9cb5e58a137778790f6fcd8b8b6b1d6",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-15.65"
+    "lufs": "-15.65",
+    "lastUpdateDate": "2026-10-21T01:53:12.823Z",
+    "composers": [
+      "Hajime Wakai"
+    ]
   },
   {
     "uuid": "24374bd0-0360-4be2-98cc-08723b679f2a",
