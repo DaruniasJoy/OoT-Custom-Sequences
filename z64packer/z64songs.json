@@ -50550,18 +50550,17 @@
     "game": "Pokémon Gold, Silver & Crystal",
     "song": "Sprout Tower",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Pokémon Gold, Silver & Crystal/Sprout Tower.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Pokémon Gold, Silver & Crystal/Sprout Tower.mp3",
     "hash": "9c1629e9f802b5e74be509c0dda9f6ed",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.35"
+    "lufs": "-19.35",
+    "lastUpdateDate": "2026-10-21T01:31:02.019Z",
+    "composers": [
+      "Junichi Masuda"
+    ]
   },
   {
     "uuid": "bda9d760-a1c8-4b15-bb09-79ea0664a826",
