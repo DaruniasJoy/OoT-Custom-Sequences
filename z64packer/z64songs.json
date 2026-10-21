@@ -53122,16 +53122,16 @@
       "Dungeon",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X3/Doppler Stage 1.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X3/Doppler Stage 1.mp3",
     "hash": "a52304f0d6d9284962c948c77d7c81ac",
     "lufs": "-13.70",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:49:26.110Z",
+    "composers": [
+      "Kinuyo Yamashita"
     ]
   },
   {
