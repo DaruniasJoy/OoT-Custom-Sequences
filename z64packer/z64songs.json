@@ -50568,18 +50568,17 @@
     "game": "Silent Hill 3",
     "song": "You're Not Here",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Silent Hill 3/You're Not Here.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Silent Hill 3/You're Not Here.mp3",
     "hash": "345af5782969e1d22a22150dc9a36085",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-19.50"
+    "lufs": "-19.50",
+    "lastUpdateDate": "2026-10-21T01:39:32.473Z",
+    "composers": [
+      "Akira Yamaoka"
+    ]
   },
   {
     "uuid": "6383e986-fc80-4e74-a592-9c8a7eac8143",
