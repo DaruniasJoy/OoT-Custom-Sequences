@@ -51774,16 +51774,16 @@
       "Dungeon",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 5/Wave Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 5/Wave Man.mp3",
     "hash": "0aa306fbe23475d777dfd00553a62c07",
     "lufs": "-14.72",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:38:52.566Z",
+    "composers": [
+      "Mari Yamaguchi"
     ]
   },
   {
