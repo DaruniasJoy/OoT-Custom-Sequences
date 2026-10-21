@@ -50532,18 +50532,17 @@
     "game": "Pizza Tower",
     "song": "Oregano Mirage",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Pizza Tower/Oregano Mirage.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Pizza Tower/Oregano Mirage.mp3",
     "hash": "d4db83a9c5f8bde81ec3d26cb30a04d2",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-17.56"
+    "lufs": "-17.56",
+    "lastUpdateDate": "2026-10-21T01:28:18.497Z",
+    "composers": [
+      "ClascyJitto"
+    ]
   },
   {
     "uuid": "d5e9774c-6978-4f6d-97d3-71b404d9d1dc",
