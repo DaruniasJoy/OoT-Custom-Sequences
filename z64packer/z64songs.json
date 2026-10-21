@@ -53352,16 +53352,16 @@
       "Overworld",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X4/Boss Battle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X4/Boss Battle.mp3",
     "hash": "bf9fe4549f51e102075d8cffc85fd105",
     "lufs": "-16.08",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:52:48.607Z",
+    "composers": [
+      "Toshihiko Horiyama"
     ]
   },
   {
