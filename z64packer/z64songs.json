@@ -48788,16 +48788,17 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "X-Men vs. Street Fighter/Gambit's Theme.ootrs",
     "preview": "https://archive.org/download/darunias-joy/X-Men vs. Street Fighter/Gambit's Theme.mp3",
     "hash": "43647ac31031ca7c756f9db5efc1b390",
     "lufs": "-13.22",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:27:13.516Z",
+    "composers": [
+      "Yuki Iwai",
+      "Yuko Takehara"
     ]
   },
   {
