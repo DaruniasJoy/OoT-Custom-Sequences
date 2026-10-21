@@ -53472,16 +53472,16 @@
       "Overworld",
       "CharacterTheme"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X4/Opening Theme.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X4/Opening Theme.mp3",
     "hash": "ae9b522292c98e8766787400db7d5c4d",
     "lufs": "-17.87",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:55:03.843Z",
+    "composers": [
+      "Toshihiko Horiyama"
     ]
   },
   {
