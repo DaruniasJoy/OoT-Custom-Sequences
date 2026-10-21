@@ -47704,16 +47704,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sailor Moon Another Story/Legendary Battle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Sailor Moon Another Story/Legendary Battle.mp3",
     "hash": "bbdee2a75721a9ff7bafd0ec00334a8a",
     "lufs": "-18.28",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T01:37:45.278Z",
+    "composers": [
+      "Takanori Arisawa"
     ]
   },
   {
