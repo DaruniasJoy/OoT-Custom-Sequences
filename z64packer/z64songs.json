@@ -51849,16 +51849,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 7/Shade Man.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 7/Shade Man.mp3",
     "hash": "ed176b88a60068ad7748b4eb9fbaf518",
     "lufs": "-18.21",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-21T00:41:01.641Z",
+    "composers": [
+      "Toshihiko Horiyama"
     ]
   },
   {
