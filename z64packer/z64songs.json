@@ -48044,16 +48044,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Smash Bros. Melee/Fountain of Dreams.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Super Smash Bros. Melee/Fountain of Dreams.mp3",
     "hash": "5f2c646b5866cd1209e23b8dfb6aba6f",
     "lufs": "-17.02",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T02:06:13.938Z",
+    "composers": [
+      "Tadashi Ikegami"
     ]
   },
   {
