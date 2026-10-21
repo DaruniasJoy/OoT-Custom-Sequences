@@ -46692,16 +46692,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 9/Strange World.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man 9/Strange World.mp3",
     "hash": "80b8a3a25a1be9198fc7a04baf27bb64",
     "lufs": "-12.81",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-21T00:07:14.731Z",
+    "composers": [
+      "Yu Shimoda"
     ]
   },
   {
