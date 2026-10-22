@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -48956,16 +48956,16 @@
       "AdultDungeon",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys III Wanderers from Ys/Valestein Castle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ys III Wanderers from Ys/Valestein Castle.mp3",
     "hash": "a07fa0d3b73d1d2c82c8212307cc9495",
     "lufs": "-13.89",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-22T14:24:48.897Z",
+    "composers": [
+      "Mieko Ishikawa"
     ]
   },
   {
