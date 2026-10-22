@@ -49149,16 +49149,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys VI The Ark of Napishtim/Release of the Far West Ocean.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ys VI The Ark of Napishtim/Release of the Far West Ocean.mp3",
     "hash": "5c6ae1098c0ebf09e8c4fb0f66674358",
     "lufs": "-10.56",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-22T14:25:47.648Z",
+    "composers": [
+      "Hayato Sonoda"
     ]
   },
   {
