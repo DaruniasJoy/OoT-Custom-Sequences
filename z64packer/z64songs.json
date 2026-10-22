@@ -51205,20 +51205,19 @@
     "uuid": "28861631-58df-4328-abd6-dc1bfc3bccf0",
     "creationDate": "2026-10-19T04:00:23.178Z",
     "game": "Yakuza 0",
-    "song": "Intro",
+    "song": "English Intro Theme",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
-    "file": "Yakuza 0/Intro.ootrs",
+    "file": "Yakuza 0/English Intro Theme.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Yakuza 0/Intro.mp3",
     "hash": "1615c3bf6bf4bb8debd3b621ec2e2e3c",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.37"
+    "lufs": "-16.37",
+    "lastUpdateDate": "2026-10-22T14:54:46.314Z",
+    "composers": [
+      "Hidenori Shoji"
+    ]
   },
   {
     "uuid": "0025f3a8-dcc5-466a-bf6a-4afeefa32908",
