@@ -53299,16 +53299,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X2/Bubble Crab [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X2/Bubble Crab [2].mp3",
     "hash": "77b177dd7d0975ac5c6c31d3fc42f3cc",
     "lufs": "-15.30",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-22T15:14:30.521Z",
+    "composers": [
+      "Yuki Iwai"
     ]
   },
   {
