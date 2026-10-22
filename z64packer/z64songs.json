@@ -49200,16 +49200,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys VI The Ark of Napishtim/Windslash Steps.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ys VI The Ark of Napishtim/Windslash Steps.mp3",
     "hash": "5c211d6680df426a9da9ec6bf005a002",
     "lufs": "-18.25",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-22T14:26:52.079Z",
+    "composers": [
+      "Wataru Ishibashi"
     ]
   },
   {
