@@ -54157,16 +54157,16 @@
       "BigFanfare",
       "EventFanfare"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X6/Stage Complete X.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X6/Stage Complete X.mp3",
     "hash": "a21fa7208ea4696ca4240534a4c4e52c",
     "lufs": "-10.83",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-22T15:15:42.189Z",
+    "composers": [
+      "Akemi Kimura"
     ]
   },
   {
