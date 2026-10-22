@@ -49068,16 +49068,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys Seven/Lost Harmony Among People.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ys Seven/Lost Harmony Among People.mp3",
     "hash": "9f82413928deb7778b5a8c90098ca863",
     "lufs": "-19.97",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-22T14:29:54.489Z",
+    "composers": [
+      "Hayato Sonoda"
     ]
   },
   {
