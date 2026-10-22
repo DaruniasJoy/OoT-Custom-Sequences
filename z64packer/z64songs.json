@@ -49021,16 +49021,17 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys Seven/Innocent Primeval Breaker.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ys Seven/Innocent Primeval Breaker.mp3",
     "hash": "0c4ff7920b325865b0acc655d2b50a7a",
     "lufs": "-13.25",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-22T14:28:17.956Z",
+    "composers": [
+      "Masanori Osaki",
+      "Yukihiro Jindo"
     ]
   },
   {
