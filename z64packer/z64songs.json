@@ -51225,18 +51225,17 @@
     "game": "Yakuza 0",
     "song": "Substory",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Yakuza 0/Substory.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Yakuza 0/Substory.mp3",
     "hash": "e8d4cbf67935216c5ffe4918c5820123",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.63"
+    "lufs": "-16.63",
+    "lastUpdateDate": "2026-10-22T15:08:28.699Z",
+    "composers": [
+      "Hidenori Shoji"
+    ]
   },
   {
     "uuid": "d3c52a43-999e-40c5-84e5-1905928c3dd2",
