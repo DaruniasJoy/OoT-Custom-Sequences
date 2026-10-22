@@ -49098,16 +49098,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys VI The Ark of Napishtim/Mighty Obstacle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ys VI The Ark of Napishtim/Mighty Obstacle.mp3",
     "hash": "ce603ca062cf5fca56e6436b2d538d4c",
     "lufs": "-12.32",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-22T14:26:23.366Z",
+    "composers": [
+      "Wataru Ishibashi"
     ]
   },
   {
