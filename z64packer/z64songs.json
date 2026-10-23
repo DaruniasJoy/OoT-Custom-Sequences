@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -48956,16 +48956,16 @@
       "AdultDungeon",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys III Wanderers from Ys/Valestein Castle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ys III Wanderers from Ys/Valestein Castle.mp3",
     "hash": "a07fa0d3b73d1d2c82c8212307cc9495",
     "lufs": "-13.89",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-22T14:24:48.897Z",
+    "composers": [
+      "Mieko Ishikawa"
     ]
   },
   {
@@ -49021,16 +49021,17 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys Seven/Innocent Primeval Breaker.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ys Seven/Innocent Primeval Breaker.mp3",
     "hash": "0c4ff7920b325865b0acc655d2b50a7a",
     "lufs": "-13.25",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-22T14:28:17.956Z",
+    "composers": [
+      "Masanori Osaki",
+      "Yukihiro Jindo"
     ]
   },
   {
@@ -49067,16 +49068,16 @@
       "Indoors",
       "Overworld"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys Seven/Lost Harmony Among People.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ys Seven/Lost Harmony Among People.mp3",
     "hash": "9f82413928deb7778b5a8c90098ca863",
     "lufs": "-19.97",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-22T14:29:54.489Z",
+    "composers": [
+      "Hayato Sonoda"
     ]
   },
   {
@@ -49098,16 +49099,16 @@
       "BigFight",
       "Fight"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys VI The Ark of Napishtim/Mighty Obstacle.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ys VI The Ark of Napishtim/Mighty Obstacle.mp3",
     "hash": "ce603ca062cf5fca56e6436b2d538d4c",
     "lufs": "-12.32",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-22T14:26:23.366Z",
+    "composers": [
+      "Wataru Ishibashi"
     ]
   },
   {
@@ -49149,16 +49150,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys VI The Ark of Napishtim/Release of the Far West Ocean.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ys VI The Ark of Napishtim/Release of the Far West Ocean.mp3",
     "hash": "5c6ae1098c0ebf09e8c4fb0f66674358",
     "lufs": "-10.56",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-22T14:25:47.648Z",
+    "composers": [
+      "Hayato Sonoda"
     ]
   },
   {
@@ -49200,16 +49201,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys VI The Ark of Napishtim/Windslash Steps.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Ys VI The Ark of Napishtim/Windslash Steps.mp3",
     "hash": "5c211d6680df426a9da9ec6bf005a002",
     "lufs": "-18.25",
     "converters": [
       "SeitanTaisen"
+    ],
+    "lastUpdateDate": "2026-10-22T14:26:52.079Z",
+    "composers": [
+      "Wataru Ishibashi"
     ]
   },
   {
@@ -51204,20 +51205,19 @@
     "uuid": "28861631-58df-4328-abd6-dc1bfc3bccf0",
     "creationDate": "2026-10-19T04:00:23.178Z",
     "game": "Yakuza 0",
-    "song": "Intro",
+    "song": "English Intro Theme",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
-    "file": "Yakuza 0/Intro.ootrs",
+    "file": "Yakuza 0/English Intro Theme.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Yakuza 0/Intro.mp3",
     "hash": "1615c3bf6bf4bb8debd3b621ec2e2e3c",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.37"
+    "lufs": "-16.37",
+    "lastUpdateDate": "2026-10-22T14:54:46.314Z",
+    "composers": [
+      "Hidenori Shoji"
+    ]
   },
   {
     "uuid": "0025f3a8-dcc5-466a-bf6a-4afeefa32908",
@@ -51225,18 +51225,17 @@
     "game": "Yakuza 0",
     "song": "Substory",
     "type": "bgm",
-    "categories": [],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Yakuza 0/Substory.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Yakuza 0/Substory.mp3",
     "hash": "e8d4cbf67935216c5ffe4918c5820123",
     "converters": [
       "DarknessRadio"
     ],
-    "lufs": "-16.63"
+    "lufs": "-16.63",
+    "lastUpdateDate": "2026-10-22T15:08:28.699Z",
+    "composers": [
+      "Hidenori Shoji"
+    ]
   },
   {
     "uuid": "d3c52a43-999e-40c5-84e5-1905928c3dd2",
@@ -53300,16 +53299,16 @@
       "Overworld",
       "Dungeon"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X2/Bubble Crab [2].ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X2/Bubble Crab [2].mp3",
     "hash": "77b177dd7d0975ac5c6c31d3fc42f3cc",
     "lufs": "-15.30",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-22T15:14:30.521Z",
+    "composers": [
+      "Yuki Iwai"
     ]
   },
   {
@@ -54158,16 +54157,16 @@
       "BigFanfare",
       "EventFanfare"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X6/Stage Complete X.ootrs",
     "preview": "https://archive.org/download/darunias-joy/Mega Man X6/Stage Complete X.mp3",
     "hash": "a21fa7208ea4696ca4240534a4c4e52c",
     "lufs": "-10.83",
     "converters": [
       "Kevxs"
+    ],
+    "lastUpdateDate": "2026-10-22T15:15:42.189Z",
+    "composers": [
+      "Akemi Kimura"
     ]
   },
   {
