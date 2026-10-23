@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -48966,7 +48966,11 @@
     "lastUpdateDate": "2026-10-22T14:24:48.897Z",
     "composers": [
       "Mieko Ishikawa"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "7636ca9d-a474-420e-9176-6688001450b3",
@@ -49032,7 +49036,11 @@
     "composers": [
       "Masanori Osaki",
       "Yukihiro Jindo"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "ae1823b6-2413-4bea-8cb4-da589691296a",
@@ -49078,7 +49086,11 @@
     "lastUpdateDate": "2026-10-22T14:29:54.489Z",
     "composers": [
       "Hayato Sonoda"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "029d1899-1b5a-49d5-a89e-a68bddb6c507",
@@ -49109,7 +49121,11 @@
     "lastUpdateDate": "2026-10-22T14:26:23.366Z",
     "composers": [
       "Wataru Ishibashi"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "4b7f625a-0ce1-4f2a-9d07-0ae7b02f9597",
@@ -49160,7 +49176,11 @@
     "lastUpdateDate": "2026-10-22T14:25:47.648Z",
     "composers": [
       "Hayato Sonoda"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "b8e82151-f1c7-4b90-8c03-f44a20a2a15b",
@@ -49211,7 +49231,11 @@
     "lastUpdateDate": "2026-10-22T14:26:52.079Z",
     "composers": [
       "Wataru Ishibashi"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "4a64b94c-4317-4a8e-ad81-7ec335a2edb9",
@@ -51217,7 +51241,12 @@
     "lastUpdateDate": "2026-10-22T14:54:46.314Z",
     "composers": [
       "Hidenori Shoji"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "0025f3a8-dcc5-466a-bf6a-4afeefa32908",
@@ -51235,7 +51264,12 @@
     "lastUpdateDate": "2026-10-22T15:08:28.699Z",
     "composers": [
       "Hidenori Shoji"
-    ]
+    ],
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d3c52a43-999e-40c5-84e5-1905928c3dd2",
@@ -53309,7 +53343,11 @@
     "lastUpdateDate": "2026-10-22T15:14:30.521Z",
     "composers": [
       "Yuki Iwai"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "c7d61fd7-f01f-4ef9-91d7-6e7cf416c89d",
@@ -54167,7 +54205,11 @@
     "lastUpdateDate": "2026-10-22T15:15:42.189Z",
     "composers": [
       "Akemi Kimura"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "8c662ea1-8ee6-4031-bc8b-6576e14dfc16",
