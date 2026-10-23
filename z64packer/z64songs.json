@@ -54510,8 +54510,51 @@
     "usesFormmask": false,
     "isCrossGame": false,
     "file": "Mega Man X Corrupted/Crystal Rafflar.ootrs",
-    "preview": "",
-    "hash": "652bd46795f2a8080515e2f5beede010"
+    "preview": "https://archive.org/download/darunias-joy/Mega Man X Corrupted/Crystal Raffler.mp3",
+    "hash": "652bd46795f2a8080515e2f5beede010",
+    "lufs": "-14.96",
+    "converters": [
+      "SeitanTaisen"
+    ],
+    "composers": [
+      "Dominic Ninmark"
+    ]
+  },
+  {
+    "game": "Claude Debussy",
+    "song": "Clair de Lune",
+    "composers": [
+      "Claude Debussy"
+    ],
+    "converters": [
+      "Tolin"
+    ],
+    "lufs": "-23.19",
+    "file": "Claude Debussy/Clair de Lune.ootrs",
+    "type": "bgm",
+    "preview": "Claude Debussy/Clair de Lune.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "37186790408f293f5c54796caf4833d4",
+    "categories": [
+      "FairyFountain",
+      "TempleOfTime",
+      "IceCavern",
+      "SheikTheme",
+      "ZeldaTheme",
+      "MagicalPlace",
+      "MysticalDungeon",
+      "HeroTheme",
+      "Indoors",
+      "AdultDungeon",
+      "CharacterTheme",
+      "Overworld",
+      "Dungeon"
+    ],
+    "uuid": "3d44cb8b-578a-4a7b-b9a0-9ae12d102d71",
+    "creationDate": "2026-10-23T16:21:53.157Z"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
