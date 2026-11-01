@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -54555,6 +54555,31 @@
     ],
     "uuid": "3d44cb8b-578a-4a7b-b9a0-9ae12d102d71",
     "creationDate": "2026-10-23T16:21:53.157Z"
+  },
+  {
+    "uuid": "db6990d3-21e1-4d88-a5a3-d5823b78af35",
+    "creationDate": "2026-11-01T03:59:11.354Z",
+    "game": "Plok",
+    "song": "Catching Fleas",
+    "composers": [
+      "Tim Follin",
+      "Geoff Follin"
+    ],
+    "converters": [
+      "Tolin"
+    ],
+    "lufs": "-19.24",
+    "file": "Plok/Catching Fleas.ootrs",
+    "type": "bgm\r",
+    "categories": [
+      "HyruleField",
+      "Fields",
+      "Outdoors",
+      "Overworld",
+      "Dungeon"
+    ],
+    "usesCustomBank": true,
+    "preview": "Plok/Catching Fleas.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
