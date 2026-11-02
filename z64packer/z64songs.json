@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -54570,7 +54570,7 @@
     ],
     "lufs": "-19.24",
     "file": "Plok/Catching Fleas.ootrs",
-    "type": "bgm\r",
+    "type": "bgm",
     "categories": [
       "HyruleField",
       "Fields",
@@ -54579,7 +54579,11 @@
       "Dungeon"
     ],
     "usesCustomBank": true,
-    "preview": "Plok/Catching Fleas.mp3"
+    "preview": "Plok/Catching Fleas.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "d4474661610c7a1768ab861e6b2435e3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
