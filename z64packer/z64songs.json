@@ -54640,5 +54640,29 @@
     "usesCustomBank": true,
     "preview": "Super Smash Bros. Brawl/Hidden Mountain & Forest.mp3"
   },
+  {
+    "uuid": "9564b617-07da-4937-9484-0082bd50a9b6",
+    "creationDate": "2026-11-05T20:41:30.217Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Sea Of No Return [2]",
+    "composers": [
+      "PURE SOUND Inc."
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-18.45",
+    "file": "The Legend of Zelda Oracle of Ages/Sea Of No Return [2].ootrs",
+    "type": "bgm\r",
+    "categories": [
+      "ForestTemple",
+      "WaterTemple",
+      "AncientDungeon",
+      "MysticalDungeon",
+      "AdultDungeon",
+      "Dungeon"
+    ],
+    "preview": "The Legend of Zelda Oracle of Ages/Sea Of No Return [2].mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
