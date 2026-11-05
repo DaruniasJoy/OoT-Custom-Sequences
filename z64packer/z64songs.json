@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "game": "A Hat in Time",
     "song": "A City Of Calcite And Adventure (Beta)",
@@ -54584,6 +54584,28 @@
     "usesFormmask": false,
     "isCrossGame": false,
     "hash": "d4474661610c7a1768ab861e6b2435e3"
+  },
+  {
+    "uuid": "517e4986-7e3a-4ed5-b3d2-a7fb46c5fb18",
+    "creationDate": "2026-11-05T20:24:55.353Z",
+    "game": "Mario & Luigi: Partners in Time",
+    "song": "Yoob's Belly",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-18.88",
+    "file": "Mario & Luigi Partners in Time/Yoob's Belly.ootrs",
+    "type": "bgm\r",
+    "categories": [
+      "JabuJabu",
+      "ChildDungeon",
+      "Dungeon"
+    ],
+    "usesCustomBank": true,
+    "preview": "Mario & Luigi Partners in Time/Yoob's Belly.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
