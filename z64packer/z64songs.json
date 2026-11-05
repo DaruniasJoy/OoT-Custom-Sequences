@@ -54607,5 +54607,38 @@
     "usesCustomBank": true,
     "preview": "Mario & Luigi Partners in Time/Yoob's Belly.mp3"
   },
+  {
+    "uuid": "8e57ca39-adf2-4fcc-bdc5-5e0a948e0e77",
+    "creationDate": "2026-11-05T20:28:55.310Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Hidden Mountain & Forest",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-18.56",
+    "file": "Super Smash Bros. Brawl/Hidden Mountain & Forest.ootrs",
+    "type": "bgm\r",
+    "categories": [
+      "HyruleField",
+      "LostWoods",
+      "KakarikoChild",
+      "KakarikoAdult",
+      "KokiriForest",
+      "ZeldaTheme",
+      "SheikTheme",
+      "DekuTree",
+      "Fields",
+      "Town",
+      "HeroTheme",
+      "Outdoors",
+      "Overworld",
+      "CharacterTheme"
+    ],
+    "usesCustomBank": true,
+    "preview": "Super Smash Bros. Brawl/Hidden Mountain & Forest.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
