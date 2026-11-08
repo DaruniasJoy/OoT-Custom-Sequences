@@ -19,3 +19,4 @@ jobs:
           binaries-path: 'data/Music/'
           previews-path: 'previews/'
           avatar-url: 'https://avatars.githubusercontent.com/u/54688009?v=4'
+          store-zip-on-secondary-branch: true
