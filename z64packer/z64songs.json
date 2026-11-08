@@ -54677,5 +54677,31 @@
     "isCrossGame": true,
     "hash": "5cc7b6f5d59523a71b6a91592048dc13"
   },
+  {
+    "game": "Castlevania: Aria of Sorrow",
+    "song": "Castle Corridor",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "nonea"
+    ],
+    "lufs": "-16.54",
+    "file": "Castlevania Aria of Sorrow/Castle Corridor.ootrs",
+    "preview": "Castlevania Aria of Sorrow/Castle Corridor.mp3"
+  },
+  {
+    "game": "Star Fox",
+    "song": "Fortuna",
+    "composers": [
+      "Hajime Hirasawa"
+    ],
+    "converters": [
+      "nonea"
+    ],
+    "lufs": "-18.22",
+    "file": "Star Fox/Fortuna.ootrs",
+    "preview": "Star Fox/Fortuna.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
