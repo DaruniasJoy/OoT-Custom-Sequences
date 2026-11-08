@@ -54585,5 +54585,97 @@
     "isCrossGame": false,
     "hash": "d4474661610c7a1768ab861e6b2435e3"
   },
+  {
+    "uuid": "517e4986-7e3a-4ed5-b3d2-a7fb46c5fb18",
+    "creationDate": "2026-11-05T20:24:55.353Z",
+    "game": "Mario & Luigi: Partners in Time",
+    "song": "Yoob's Belly",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-18.88",
+    "file": "Mario & Luigi Partners in Time/Yoob's Belly.ootrs",
+    "type": "bgm",
+    "categories": [
+      "JabuJabu",
+      "ChildDungeon",
+      "Dungeon"
+    ],
+    "usesCustomBank": true,
+    "preview": "Mario & Luigi Partners in Time/Yoob's Belly.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "7d49e62a4b9862af15910b5eb1702f28"
+  },
+  {
+    "uuid": "8e57ca39-adf2-4fcc-bdc5-5e0a948e0e77",
+    "creationDate": "2026-11-05T20:28:55.310Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Hidden Mountain & Forest",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-18.56",
+    "file": "Super Smash Bros. Brawl/Hidden Mountain & Forest.ootrs",
+    "type": "bgm",
+    "categories": [
+      "HyruleField",
+      "LostWoods",
+      "KakarikoChild",
+      "KakarikoAdult",
+      "KokiriForest",
+      "ZeldaTheme",
+      "SheikTheme",
+      "DekuTree",
+      "Fields",
+      "Town",
+      "HeroTheme",
+      "Outdoors",
+      "Overworld",
+      "CharacterTheme"
+    ],
+    "usesCustomBank": true,
+    "preview": "Super Smash Bros. Brawl/Hidden Mountain & Forest.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "051ab133a8624a6f64e3fa849c0cc7cc"
+  },
+  {
+    "uuid": "9564b617-07da-4937-9484-0082bd50a9b6",
+    "creationDate": "2026-11-05T20:41:30.217Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Sea Of No Return [2]",
+    "composers": [
+      "PURE SOUND Inc."
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-18.45",
+    "file": "The Legend of Zelda Oracle of Ages/Sea Of No Return [2].ootrs",
+    "type": "bgm",
+    "categories": [
+      "ForestTemple",
+      "WaterTemple",
+      "AncientDungeon",
+      "MysticalDungeon",
+      "AdultDungeon",
+      "Dungeon"
+    ],
+    "preview": "The Legend of Zelda Oracle of Ages/Sea Of No Return [2].mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "5cc7b6f5d59523a71b6a91592048dc13"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
