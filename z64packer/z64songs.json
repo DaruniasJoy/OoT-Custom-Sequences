@@ -54688,7 +54688,28 @@
     ],
     "lufs": "-16.54",
     "file": "Castlevania Aria of Sorrow/Castle Corridor.ootrs",
-    "preview": "Castlevania Aria of Sorrow/Castle Corridor.mp3"
+    "preview": "Castlevania Aria of Sorrow/Castle Corridor.mp3",
+    "type": "bgm",
+    "categories": [
+      "ForestTemple",
+      "FireTemple",
+      "WaterTemple",
+      "SpiritTemple",
+      "ShadowTemple",
+      "CastleUnderground",
+      "AncientDungeon",
+      "MysticalDungeon",
+      "SpookyDungeon",
+      "AdultDungeon",
+      "Dungeon"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "9256d4f87f88750f5f00bc858751aebe",
+    "uuid": "3ab4fe59-d3ec-4a2a-a866-b2679c158737",
+    "creationDate": "2026-11-08T02:47:20.782Z"
   },
   {
     "game": "Star Fox",
@@ -54701,7 +54722,24 @@
     ],
     "lufs": "-18.22",
     "file": "Star Fox/Fortuna.ootrs",
-    "preview": "Star Fox/Fortuna.mp3"
+    "preview": "Star Fox/Fortuna.mp3",
+    "type": "bgm",
+    "categories": [
+      "HyruleField",
+      "ShootingGallery",
+      "Fields",
+      "Fun",
+      "Outdoors",
+      "Indoors",
+      "Overworld"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "f2f2c3acb22779008e3960f1c42e8c11",
+    "uuid": "3d25c6b0-af39-4fc6-aa2b-4a11f80f7c00",
+    "creationDate": "2026-11-08T02:47:15.803Z"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
